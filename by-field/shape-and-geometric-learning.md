@@ -12,41 +12,12 @@
 
 ## A
 
-### Andrea Tagliasacchi
-
-**Simon Fraser University / Google Research** · Canada
-
-**Research:** Shape Analysis & Geometric Learning · 3D Vision & Reconstruction
-
-[Homepage ↗](https://www.andreataglia.com/) · **Profile:** A — Established leader / internationally recognized
-
-> Works across university and industry research; verify admissions
-
----
-
-### Angela Dai
-
-**Technical University of Munich** · Germany
-
-**Research:** Shape Analysis & Geometric Learning · 3D Vision & Reconstruction
-
-[Homepage ↗](https://angeladai.com/) · **Profile:** B — Core faculty / active research group
-
-> Public profile checked
-
----
-
-### Ariel Shamir
-
-**Reichman University** · Israel
-
-**Research:** Geometric Modeling & Design · Shape Analysis & Geometric Learning
-
-[Homepage ↗](https://www.cs.runi.ac.il/~amshamir/) · **Profile:** A — Established leader / internationally recognized
-
-> Verify student intake before applying
-
----
+- **[Andrea Tagliasacchi](https://www.andreataglia.com/)** · Simon Fraser University / Google Research · Canada · **A**<br>
+  Shape Analysis & Geometric Learning · 3D Vision & Reconstruction — *University / industry appointment*
+- **[Angela Dai](https://angeladai.com/)** · Technical University of Munich · Germany · **B**<br>
+  Shape Analysis & Geometric Learning · 3D Vision & Reconstruction
+- **[Ariel Shamir](https://www.cs.runi.ac.il/~amshamir/)** · Reichman University · Israel · **A**<br>
+  Geometric Modeling & Design · Shape Analysis & Geometric Learning
 
 [Back to top ↑](#top)
 
@@ -54,17 +25,8 @@
 
 ## C
 
-### Christian Theobalt
-
-**MPI for Informatics / Saarland University** · Germany
-
-**Research:** 3D Vision & Reconstruction · Shape Analysis & Geometric Learning
-
-[Homepage ↗](https://www.mpi-inf.mpg.de/~theobalt/) · **Profile:** A — Established leader / internationally recognized
-
-> Works across a research institute and university
-
----
+- **[Christian Theobalt](https://www.mpi-inf.mpg.de/~theobalt/)** · MPI for Informatics / Saarland University · Germany · **A**<br>
+  3D Vision & Reconstruction · Shape Analysis & Geometric Learning — *Institute / university appointment*
 
 [Back to top ↑](#top)
 
@@ -72,17 +34,8 @@
 
 ## D
 
-### Daniel Cohen-Or
-
-**Tel Aviv University** · Israel
-
-**Research:** Geometric Modeling & Design · Shape Analysis & Geometric Learning
-
-[Homepage ↗](https://danielcohenor.com/) · **Profile:** A — Established leader / internationally recognized
-
-> Public profile checked
-
----
+- **[Daniel Cohen-Or](https://danielcohenor.com/)** · Tel Aviv University · Israel · **A**<br>
+  Geometric Modeling & Design · Shape Analysis & Geometric Learning
 
 [Back to top ↑](#top)
 
@@ -90,17 +43,8 @@
 
 ## F
 
-### Florent Lafarge
-
-**Inria** · France
-
-**Research:** 3D Vision & Reconstruction · Shape Analysis & Geometric Learning
-
-[Homepage ↗](https://florent-lafarge.github.io/) · **Profile:** A — Established leader / internationally recognized
-
-> Research institute role rather than a standard university professorship
-
----
+- **[Florent Lafarge](https://florent-lafarge.github.io/)** · Inria · France · **A**<br>
+  3D Vision & Reconstruction · Shape Analysis & Geometric Learning — *Research institute appointment*
 
 [Back to top ↑](#top)
 
@@ -108,29 +52,10 @@
 
 ## H
 
-### Herbert Edelsbrunner
-
-**Institute of Science and Technology Austria** · Austria
-
-**Research:** Computational Geometry & Topology · Shape Analysis & Geometric Learning
-
-[Homepage ↗](https://ista.ac.at/en/research/edelsbrunner-group/) · **Profile:** A — Established leader / internationally recognized
-
-> Research group page listed
-
----
-
-### Hsueh-Ti Derek Liu
-
-**Roblox / University of British Columbia(Adjunct)** · Canada / United States
-
-**Research:** Shape Analysis & Geometric Learning · Mesh & Surface Processing
-
-[Homepage ↗](https://www.dgp.toronto.edu/~hsuehtil/) · **Profile:** C — Early-career / cross-institution researcher
-
-> Homepage lists Roblox Senior Research Scientist and UBC Adjunct Professor
-
----
+- **[Herbert Edelsbrunner](https://ista.ac.at/en/research/edelsbrunner-group/)** · Institute of Science and Technology Austria · Austria · **A**<br>
+  Computational Geometry & Topology · Shape Analysis & Geometric Learning
+- **[Hsueh-Ti Derek Liu](https://www.dgp.toronto.edu/~hsuehtil/)** · Roblox / University of British Columbia(Adjunct) · Canada / United States · **C**<br>
+  Shape Analysis & Geometric Learning · Mesh & Surface Processing — *Roblox Senior Research Scientist; UBC Adjunct*
 
 [Back to top ↑](#top)
 
@@ -138,29 +63,10 @@
 
 ## J
 
-### Jing Ren
-
-**Université de Montréal** · Canada
-
-**Research:** Shape Analysis & Geometric Learning · 3D Vision & Reconstruction
-
-[Homepage ↗](https://ren-jing.com/) · **Profile:** C — Early-career / cross-institution researcher
-
-> Early-career researcher; verify admissions before applying
-
----
-
-### Justin Solomon
-
-**MIT** · United States
-
-**Research:** Shape Analysis & Geometric Learning · Computational Geometry & Topology
-
-[Homepage ↗](https://www.csail.mit.edu/person/justin-solomon) · **Profile:** A — Established leader / internationally recognized
-
-> Verify the current appointment and admissions before applying
-
----
+- **[Jing Ren](https://ren-jing.com/)** · Université de Montréal · Canada · **C**<br>
+  Shape Analysis & Geometric Learning · 3D Vision & Reconstruction
+- **[Justin Solomon](https://www.csail.mit.edu/person/justin-solomon)** · MIT · United States · **A**<br>
+  Shape Analysis & Geometric Learning · Computational Geometry & Topology
 
 [Back to top ↑](#top)
 
@@ -168,17 +74,8 @@
 
 ## L
 
-### Leonidas Guibas
-
-**Stanford University** · United States
-
-**Research:** Computational Geometry & Topology · Shape Analysis & Geometric Learning
-
-[Homepage ↗](https://geometry.stanford.edu/member/guibas/) · **Profile:** A — Established leader / internationally recognized
-
-> Public lab page checked
-
----
+- **[Leonidas Guibas](https://geometry.stanford.edu/member/guibas/)** · Stanford University · United States · **A**<br>
+  Computational Geometry & Topology · Shape Analysis & Geometric Learning
 
 [Back to top ↑](#top)
 
@@ -186,41 +83,12 @@
 
 ## M
 
-### Maks Ovsjanikov
-
-**École Polytechnique** · France
-
-**Research:** Shape Analysis & Geometric Learning · 3D Vision & Reconstruction
-
-[Homepage ↗](https://www.lix.polytechnique.fr/~maks/) · **Profile:** A — Established leader / internationally recognized
-
-> Public profile checked
-
----
-
-### Michael Bronstein
-
-**University of Oxford** · United Kingdom
-
-**Research:** Shape Analysis & Geometric Learning · 3D Vision & Reconstruction
-
-[Homepage ↗](https://www.cs.ox.ac.uk/people/michael.bronstein/) · **Profile:** A — Established leader / internationally recognized
-
-> Moved from Imperial to Oxford; public profile checked
-
----
-
-### Michela Spagnuolo
-
-**CNR-IMATI** · Italy
-
-**Research:** Geometric Modeling & Design · Shape Analysis & Geometric Learning
-
-[Homepage ↗](https://www.imati.cnr.it/people/michela-spagnuolo/) · **Profile:** A — Established leader / internationally recognized
-
-> Research institute role rather than a standard university professorship
-
----
+- **[Maks Ovsjanikov](https://www.lix.polytechnique.fr/~maks/)** · École Polytechnique · France · **A**<br>
+  Shape Analysis & Geometric Learning · 3D Vision & Reconstruction
+- **[Michael Bronstein](https://www.cs.ox.ac.uk/people/michael.bronstein/)** · University of Oxford · United Kingdom · **A**<br>
+  Shape Analysis & Geometric Learning · 3D Vision & Reconstruction — *Previously at Imperial*
+- **[Michela Spagnuolo](https://www.imati.cnr.it/people/michela-spagnuolo/)** · CNR-IMATI · Italy · **A**<br>
+  Geometric Modeling & Design · Shape Analysis & Geometric Learning — *Research institute appointment*
 
 [Back to top ↑](#top)
 
@@ -228,17 +96,8 @@
 
 ## N
 
-### Niloy Mitra
-
-**University College London** · United Kingdom
-
-**Research:** Shape Analysis & Geometric Learning · Geometric Modeling & Design
-
-[Homepage ↗](https://geometry.cs.ucl.ac.uk/people/) · **Profile:** A — Established leader / internationally recognized
-
-> Public lab page checked
-
----
+- **[Niloy Mitra](https://geometry.cs.ucl.ac.uk/people/)** · University College London · United Kingdom · **A**<br>
+  Shape Analysis & Geometric Learning · Geometric Modeling & Design
 
 [Back to top ↑](#top)
 
@@ -246,29 +105,10 @@
 
 ## P
 
-### Peng-Shuai Wang
-
-**Peking University** · China
-
-**Research:** Shape Analysis & Geometric Learning · 3D Vision & Reconstruction
-
-[Homepage ↗](https://wang-ps.github.io/) · **Profile:** B — Core faculty / active research group
-
-> Search results identify an assistant professor at Peking University; verify before applying
-
----
-
-### Peter Wonka
-
-**KAUST** · Saudi Arabia
-
-**Research:** Geometric Modeling & Design · Shape Analysis & Geometric Learning
-
-[Homepage ↗](https://peterwonka.net/) · **Profile:** A — Established leader / internationally recognized
-
-> Public profile checked
-
----
+- **[Peng-Shuai Wang](https://wang-ps.github.io/)** · Peking University · China · **B**<br>
+  Shape Analysis & Geometric Learning · 3D Vision & Reconstruction — *PKU appointment needs verification*
+- **[Peter Wonka](https://peterwonka.net/)** · KAUST · Saudi Arabia · **A**<br>
+  Geometric Modeling & Design · Shape Analysis & Geometric Learning
 
 [Back to top ↑](#top)
 
@@ -276,17 +116,8 @@
 
 ## Q
 
-### Qixing Huang
-
-**University of Texas at Austin** · United States
-
-**Research:** Shape Analysis & Geometric Learning · 3D Vision & Reconstruction
-
-[Homepage ↗](https://qixinghuang.github.io/) · **Profile:** A — Established leader / internationally recognized
-
-> Public profile checked
-
----
+- **[Qixing Huang](https://qixinghuang.github.io/)** · University of Texas at Austin · United States · **A**<br>
+  Shape Analysis & Geometric Learning · 3D Vision & Reconstruction
 
 [Back to top ↑](#top)
 
@@ -294,17 +125,8 @@
 
 ## R
 
-### Renjie Chen
-
-**University of Science and Technology of China** · China
-
-**Research:** Mesh & Surface Processing · Shape Analysis & Geometric Learning
-
-[Homepage ↗](https://ustc-gcl-f.github.io/) · **Profile:** B — Core faculty / active research group
-
-> Public lab page checked
-
----
+- **[Renjie Chen](https://ustc-gcl-f.github.io/)** · University of Science and Technology of China · China · **B**<br>
+  Mesh & Surface Processing · Shape Analysis & Geometric Learning
 
 [Back to top ↑](#top)
 
@@ -312,17 +134,8 @@
 
 ## S
 
-### Siddhartha Chaudhuri
-
-**IIT Bombay** · India
-
-**Research:** Geometric Modeling & Design · Shape Analysis & Geometric Learning
-
-[Homepage ↗](https://www.cse.iitb.ac.in/~siddhartha/) · **Profile:** B — Core faculty / active research group
-
-> Verify the current appointment and admissions before applying
-
----
+- **[Siddhartha Chaudhuri](https://www.cse.iitb.ac.in/~siddhartha/)** · IIT Bombay · India · **B**<br>
+  Geometric Modeling & Design · Shape Analysis & Geometric Learning
 
 [Back to top ↑](#top)
 
@@ -330,17 +143,8 @@
 
 ## T
 
-### Thomas Funkhouser
-
-**Princeton University** · United States
-
-**Research:** Shape Analysis & Geometric Learning · 3D Vision & Reconstruction
-
-[Homepage ↗](https://www.cs.princeton.edu/~funk/) · **Profile:** A — Established leader / internationally recognized
-
-> Verify the current appointment and admissions before applying
-
----
+- **[Thomas Funkhouser](https://www.cs.princeton.edu/~funk/)** · Princeton University · United States · **A**<br>
+  Shape Analysis & Geometric Learning · 3D Vision & Reconstruction
 
 [Back to top ↑](#top)
 
@@ -348,17 +152,8 @@
 
 ## X
 
-### Xianfeng David Gu
-
-**Stony Brook University** · United States
-
-**Research:** Discrete Geometry · Shape Analysis & Geometric Learning
-
-[Homepage ↗](https://www3.cs.stonybrook.edu/~gu/) · **Profile:** A — Established leader / internationally recognized
-
-> Public profile checked
-
----
+- **[Xianfeng David Gu](https://www3.cs.stonybrook.edu/~gu/)** · Stony Brook University · United States · **A**<br>
+  Discrete Geometry · Shape Analysis & Geometric Learning
 
 [Back to top ↑](#top)
 
@@ -366,28 +161,9 @@
 
 ## Y
 
-### Yaron Lipman
-
-**Weizmann Institute of Science** · Israel
-
-**Research:** Shape Analysis & Geometric Learning · Mesh & Surface Processing
-
-[Homepage ↗](https://www.wisdom.weizmann.ac.il/~ylipman/) · **Profile:** A — Established leader / internationally recognized
-
-> Public profile checked
-
----
-
-### Ying He
-
-**Nanyang Technological University** · Singapore
-
-**Research:** Shape Analysis & Geometric Learning · 3D Vision & Reconstruction
-
-[Homepage ↗](https://www.ntu.edu.sg/scse/about-us/faculty-directory/ying-he) · **Profile:** A — Established leader / internationally recognized
-
-> Department profile listed
-
----
+- **[Yaron Lipman](https://www.wisdom.weizmann.ac.il/~ylipman/)** · Weizmann Institute of Science · Israel · **A**<br>
+  Shape Analysis & Geometric Learning · Mesh & Surface Processing
+- **[Ying He](https://www.ntu.edu.sg/scse/about-us/faculty-directory/ying-he)** · Nanyang Technological University · Singapore · **A**<br>
+  Shape Analysis & Geometric Learning · 3D Vision & Reconstruction
 
 [Back to top ↑](#top)

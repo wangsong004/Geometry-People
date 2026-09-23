@@ -12,65 +12,16 @@
 
 ## Austria
 
-### Felix Dellinger
-
-**TU Wien** · Austria
-
-**Research:** Discrete Geometry · Mesh & Surface Processing
-
-[Homepage ↗](https://www.tuwien.at/en/mc/geometry-and-computer-graphics/people/felix-dellinger) · **Profile:** C — Early-career / cross-institution researcher
-
-> Early-career researcher; verify admissions before applying
-
----
-
-### Herbert Edelsbrunner
-
-**Institute of Science and Technology Austria** · Austria
-
-**Research:** Computational Geometry & Topology · Shape Analysis & Geometric Learning
-
-[Homepage ↗](https://ista.ac.at/en/research/edelsbrunner-group/) · **Profile:** A — Established leader / internationally recognized
-
-> Research group page listed
-
----
-
-### Johannes Wallner
-
-**TU Graz** · Austria
-
-**Research:** Discrete Geometry · Geometric Modeling & Design
-
-[Homepage ↗](https://www.geometrie.tugraz.at/wallner/) · **Profile:** A — Established leader / internationally recognized
-
-> Public profile checked
-
----
-
-### Michael Wimmer
-
-**TU Wien** · Austria
-
-**Research:** Visualization & Rendering · Mesh & Surface Processing
-
-[Homepage ↗](https://www.cg.tuwien.ac.at/staff/MichaelWimmer.html) · **Profile:** A — Established leader / internationally recognized
-
-> Department profile listed
-
----
-
-### Niklas Affolter
-
-**TU Wien** · Austria
-
-**Research:** Discrete Geometry · Mesh & Surface Processing
-
-[Homepage ↗](https://www.tuwien.at/en/mc/geometry-and-computer-graphics/people/niklas-affolter) · **Profile:** C — Early-career / cross-institution researcher
-
-> Early-career researcher; verify admissions before applying
-
----
+- **[Felix Dellinger](https://www.tuwien.at/en/mc/geometry-and-computer-graphics/people/felix-dellinger)** · TU Wien · Austria · **C**<br>
+  Discrete Geometry · Mesh & Surface Processing
+- **[Herbert Edelsbrunner](https://ista.ac.at/en/research/edelsbrunner-group/)** · Institute of Science and Technology Austria · Austria · **A**<br>
+  Computational Geometry & Topology · Shape Analysis & Geometric Learning
+- **[Johannes Wallner](https://www.geometrie.tugraz.at/wallner/)** · TU Graz · Austria · **A**<br>
+  Discrete Geometry · Geometric Modeling & Design
+- **[Michael Wimmer](https://www.cg.tuwien.ac.at/staff/MichaelWimmer.html)** · TU Wien · Austria · **A**<br>
+  Visualization & Rendering · Mesh & Surface Processing
+- **[Niklas Affolter](https://www.tuwien.at/en/mc/geometry-and-computer-graphics/people/niklas-affolter)** · TU Wien · Austria · **C**<br>
+  Discrete Geometry · Mesh & Surface Processing
 
 [Back to top ↑](#top)
 
@@ -78,113 +29,24 @@
 
 ## France
 
-### Bruno Lévy
-
-**Inria** · France
-
-**Research:** Mesh & Surface Processing · Computational Geometry & Topology
-
-[Homepage ↗](https://brunolevy.github.io/) · **Profile:** A — Established leader / internationally recognized
-
-> Research institute role rather than a standard university professorship
-
----
-
-### Florent Lafarge
-
-**Inria** · France
-
-**Research:** 3D Vision & Reconstruction · Shape Analysis & Geometric Learning
-
-[Homepage ↗](https://florent-lafarge.github.io/) · **Profile:** A — Established leader / internationally recognized
-
-> Research institute role rather than a standard university professorship
-
----
-
-### Maks Ovsjanikov
-
-**École Polytechnique** · France
-
-**Research:** Shape Analysis & Geometric Learning · 3D Vision & Reconstruction
-
-[Homepage ↗](https://www.lix.polytechnique.fr/~maks/) · **Profile:** A — Established leader / internationally recognized
-
-> Public profile checked
-
----
-
-### Marie-Paule Cani
-
-**École Polytechnique / Inria** · France
-
-**Research:** Geometric Modeling & Design · Simulation & Animation
-
-[Homepage ↗](https://www.lix.polytechnique.fr/Labo/Marie-Paule.Cani/) · **Profile:** A — Established leader / internationally recognized
-
-> Public profile checked
-
----
-
-### Nicolas Bonneel
-
-**Université Claude Bernard Lyon 1 / CNRS** · France
-
-**Research:** Visualization & Rendering · 3D Vision & Reconstruction
-
-[Homepage ↗](https://nicolas.bonneel.org/) · **Profile:** B — Core faculty / active research group
-
-> Public profile checked
-
----
-
-### Pierre Alliez
-
-**Inria / Université Côte d’Azur** · France
-
-**Research:** Mesh & Surface Processing · Computational Geometry & Topology
-
-[Homepage ↗](https://team.inria.fr/geometrica/members/pierre-alliez/) · **Profile:** A — Established leader / internationally recognized
-
-> Research institute role rather than a standard university professorship
-
----
-
-### Renaud Keriven
-
-**École des Ponts ParisTech / Inria** · France
-
-**Research:** Mesh & Surface Processing · 3D Vision & Reconstruction
-
-[Homepage ↗](https://www.enpc.fr/renaud-keriven) · **Profile:** A — Established leader / internationally recognized
-
-> Verify the current appointment and admissions before applying
-
----
-
-### Sylvain Lefebvre
-
-**Inria** · France
-
-**Research:** Geometric Modeling & Design · Mesh & Surface Processing
-
-[Homepage ↗](https://www-sop.inria.fr/reves/Basilic/people/Sylvain.Lefebvre/) · **Profile:** A — Established leader / internationally recognized
-
-> Research institute role rather than a standard university professorship
-
----
-
-### Tamy Boubekeur
-
-**Télécom Paris** · France
-
-**Research:** Geometric Modeling & Design · Mesh & Surface Processing
-
-[Homepage ↗](https://perso.telecom-paristech.fr/boubek/) · **Profile:** B — Core faculty / active research group
-
-> Older personal page; verify before applying
-
----
+- **[Bruno Lévy](https://brunolevy.github.io/)** · Inria · France · **A**<br>
+  Mesh & Surface Processing · Computational Geometry & Topology — *Research institute appointment*
+- **[Florent Lafarge](https://florent-lafarge.github.io/)** · Inria · France · **A**<br>
+  3D Vision & Reconstruction · Shape Analysis & Geometric Learning — *Research institute appointment*
+- **[Maks Ovsjanikov](https://www.lix.polytechnique.fr/~maks/)** · École Polytechnique · France · **A**<br>
+  Shape Analysis & Geometric Learning · 3D Vision & Reconstruction
+- **[Marie-Paule Cani](https://www.lix.polytechnique.fr/Labo/Marie-Paule.Cani/)** · École Polytechnique / Inria · France · **A**<br>
+  Geometric Modeling & Design · Simulation & Animation
+- **[Nicolas Bonneel](https://nicolas.bonneel.org/)** · Université Claude Bernard Lyon 1 / CNRS · France · **B**<br>
+  Visualization & Rendering · 3D Vision & Reconstruction
+- **[Pierre Alliez](https://team.inria.fr/geometrica/members/pierre-alliez/)** · Inria / Université Côte d’Azur · France · **A**<br>
+  Mesh & Surface Processing · Computational Geometry & Topology — *Research institute appointment*
+- **[Renaud Keriven](https://www.enpc.fr/renaud-keriven)** · École des Ponts ParisTech / Inria · France · **A**<br>
+  Mesh & Surface Processing · 3D Vision & Reconstruction
+- **[Sylvain Lefebvre](https://www-sop.inria.fr/reves/Basilic/people/Sylvain.Lefebvre/)** · Inria · France · **A**<br>
+  Geometric Modeling & Design · Mesh & Surface Processing — *Research institute appointment*
+- **[Tamy Boubekeur](https://perso.telecom-paristech.fr/boubek/)** · Télécom Paris · France · **B**<br>
+  Geometric Modeling & Design · Mesh & Surface Processing — *Older homepage; verify appointment*
 
 [Back to top ↑](#top)
 
@@ -192,173 +54,34 @@
 
 ## Germany
 
-### Alexander Bobenko
-
-**TU Berlin** · Germany
-
-**Research:** Discrete Geometry · Mesh & Surface Processing
-
-[Homepage ↗](https://page.math.tu-berlin.de/~bobenko/) · **Profile:** A — Established leader / internationally recognized
-
-> Public profile checked
-
----
-
-### Angela Dai
-
-**Technical University of Munich** · Germany
-
-**Research:** Shape Analysis & Geometric Learning · 3D Vision & Reconstruction
-
-[Homepage ↗](https://angeladai.com/) · **Profile:** B — Core faculty / active research group
-
-> Public profile checked
-
----
-
-### Boris Springborn
-
-**TU Berlin** · Germany
-
-**Research:** Discrete Geometry · Mesh & Surface Processing
-
-[Homepage ↗](https://page.math.tu-berlin.de/~springb/) · **Profile:** A — Established leader / internationally recognized
-
-> Public profile checked
-
----
-
-### Christian Theobalt
-
-**MPI for Informatics / Saarland University** · Germany
-
-**Research:** 3D Vision & Reconstruction · Shape Analysis & Geometric Learning
-
-[Homepage ↗](https://www.mpi-inf.mpg.de/~theobalt/) · **Profile:** A — Established leader / internationally recognized
-
-> Works across a research institute and university
-
----
-
-### Christoph Garth
-
-**RPTU Kaiserslautern-Landau** · Germany
-
-**Research:** Visualization & Rendering · Computational Geometry & Topology
-
-[Homepage ↗](https://www.cs.uni-kl.de/en/people/garth) · **Profile:** B — Core faculty / active research group
-
-> Verify the current appointment and admissions before applying
-
----
-
-### Holger Theisel
-
-**Otto von Guericke University Magdeburg** · Germany
-
-**Research:** Visualization & Rendering · Mesh & Surface Processing
-
-[Homepage ↗](https://wwwisg.cs.uni-magdeburg.de/visual/people/theisel/) · **Profile:** A — Established leader / internationally recognized
-
-> Public profile checked
-
----
-
-### Jan Bender
-
-**RWTH Aachen University** · Germany
-
-**Research:** Simulation & Animation · Mesh & Surface Processing
-
-[Homepage ↗](https://www.janbender.de/) · **Profile:** A — Established leader / internationally recognized
-
-> Verify the current appointment and admissions before applying
-
----
-
-### Konrad Polthier
-
-**Freie Universität Berlin** · Germany
-
-**Research:** Discrete Geometry · Visualization & Rendering
-
-[Homepage ↗](https://page.math.tu-berlin.de/~polthier/) · **Profile:** A — Established leader / internationally recognized
-
-> Verify the current appointment and admissions before applying
-
----
-
-### Leif Kobbelt
-
-**RWTH Aachen University** · Germany
-
-**Research:** Mesh & Surface Processing · Geometric Modeling & Design
-
-[Homepage ↗](https://www.graphics.rwth-aachen.de/) · **Profile:** A — Established leader / internationally recognized
-
-> Verify the current appointment and admissions before applying
-
----
-
-### Marc Alexa
-
-**TU Berlin** · Germany
-
-**Research:** Mesh & Surface Processing · Geometric Modeling & Design
-
-[Homepage ↗](https://www.cg.tu-berlin.de/people/marc-alexa) · **Profile:** A — Established leader / internationally recognized
-
-> Department profile listed
-
----
-
-### Mario Botsch
-
-**TU Dortmund University** · Germany
-
-**Research:** Mesh & Surface Processing · Geometric Modeling & Design
-
-[Homepage ↗](https://cg.cs.tu-dortmund.de/) · **Profile:** A — Established leader / internationally recognized
-
-> Public lab page checked
-
----
-
-### Martin Rumpf
-
-**University of Bonn** · Germany
-
-**Research:** Discrete Geometry · Computational Geometry & Topology
-
-[Homepage ↗](https://www.ins.uni-bonn.de/people/rumpf/) · **Profile:** A — Established leader / internationally recognized
-
-> Department profile listed
-
----
-
-### Matthias Teschner
-
-**University of Freiburg** · Germany
-
-**Research:** Simulation & Animation · Mesh & Surface Processing
-
-[Homepage ↗](https://cg.informatik.uni-freiburg.de/people/teschner.htm) · **Profile:** A — Established leader / internationally recognized
-
-> Department profile listed
-
----
-
-### Rüdiger Westermann
-
-**Technical University of Munich** · Germany
-
-**Research:** Visualization & Rendering · Computational Geometry & Topology
-
-[Homepage ↗](https://www.cs.cit.tum.de/en/people/ruediger-westermann/) · **Profile:** A — Established leader / internationally recognized
-
-> Department profile listed
-
----
+- **[Alexander Bobenko](https://page.math.tu-berlin.de/~bobenko/)** · TU Berlin · Germany · **A**<br>
+  Discrete Geometry · Mesh & Surface Processing
+- **[Angela Dai](https://angeladai.com/)** · Technical University of Munich · Germany · **B**<br>
+  Shape Analysis & Geometric Learning · 3D Vision & Reconstruction
+- **[Boris Springborn](https://page.math.tu-berlin.de/~springb/)** · TU Berlin · Germany · **A**<br>
+  Discrete Geometry · Mesh & Surface Processing
+- **[Christian Theobalt](https://www.mpi-inf.mpg.de/~theobalt/)** · MPI for Informatics / Saarland University · Germany · **A**<br>
+  3D Vision & Reconstruction · Shape Analysis & Geometric Learning — *Institute / university appointment*
+- **[Christoph Garth](https://www.cs.uni-kl.de/en/people/garth)** · RPTU Kaiserslautern-Landau · Germany · **B**<br>
+  Visualization & Rendering · Computational Geometry & Topology
+- **[Holger Theisel](https://wwwisg.cs.uni-magdeburg.de/visual/people/theisel/)** · Otto von Guericke University Magdeburg · Germany · **A**<br>
+  Visualization & Rendering · Mesh & Surface Processing
+- **[Jan Bender](https://www.janbender.de/)** · RWTH Aachen University · Germany · **A**<br>
+  Simulation & Animation · Mesh & Surface Processing
+- **[Konrad Polthier](https://page.math.tu-berlin.de/~polthier/)** · Freie Universität Berlin · Germany · **A**<br>
+  Discrete Geometry · Visualization & Rendering
+- **[Leif Kobbelt](https://www.graphics.rwth-aachen.de/)** · RWTH Aachen University · Germany · **A**<br>
+  Mesh & Surface Processing · Geometric Modeling & Design
+- **[Marc Alexa](https://www.cg.tu-berlin.de/people/marc-alexa)** · TU Berlin · Germany · **A**<br>
+  Mesh & Surface Processing · Geometric Modeling & Design
+- **[Mario Botsch](https://cg.cs.tu-dortmund.de/)** · TU Dortmund University · Germany · **A**<br>
+  Mesh & Surface Processing · Geometric Modeling & Design
+- **[Martin Rumpf](https://www.ins.uni-bonn.de/people/rumpf/)** · University of Bonn · Germany · **A**<br>
+  Discrete Geometry · Computational Geometry & Topology
+- **[Matthias Teschner](https://cg.informatik.uni-freiburg.de/people/teschner.htm)** · University of Freiburg · Germany · **A**<br>
+  Simulation & Animation · Mesh & Surface Processing
+- **[Rüdiger Westermann](https://www.cs.cit.tum.de/en/people/ruediger-westermann/)** · Technical University of Munich · Germany · **A**<br>
+  Visualization & Rendering · Computational Geometry & Topology
 
 [Back to top ↑](#top)
 
@@ -366,77 +89,18 @@
 
 ## Italy
 
-### Enrico Puppo
-
-**University of Genoa** · Italy
-
-**Research:** Mesh & Surface Processing · 3D Vision & Reconstruction
-
-[Homepage ↗](http://www.disi.unige.it/person/PuppoE/) · **Profile:** B — Core faculty / active research group
-
-> Public profile checked
-
----
-
-### Marco Attene
-
-**CNR-IMATI** · Italy
-
-**Research:** Mesh & Surface Processing · Computational Geometry & Topology
-
-[Homepage ↗](https://www.cnr.it/en/people/marco.attene) · **Profile:** A — Established leader / internationally recognized
-
-> Research institute role rather than a standard university professorship
-
----
-
-### Marco Livesu
-
-**University of Cagliari / CNR** · Italy
-
-**Research:** Mesh & Surface Processing · Computational Geometry & Topology
-
-[Homepage ↗](https://www.imit.ge.cnr.it/People/Livesu/) · **Profile:** B — Core faculty / active research group
-
-> Homepage may be unstable; verify before applying
-
----
-
-### Marco Tarini
-
-**University of Milan** · Italy
-
-**Research:** Mesh & Surface Processing · Visualization & Rendering
-
-[Homepage ↗](https://tarini.di.unimi.it/) · **Profile:** B — Core faculty / active research group
-
-> Public profile checked
-
----
-
-### Michela Spagnuolo
-
-**CNR-IMATI** · Italy
-
-**Research:** Geometric Modeling & Design · Shape Analysis & Geometric Learning
-
-[Homepage ↗](https://www.imati.cnr.it/people/michela-spagnuolo/) · **Profile:** A — Established leader / internationally recognized
-
-> Research institute role rather than a standard university professorship
-
----
-
-### Paolo Cignoni
-
-**CNR-ISTI / University of Pisa** · Italy
-
-**Research:** Mesh & Surface Processing · Visualization & Rendering
-
-[Homepage ↗](https://vcg.isti.cnr.it/~cignoni/) · **Profile:** A — Established leader / internationally recognized
-
-> Research institute role rather than a standard university professorship
-
----
+- **[Enrico Puppo](http://www.disi.unige.it/person/PuppoE/)** · University of Genoa · Italy · **B**<br>
+  Mesh & Surface Processing · 3D Vision & Reconstruction
+- **[Marco Attene](https://www.cnr.it/en/people/marco.attene)** · CNR-IMATI · Italy · **A**<br>
+  Mesh & Surface Processing · Computational Geometry & Topology — *Research institute appointment*
+- **[Marco Livesu](https://www.imit.ge.cnr.it/People/Livesu/)** · University of Cagliari / CNR · Italy · **B**<br>
+  Mesh & Surface Processing · Computational Geometry & Topology — *Website access may be unreliable*
+- **[Marco Tarini](https://tarini.di.unimi.it/)** · University of Milan · Italy · **B**<br>
+  Mesh & Surface Processing · Visualization & Rendering
+- **[Michela Spagnuolo](https://www.imati.cnr.it/people/michela-spagnuolo/)** · CNR-IMATI · Italy · **A**<br>
+  Geometric Modeling & Design · Shape Analysis & Geometric Learning — *Research institute appointment*
+- **[Paolo Cignoni](https://vcg.isti.cnr.it/~cignoni/)** · CNR-ISTI / University of Pisa · Italy · **A**<br>
+  Mesh & Surface Processing · Visualization & Rendering — *Research institute appointment*
 
 [Back to top ↑](#top)
 
@@ -444,17 +108,8 @@
 
 ## Netherlands
 
-### Klaus Hildebrandt
-
-**TU Delft** · Netherlands
-
-**Research:** Mesh & Surface Processing · Geometric Modeling & Design
-
-[Homepage ↗](https://graphics.tudelft.nl/~klaus/) · **Profile:** A — Established leader / internationally recognized
-
-> Verify the current appointment and admissions before applying
-
----
+- **[Klaus Hildebrandt](https://graphics.tudelft.nl/~klaus/)** · TU Delft · Netherlands · **A**<br>
+  Mesh & Surface Processing · Geometric Modeling & Design
 
 [Back to top ↑](#top)
 
@@ -462,17 +117,8 @@
 
 ## Sweden
 
-### Tino Weinkauf
-
-**KTH Royal Institute of Technology** · Sweden
-
-**Research:** Visualization & Rendering · Computational Geometry & Topology
-
-[Homepage ↗](https://www.csc.kth.se/~weinkauf/) · **Profile:** A — Established leader / internationally recognized
-
-> Verify the current appointment and admissions before applying
-
----
+- **[Tino Weinkauf](https://www.csc.kth.se/~weinkauf/)** · KTH Royal Institute of Technology · Sweden · **A**<br>
+  Visualization & Rendering · Computational Geometry & Topology
 
 [Back to top ↑](#top)
 
@@ -480,65 +126,16 @@
 
 ## Switzerland
 
-### Bernd Bickel
-
-**ETH Zurich** · Switzerland
-
-**Research:** Geometric Modeling & Design · Simulation & Animation
-
-[Homepage ↗](https://berndbickel.com/) · **Profile:** A — Established leader / internationally recognized
-
-> Homepage says he has been a full professor of computational design at ETH since 2024
-
----
-
-### Marc Pollefeys
-
-**ETH Zurich** · Switzerland
-
-**Research:** 3D Vision & Reconstruction · Computational Geometry & Topology
-
-[Homepage ↗](https://cvg.ethz.ch/people/pollefeys/) · **Profile:** A — Established leader / internationally recognized
-
-> Public lab page checked
-
----
-
-### Mark Pauly
-
-**EPFL** · Switzerland
-
-**Research:** Geometric Modeling & Design · Mesh & Surface Processing
-
-[Homepage ↗](https://www.epfl.ch/labs/gcm/) · **Profile:** A — Established leader / internationally recognized
-
-> Public lab page checked
-
----
-
-### Olga Sorkine-Hornung
-
-**ETH Zurich** · Switzerland
-
-**Research:** Mesh & Surface Processing · Geometric Modeling & Design
-
-[Homepage ↗](https://igl.ethz.ch/people/sorkine/) · **Profile:** A — Established leader / internationally recognized
-
-> Public profile checked
-
----
-
-### Wenzel Jakob
-
-**EPFL** · Switzerland
-
-**Research:** Visualization & Rendering · Geometric Modeling & Design
-
-[Homepage ↗](https://rgl.epfl.ch/people/wjakob/) · **Profile:** A — Established leader / internationally recognized
-
-> Primarily focused on rendering and geometric representations
-
----
+- **[Bernd Bickel](https://berndbickel.com/)** · ETH Zurich · Switzerland · **A**<br>
+  Geometric Modeling & Design · Simulation & Animation — *ETH Professor of Computational Design since 2024*
+- **[Marc Pollefeys](https://cvg.ethz.ch/people/pollefeys/)** · ETH Zurich · Switzerland · **A**<br>
+  3D Vision & Reconstruction · Computational Geometry & Topology
+- **[Mark Pauly](https://www.epfl.ch/labs/gcm/)** · EPFL · Switzerland · **A**<br>
+  Geometric Modeling & Design · Mesh & Surface Processing
+- **[Olga Sorkine-Hornung](https://igl.ethz.ch/people/sorkine/)** · ETH Zurich · Switzerland · **A**<br>
+  Mesh & Surface Processing · Geometric Modeling & Design
+- **[Wenzel Jakob](https://rgl.epfl.ch/people/wjakob/)** · EPFL · Switzerland · **A**<br>
+  Visualization & Rendering · Geometric Modeling & Design — *Focus: rendering and geometric representations*
 
 [Back to top ↑](#top)
 
@@ -546,40 +143,11 @@
 
 ## United Kingdom
 
-### Alexander Belyaev
-
-**Heriot-Watt University** · United Kingdom
-
-**Research:** Mesh & Surface Processing · Discrete Geometry
-
-[Homepage ↗](https://researchportal.hw.ac.uk/en/persons/alexander-belyaev/) · **Profile:** B — Core faculty / active research group
-
-> Research portal lists an Associate Professor appointment
-
----
-
-### Michael Bronstein
-
-**University of Oxford** · United Kingdom
-
-**Research:** Shape Analysis & Geometric Learning · 3D Vision & Reconstruction
-
-[Homepage ↗](https://www.cs.ox.ac.uk/people/michael.bronstein/) · **Profile:** A — Established leader / internationally recognized
-
-> Moved from Imperial to Oxford; public profile checked
-
----
-
-### Niloy Mitra
-
-**University College London** · United Kingdom
-
-**Research:** Shape Analysis & Geometric Learning · Geometric Modeling & Design
-
-[Homepage ↗](https://geometry.cs.ucl.ac.uk/people/) · **Profile:** A — Established leader / internationally recognized
-
-> Public lab page checked
-
----
+- **[Alexander Belyaev](https://researchportal.hw.ac.uk/en/persons/alexander-belyaev/)** · Heriot-Watt University · United Kingdom · **B**<br>
+  Mesh & Surface Processing · Discrete Geometry — *Associate Professor*
+- **[Michael Bronstein](https://www.cs.ox.ac.uk/people/michael.bronstein/)** · University of Oxford · United Kingdom · **A**<br>
+  Shape Analysis & Geometric Learning · 3D Vision & Reconstruction — *Previously at Imperial*
+- **[Niloy Mitra](https://geometry.cs.ucl.ac.uk/people/)** · University College London · United Kingdom · **A**<br>
+  Shape Analysis & Geometric Learning · Geometric Modeling & Design
 
 [Back to top ↑](#top)

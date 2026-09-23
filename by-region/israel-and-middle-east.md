@@ -12,65 +12,16 @@
 
 ## Israel
 
-### Ariel Shamir
-
-**Reichman University** · Israel
-
-**Research:** Geometric Modeling & Design · Shape Analysis & Geometric Learning
-
-[Homepage ↗](https://www.cs.runi.ac.il/~amshamir/) · **Profile:** A — Established leader / internationally recognized
-
-> Verify student intake before applying
-
----
-
-### Daniel Cohen-Or
-
-**Tel Aviv University** · Israel
-
-**Research:** Geometric Modeling & Design · Shape Analysis & Geometric Learning
-
-[Homepage ↗](https://danielcohenor.com/) · **Profile:** A — Established leader / internationally recognized
-
-> Public profile checked
-
----
-
-### Gershon Elber
-
-**Technion** · Israel
-
-**Research:** Geometric Modeling & Design · Mesh & Surface Processing
-
-[Homepage ↗](https://www.cs.technion.ac.il/~gershon/) · **Profile:** A — Established leader / internationally recognized
-
-> Public profile checked
-
----
-
-### Mirela Ben-Chen
-
-**Technion** · Israel
-
-**Research:** Discrete Geometry · Mesh & Surface Processing
-
-[Homepage ↗](https://mirela.net.technion.ac.il/) · **Profile:** A — Established leader / internationally recognized
-
-> Verify the current appointment and admissions before applying
-
----
-
-### Yaron Lipman
-
-**Weizmann Institute of Science** · Israel
-
-**Research:** Shape Analysis & Geometric Learning · Mesh & Surface Processing
-
-[Homepage ↗](https://www.wisdom.weizmann.ac.il/~ylipman/) · **Profile:** A — Established leader / internationally recognized
-
-> Public profile checked
-
----
+- **[Ariel Shamir](https://www.cs.runi.ac.il/~amshamir/)** · Reichman University · Israel · **A**<br>
+  Geometric Modeling & Design · Shape Analysis & Geometric Learning
+- **[Daniel Cohen-Or](https://danielcohenor.com/)** · Tel Aviv University · Israel · **A**<br>
+  Geometric Modeling & Design · Shape Analysis & Geometric Learning
+- **[Gershon Elber](https://www.cs.technion.ac.il/~gershon/)** · Technion · Israel · **A**<br>
+  Geometric Modeling & Design · Mesh & Surface Processing
+- **[Mirela Ben-Chen](https://mirela.net.technion.ac.il/)** · Technion · Israel · **A**<br>
+  Discrete Geometry · Mesh & Surface Processing
+- **[Yaron Lipman](https://www.wisdom.weizmann.ac.il/~ylipman/)** · Weizmann Institute of Science · Israel · **A**<br>
+  Shape Analysis & Geometric Learning · Mesh & Surface Processing
 
 [Back to top ↑](#top)
 
@@ -78,16 +29,7 @@
 
 ## Israel / United States
 
-### Oded Stein
-
-**Technion / USC** · Israel / United States
-
-**Research:** Discrete Geometry · Mesh & Surface Processing · Computational Geometry & Topology
-
-[Homepage ↗](https://odedstein.com/) · **Profile:** C — Early-career / cross-institution researcher
-
-> Homepage lists USC Assistant Professor and Technion Senior Lecturer (2026)
-
----
+- **[Oded Stein](https://odedstein.com/)** · Technion / USC · Israel / United States · **C**<br>
+  Discrete Geometry · Mesh & Surface Processing · Computational Geometry & Topology — *USC Assistant Professor; Technion Senior Lecturer (2026)*
 
 [Back to top ↑](#top)

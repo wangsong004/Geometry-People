@@ -2,9 +2,9 @@
 
 ## Directory structure
 
-- people/all.md contains every researcher as a profile card.
-- by-region/ groups cards by region.
-- by-field/ groups cards by research area. Cross-disciplinary researchers appear in multiple files.
+- people/all.md contains every researcher as a compact entry.
+- by-region/ groups entries by region.
+- by-field/ groups entries by research area. Cross-disciplinary researchers appear in multiple files.
 - by-profile/ uses A/B/C discovery tags.
 
 ## Research-area tags
@@ -20,7 +20,7 @@
 
 ## Verification
 
-The directory consolidates the names collected in the earlier research passes. A small set of official pages was checked again while preparing this repository. Each card includes a note when an appointment is cross-institutional, a research institute role, a sabbatical notice, an adjunct appointment, or a page that needs extra verification.
+The directory consolidates the names collected in the earlier research passes. A small set of official pages was checked again while preparing this repository. Each entry includes a note when an appointment is cross-institutional, a research institute role, a sabbatical notice, an adjunct appointment, or a page that needs extra verification.
 
 Before contacting or applying, verify the current appointment, whether the researcher is accepting students, funding, and the fit with your proposed topic. The directory is a discovery aid, not an admissions database.
 
@@ -35,3 +35,7 @@ Before contacting or applying, verify the current appointment, whether the resea
 - [Hsueh-Ti Derek Liu](https://www.dgp.toronto.edu/~hsuehtil/): homepage lists Roblox Senior Research Scientist and UBC Adjunct Professor.
 
 These notes were recorded in September 2026. This language and layout revision does not constitute a fresh verification of all profiles.
+
+## Compact entry format
+
+Names link directly to homepages. A/B/C tags are explained in the [profile index](by-profile/README.md). Research areas and specific notes appear on the second line. Routine reminders to verify appointments and admissions apply to every entry and are stated here instead of repeated for every researcher. Line wrapping depends on screen width.

@@ -12,17 +12,8 @@
 
 ## Hong Kong
 
-### Siu-Wing Cheng
-
-**Hong Kong University of Science and Technology** · Hong Kong
-
-**Research:** Computational Geometry & Topology · Mesh & Surface Processing
-
-[Homepage ↗](https://www.cs.ust.hk/~scheng/) · **Profile:** A — Established leader / internationally recognized
-
-> Public profile checked
-
----
+- **[Siu-Wing Cheng](https://www.cs.ust.hk/~scheng/)** · Hong Kong University of Science and Technology · Hong Kong · **A**<br>
+  Computational Geometry & Topology · Mesh & Surface Processing
 
 [Back to top ↑](#top)
 
@@ -30,17 +21,8 @@
 
 ## India
 
-### Siddhartha Chaudhuri
-
-**IIT Bombay** · India
-
-**Research:** Geometric Modeling & Design · Shape Analysis & Geometric Learning
-
-[Homepage ↗](https://www.cse.iitb.ac.in/~siddhartha/) · **Profile:** B — Core faculty / active research group
-
-> Verify the current appointment and admissions before applying
-
----
+- **[Siddhartha Chaudhuri](https://www.cse.iitb.ac.in/~siddhartha/)** · IIT Bombay · India · **B**<br>
+  Geometric Modeling & Design · Shape Analysis & Geometric Learning
 
 [Back to top ↑](#top)
 
@@ -48,17 +30,8 @@
 
 ## Saudi Arabia
 
-### Peter Wonka
-
-**KAUST** · Saudi Arabia
-
-**Research:** Geometric Modeling & Design · Shape Analysis & Geometric Learning
-
-[Homepage ↗](https://peterwonka.net/) · **Profile:** A — Established leader / internationally recognized
-
-> Public profile checked
-
----
+- **[Peter Wonka](https://peterwonka.net/)** · KAUST · Saudi Arabia · **A**<br>
+  Geometric Modeling & Design · Shape Analysis & Geometric Learning
 
 [Back to top ↑](#top)
 
@@ -66,17 +39,8 @@
 
 ## Singapore
 
-### Ying He
-
-**Nanyang Technological University** · Singapore
-
-**Research:** Shape Analysis & Geometric Learning · 3D Vision & Reconstruction
-
-[Homepage ↗](https://www.ntu.edu.sg/scse/about-us/faculty-directory/ying-he) · **Profile:** A — Established leader / internationally recognized
-
-> Department profile listed
-
----
+- **[Ying He](https://www.ntu.edu.sg/scse/about-us/faculty-directory/ying-he)** · Nanyang Technological University · Singapore · **A**<br>
+  Shape Analysis & Geometric Learning · 3D Vision & Reconstruction
 
 [Back to top ↑](#top)
 
@@ -84,16 +48,7 @@
 
 ## South Korea
 
-### Otfried Cheong
-
-**KAIST** · South Korea
-
-**Research:** Computational Geometry & Topology · Mesh & Surface Processing
-
-[Homepage ↗](http://otl.kaist.ac.kr/~otfried/) · **Profile:** A — Established leader / internationally recognized
-
-> Public profile checked
-
----
+- **[Otfried Cheong](http://otl.kaist.ac.kr/~otfried/)** · KAIST · South Korea · **A**<br>
+  Computational Geometry & Topology · Mesh & Surface Processing
 
 [Back to top ↑](#top)

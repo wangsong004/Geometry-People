@@ -12,17 +12,8 @@ A discovery tag based on field influence and research visibility, not a formal r
 
 ## F
 
-### Felix Dellinger
-
-**TU Wien** · Austria
-
-**Research:** Discrete Geometry · Mesh & Surface Processing
-
-[Homepage ↗](https://www.tuwien.at/en/mc/geometry-and-computer-graphics/people/felix-dellinger) · **Profile:** C — Early-career / cross-institution researcher
-
-> Early-career researcher; verify admissions before applying
-
----
+- **[Felix Dellinger](https://www.tuwien.at/en/mc/geometry-and-computer-graphics/people/felix-dellinger)** · TU Wien · Austria · **C**<br>
+  Discrete Geometry · Mesh & Surface Processing
 
 [Back to top ↑](#top)
 
@@ -30,17 +21,8 @@ A discovery tag based on field influence and research visibility, not a formal r
 
 ## H
 
-### Hsueh-Ti Derek Liu
-
-**Roblox / University of British Columbia(Adjunct)** · Canada / United States
-
-**Research:** Shape Analysis & Geometric Learning · Mesh & Surface Processing
-
-[Homepage ↗](https://www.dgp.toronto.edu/~hsuehtil/) · **Profile:** C — Early-career / cross-institution researcher
-
-> Homepage lists Roblox Senior Research Scientist and UBC Adjunct Professor
-
----
+- **[Hsueh-Ti Derek Liu](https://www.dgp.toronto.edu/~hsuehtil/)** · Roblox / University of British Columbia(Adjunct) · Canada / United States · **C**<br>
+  Shape Analysis & Geometric Learning · Mesh & Surface Processing — *Roblox Senior Research Scientist; UBC Adjunct*
 
 [Back to top ↑](#top)
 
@@ -48,17 +30,8 @@ A discovery tag based on field influence and research visibility, not a formal r
 
 ## J
 
-### Jing Ren
-
-**Université de Montréal** · Canada
-
-**Research:** Shape Analysis & Geometric Learning · 3D Vision & Reconstruction
-
-[Homepage ↗](https://ren-jing.com/) · **Profile:** C — Early-career / cross-institution researcher
-
-> Early-career researcher; verify admissions before applying
-
----
+- **[Jing Ren](https://ren-jing.com/)** · Université de Montréal · Canada · **C**<br>
+  Shape Analysis & Geometric Learning · 3D Vision & Reconstruction
 
 [Back to top ↑](#top)
 
@@ -66,17 +39,8 @@ A discovery tag based on field influence and research visibility, not a formal r
 
 ## M
 
-### Mikhail Bessmeltsev
-
-**Université de Montréal** · Canada
-
-**Research:** Geometric Modeling & Design · Mesh & Surface Processing
-
-[Homepage ↗](https://mikhailbessmeltsev.github.io/) · **Profile:** C — Early-career / cross-institution researcher
-
-> Early-career researcher; verify admissions before applying
-
----
+- **[Mikhail Bessmeltsev](https://mikhailbessmeltsev.github.io/)** · Université de Montréal · Canada · **C**<br>
+  Geometric Modeling & Design · Mesh & Surface Processing
 
 [Back to top ↑](#top)
 
@@ -84,17 +48,8 @@ A discovery tag based on field influence and research visibility, not a formal r
 
 ## N
 
-### Niklas Affolter
-
-**TU Wien** · Austria
-
-**Research:** Discrete Geometry · Mesh & Surface Processing
-
-[Homepage ↗](https://www.tuwien.at/en/mc/geometry-and-computer-graphics/people/niklas-affolter) · **Profile:** C — Early-career / cross-institution researcher
-
-> Early-career researcher; verify admissions before applying
-
----
+- **[Niklas Affolter](https://www.tuwien.at/en/mc/geometry-and-computer-graphics/people/niklas-affolter)** · TU Wien · Austria · **C**<br>
+  Discrete Geometry · Mesh & Surface Processing
 
 [Back to top ↑](#top)
 
@@ -102,16 +57,7 @@ A discovery tag based on field influence and research visibility, not a formal r
 
 ## O
 
-### Oded Stein
-
-**Technion / USC** · Israel / United States
-
-**Research:** Discrete Geometry · Mesh & Surface Processing · Computational Geometry & Topology
-
-[Homepage ↗](https://odedstein.com/) · **Profile:** C — Early-career / cross-institution researcher
-
-> Homepage lists USC Assistant Professor and Technion Senior Lecturer (2026)
-
----
+- **[Oded Stein](https://odedstein.com/)** · Technion / USC · Israel / United States · **C**<br>
+  Discrete Geometry · Mesh & Surface Processing · Computational Geometry & Topology — *USC Assistant Professor; Technion Senior Lecturer (2026)*
 
 [Back to top ↑](#top)

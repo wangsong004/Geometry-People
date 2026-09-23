@@ -12,53 +12,14 @@
 
 ## A
 
-### Adriana Schulz
-
-**University of Wisconsin–Madison** · United States
-
-**Research:** Geometric Modeling & Design · Simulation & Animation
-
-[Homepage ↗](https://www.adrianaschulz.com/) · **Profile:** B — Core faculty / active research group
-
-> Personal site is changing; verify the current university appointment
-
----
-
-### Alec Jacobson
-
-**University of Toronto** · Canada
-
-**Research:** Mesh & Surface Processing · Geometric Modeling & Design
-
-[Homepage ↗](https://www.cs.toronto.edu/~jacobson/) · **Profile:** A — Established leader / internationally recognized
-
-> Homepage says graduate students are being recruited for Fall 2027
-
----
-
-### Alla Sheffer
-
-**University of British Columbia** · Canada
-
-**Research:** Mesh & Surface Processing · Geometric Modeling & Design
-
-[Homepage ↗](https://www.cs.ubc.ca/~sheffa/) · **Profile:** A — Established leader / internationally recognized
-
-> Public profile checked
-
----
-
-### Ariel Shamir
-
-**Reichman University** · Israel
-
-**Research:** Geometric Modeling & Design · Shape Analysis & Geometric Learning
-
-[Homepage ↗](https://www.cs.runi.ac.il/~amshamir/) · **Profile:** A — Established leader / internationally recognized
-
-> Verify student intake before applying
-
----
+- **[Adriana Schulz](https://www.adrianaschulz.com/)** · University of Wisconsin–Madison · United States · **B**<br>
+  Geometric Modeling & Design · Simulation & Animation — *Website and appointment need verification*
+- **[Alec Jacobson](https://www.cs.toronto.edu/~jacobson/)** · University of Toronto · Canada · **A**<br>
+  Mesh & Surface Processing · Geometric Modeling & Design — *Recruiting for Fall 2027*
+- **[Alla Sheffer](https://www.cs.ubc.ca/~sheffa/)** · University of British Columbia · Canada · **A**<br>
+  Mesh & Surface Processing · Geometric Modeling & Design
+- **[Ariel Shamir](https://www.cs.runi.ac.il/~amshamir/)** · Reichman University · Israel · **A**<br>
+  Geometric Modeling & Design · Shape Analysis & Geometric Learning
 
 [Back to top ↑](#top)
 
@@ -66,17 +27,8 @@
 
 ## B
 
-### Bernd Bickel
-
-**ETH Zurich** · Switzerland
-
-**Research:** Geometric Modeling & Design · Simulation & Animation
-
-[Homepage ↗](https://berndbickel.com/) · **Profile:** A — Established leader / internationally recognized
-
-> Homepage says he has been a full professor of computational design at ETH since 2024
-
----
+- **[Bernd Bickel](https://berndbickel.com/)** · ETH Zurich · Switzerland · **A**<br>
+  Geometric Modeling & Design · Simulation & Animation — *ETH Professor of Computational Design since 2024*
 
 [Back to top ↑](#top)
 
@@ -84,29 +36,10 @@
 
 ## D
 
-### Daniel Cohen-Or
-
-**Tel Aviv University** · Israel
-
-**Research:** Geometric Modeling & Design · Shape Analysis & Geometric Learning
-
-[Homepage ↗](https://danielcohenor.com/) · **Profile:** A — Established leader / internationally recognized
-
-> Public profile checked
-
----
-
-### Denis Zorin
-
-**New York University** · United States
-
-**Research:** Mesh & Surface Processing · Geometric Modeling & Design
-
-[Homepage ↗](https://cs.nyu.edu/~dzorin/) · **Profile:** A — Established leader / internationally recognized
-
-> Public profile checked
-
----
+- **[Daniel Cohen-Or](https://danielcohenor.com/)** · Tel Aviv University · Israel · **A**<br>
+  Geometric Modeling & Design · Shape Analysis & Geometric Learning
+- **[Denis Zorin](https://cs.nyu.edu/~dzorin/)** · New York University · United States · **A**<br>
+  Mesh & Surface Processing · Geometric Modeling & Design
 
 [Back to top ↑](#top)
 
@@ -114,17 +47,8 @@
 
 ## G
 
-### Gershon Elber
-
-**Technion** · Israel
-
-**Research:** Geometric Modeling & Design · Mesh & Surface Processing
-
-[Homepage ↗](https://www.cs.technion.ac.il/~gershon/) · **Profile:** A — Established leader / internationally recognized
-
-> Public profile checked
-
----
+- **[Gershon Elber](https://www.cs.technion.ac.il/~gershon/)** · Technion · Israel · **A**<br>
+  Geometric Modeling & Design · Mesh & Surface Processing
 
 [Back to top ↑](#top)
 
@@ -132,41 +56,12 @@
 
 ## J
 
-### Johannes Wallner
-
-**TU Graz** · Austria
-
-**Research:** Discrete Geometry · Geometric Modeling & Design
-
-[Homepage ↗](https://www.geometrie.tugraz.at/wallner/) · **Profile:** A — Established leader / internationally recognized
-
-> Public profile checked
-
----
-
-### Jörg Peters
-
-**University of Florida** · United States
-
-**Research:** Geometric Modeling & Design · Mesh & Surface Processing
-
-[Homepage ↗](https://people.clas.ufl.edu/jpeters/) · **Profile:** A — Established leader / internationally recognized
-
-> Department profile listed
-
----
-
-### Julian Panetta
-
-**University of California, Davis** · United States
-
-**Research:** Geometric Modeling & Design · Simulation & Animation
-
-[Homepage ↗](https://julianpanetta.com/) · **Profile:** B — Core faculty / active research group
-
-> Verify the current appointment and admissions before applying
-
----
+- **[Johannes Wallner](https://www.geometrie.tugraz.at/wallner/)** · TU Graz · Austria · **A**<br>
+  Discrete Geometry · Geometric Modeling & Design
+- **[Jörg Peters](https://people.clas.ufl.edu/jpeters/)** · University of Florida · United States · **A**<br>
+  Geometric Modeling & Design · Mesh & Surface Processing
+- **[Julian Panetta](https://julianpanetta.com/)** · University of California, Davis · United States · **B**<br>
+  Geometric Modeling & Design · Simulation & Animation
 
 [Back to top ↑](#top)
 
@@ -174,29 +69,10 @@
 
 ## K
 
-### Karan Singh
-
-**University of Toronto** · Canada
-
-**Research:** Geometric Modeling & Design · Simulation & Animation
-
-[Homepage ↗](https://www.dgp.toronto.edu/~karan/) · **Profile:** A — Established leader / internationally recognized
-
-> Verify student intake before applying
-
----
-
-### Klaus Hildebrandt
-
-**TU Delft** · Netherlands
-
-**Research:** Mesh & Surface Processing · Geometric Modeling & Design
-
-[Homepage ↗](https://graphics.tudelft.nl/~klaus/) · **Profile:** A — Established leader / internationally recognized
-
-> Verify the current appointment and admissions before applying
-
----
+- **[Karan Singh](https://www.dgp.toronto.edu/~karan/)** · University of Toronto · Canada · **A**<br>
+  Geometric Modeling & Design · Simulation & Animation
+- **[Klaus Hildebrandt](https://graphics.tudelft.nl/~klaus/)** · TU Delft · Netherlands · **A**<br>
+  Mesh & Surface Processing · Geometric Modeling & Design
 
 [Back to top ↑](#top)
 
@@ -204,29 +80,10 @@
 
 ## L
 
-### Leif Kobbelt
-
-**RWTH Aachen University** · Germany
-
-**Research:** Mesh & Surface Processing · Geometric Modeling & Design
-
-[Homepage ↗](https://www.graphics.rwth-aachen.de/) · **Profile:** A — Established leader / internationally recognized
-
-> Verify the current appointment and admissions before applying
-
----
-
-### Ligang Liu
-
-**University of Science and Technology of China** · China
-
-**Research:** Geometric Modeling & Design · Mesh & Surface Processing
-
-[Homepage ↗](https://staff.ustc.edu.cn/~lgliu/) · **Profile:** A — Established leader / internationally recognized
-
-> The site may be unstable; verify before applying
-
----
+- **[Leif Kobbelt](https://www.graphics.rwth-aachen.de/)** · RWTH Aachen University · Germany · **A**<br>
+  Mesh & Surface Processing · Geometric Modeling & Design
+- **[Ligang Liu](https://staff.ustc.edu.cn/~lgliu/)** · University of Science and Technology of China · China · **A**<br>
+  Geometric Modeling & Design · Mesh & Surface Processing — *Website access may be unreliable*
 
 [Back to top ↑](#top)
 
@@ -234,77 +91,18 @@
 
 ## M
 
-### Marc Alexa
-
-**TU Berlin** · Germany
-
-**Research:** Mesh & Surface Processing · Geometric Modeling & Design
-
-[Homepage ↗](https://www.cg.tu-berlin.de/people/marc-alexa) · **Profile:** A — Established leader / internationally recognized
-
-> Department profile listed
-
----
-
-### Marie-Paule Cani
-
-**École Polytechnique / Inria** · France
-
-**Research:** Geometric Modeling & Design · Simulation & Animation
-
-[Homepage ↗](https://www.lix.polytechnique.fr/Labo/Marie-Paule.Cani/) · **Profile:** A — Established leader / internationally recognized
-
-> Public profile checked
-
----
-
-### Mario Botsch
-
-**TU Dortmund University** · Germany
-
-**Research:** Mesh & Surface Processing · Geometric Modeling & Design
-
-[Homepage ↗](https://cg.cs.tu-dortmund.de/) · **Profile:** A — Established leader / internationally recognized
-
-> Public lab page checked
-
----
-
-### Mark Pauly
-
-**EPFL** · Switzerland
-
-**Research:** Geometric Modeling & Design · Mesh & Surface Processing
-
-[Homepage ↗](https://www.epfl.ch/labs/gcm/) · **Profile:** A — Established leader / internationally recognized
-
-> Public lab page checked
-
----
-
-### Michela Spagnuolo
-
-**CNR-IMATI** · Italy
-
-**Research:** Geometric Modeling & Design · Shape Analysis & Geometric Learning
-
-[Homepage ↗](https://www.imati.cnr.it/people/michela-spagnuolo/) · **Profile:** A — Established leader / internationally recognized
-
-> Research institute role rather than a standard university professorship
-
----
-
-### Mikhail Bessmeltsev
-
-**Université de Montréal** · Canada
-
-**Research:** Geometric Modeling & Design · Mesh & Surface Processing
-
-[Homepage ↗](https://mikhailbessmeltsev.github.io/) · **Profile:** C — Early-career / cross-institution researcher
-
-> Early-career researcher; verify admissions before applying
-
----
+- **[Marc Alexa](https://www.cg.tu-berlin.de/people/marc-alexa)** · TU Berlin · Germany · **A**<br>
+  Mesh & Surface Processing · Geometric Modeling & Design
+- **[Marie-Paule Cani](https://www.lix.polytechnique.fr/Labo/Marie-Paule.Cani/)** · École Polytechnique / Inria · France · **A**<br>
+  Geometric Modeling & Design · Simulation & Animation
+- **[Mario Botsch](https://cg.cs.tu-dortmund.de/)** · TU Dortmund University · Germany · **A**<br>
+  Mesh & Surface Processing · Geometric Modeling & Design
+- **[Mark Pauly](https://www.epfl.ch/labs/gcm/)** · EPFL · Switzerland · **A**<br>
+  Geometric Modeling & Design · Mesh & Surface Processing
+- **[Michela Spagnuolo](https://www.imati.cnr.it/people/michela-spagnuolo/)** · CNR-IMATI · Italy · **A**<br>
+  Geometric Modeling & Design · Shape Analysis & Geometric Learning — *Research institute appointment*
+- **[Mikhail Bessmeltsev](https://mikhailbessmeltsev.github.io/)** · Université de Montréal · Canada · **C**<br>
+  Geometric Modeling & Design · Mesh & Surface Processing
 
 [Back to top ↑](#top)
 
@@ -312,17 +110,8 @@
 
 ## N
 
-### Niloy Mitra
-
-**University College London** · United Kingdom
-
-**Research:** Shape Analysis & Geometric Learning · Geometric Modeling & Design
-
-[Homepage ↗](https://geometry.cs.ucl.ac.uk/people/) · **Profile:** A — Established leader / internationally recognized
-
-> Public lab page checked
-
----
+- **[Niloy Mitra](https://geometry.cs.ucl.ac.uk/people/)** · University College London · United Kingdom · **A**<br>
+  Shape Analysis & Geometric Learning · Geometric Modeling & Design
 
 [Back to top ↑](#top)
 
@@ -330,17 +119,8 @@
 
 ## O
 
-### Olga Sorkine-Hornung
-
-**ETH Zurich** · Switzerland
-
-**Research:** Mesh & Surface Processing · Geometric Modeling & Design
-
-[Homepage ↗](https://igl.ethz.ch/people/sorkine/) · **Profile:** A — Established leader / internationally recognized
-
-> Public profile checked
-
----
+- **[Olga Sorkine-Hornung](https://igl.ethz.ch/people/sorkine/)** · ETH Zurich · Switzerland · **A**<br>
+  Mesh & Surface Processing · Geometric Modeling & Design
 
 [Back to top ↑](#top)
 
@@ -348,17 +128,8 @@
 
 ## P
 
-### Peter Wonka
-
-**KAUST** · Saudi Arabia
-
-**Research:** Geometric Modeling & Design · Shape Analysis & Geometric Learning
-
-[Homepage ↗](https://peterwonka.net/) · **Profile:** A — Established leader / internationally recognized
-
-> Public profile checked
-
----
+- **[Peter Wonka](https://peterwonka.net/)** · KAUST · Saudi Arabia · **A**<br>
+  Geometric Modeling & Design · Shape Analysis & Geometric Learning
 
 [Back to top ↑](#top)
 
@@ -366,41 +137,12 @@
 
 ## S
 
-### Shi-Min Hu
-
-**Tsinghua University** · China
-
-**Research:** Geometric Modeling & Design · 3D Vision & Reconstruction
-
-[Homepage ↗](https://cg.cs.tsinghua.edu.cn/) · **Profile:** A — Established leader / internationally recognized
-
-> Verify the current appointment and admissions before applying
-
----
-
-### Siddhartha Chaudhuri
-
-**IIT Bombay** · India
-
-**Research:** Geometric Modeling & Design · Shape Analysis & Geometric Learning
-
-[Homepage ↗](https://www.cse.iitb.ac.in/~siddhartha/) · **Profile:** B — Core faculty / active research group
-
-> Verify the current appointment and admissions before applying
-
----
-
-### Sylvain Lefebvre
-
-**Inria** · France
-
-**Research:** Geometric Modeling & Design · Mesh & Surface Processing
-
-[Homepage ↗](https://www-sop.inria.fr/reves/Basilic/people/Sylvain.Lefebvre/) · **Profile:** A — Established leader / internationally recognized
-
-> Research institute role rather than a standard university professorship
-
----
+- **[Shi-Min Hu](https://cg.cs.tsinghua.edu.cn/)** · Tsinghua University · China · **A**<br>
+  Geometric Modeling & Design · 3D Vision & Reconstruction
+- **[Siddhartha Chaudhuri](https://www.cse.iitb.ac.in/~siddhartha/)** · IIT Bombay · India · **B**<br>
+  Geometric Modeling & Design · Shape Analysis & Geometric Learning
+- **[Sylvain Lefebvre](https://www-sop.inria.fr/reves/Basilic/people/Sylvain.Lefebvre/)** · Inria · France · **A**<br>
+  Geometric Modeling & Design · Mesh & Surface Processing — *Research institute appointment*
 
 [Back to top ↑](#top)
 
@@ -408,17 +150,8 @@
 
 ## T
 
-### Tamy Boubekeur
-
-**Télécom Paris** · France
-
-**Research:** Geometric Modeling & Design · Mesh & Surface Processing
-
-[Homepage ↗](https://perso.telecom-paristech.fr/boubek/) · **Profile:** B — Core faculty / active research group
-
-> Older personal page; verify before applying
-
----
+- **[Tamy Boubekeur](https://perso.telecom-paristech.fr/boubek/)** · Télécom Paris · France · **B**<br>
+  Geometric Modeling & Design · Mesh & Surface Processing — *Older homepage; verify appointment*
 
 [Back to top ↑](#top)
 
@@ -426,28 +159,9 @@
 
 ## W
 
-### Wenping Wang
-
-**Texas A&M University** · United States
-
-**Research:** Geometric Modeling & Design · 3D Vision & Reconstruction
-
-[Homepage ↗](https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html) · **Profile:** A — Established leader / internationally recognized
-
-> Moved from HKU to Texas A&M; public department profile checked
-
----
-
-### Wenzel Jakob
-
-**EPFL** · Switzerland
-
-**Research:** Visualization & Rendering · Geometric Modeling & Design
-
-[Homepage ↗](https://rgl.epfl.ch/people/wjakob/) · **Profile:** A — Established leader / internationally recognized
-
-> Primarily focused on rendering and geometric representations
-
----
+- **[Wenping Wang](https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html)** · Texas A&M University · United States · **A**<br>
+  Geometric Modeling & Design · 3D Vision & Reconstruction — *Previously at HKU*
+- **[Wenzel Jakob](https://rgl.epfl.ch/people/wjakob/)** · EPFL · Switzerland · **A**<br>
+  Visualization & Rendering · Geometric Modeling & Design — *Focus: rendering and geometric representations*
 
 [Back to top ↑](#top)

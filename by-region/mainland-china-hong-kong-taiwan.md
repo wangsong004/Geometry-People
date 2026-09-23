@@ -12,64 +12,15 @@
 
 ## China
 
-### Jian Sun
-
-**Zhejiang University** · China
-
-**Research:** Mesh & Surface Processing · 3D Vision & Reconstruction
-
-[Homepage ↗](https://sun123zju.github.io/) · **Profile:** B — Core faculty / active research group
-
-> Verify the current appointment and admissions before applying
-
----
-
-### Ligang Liu
-
-**University of Science and Technology of China** · China
-
-**Research:** Geometric Modeling & Design · Mesh & Surface Processing
-
-[Homepage ↗](https://staff.ustc.edu.cn/~lgliu/) · **Profile:** A — Established leader / internationally recognized
-
-> The site may be unstable; verify before applying
-
----
-
-### Peng-Shuai Wang
-
-**Peking University** · China
-
-**Research:** Shape Analysis & Geometric Learning · 3D Vision & Reconstruction
-
-[Homepage ↗](https://wang-ps.github.io/) · **Profile:** B — Core faculty / active research group
-
-> Search results identify an assistant professor at Peking University; verify before applying
-
----
-
-### Renjie Chen
-
-**University of Science and Technology of China** · China
-
-**Research:** Mesh & Surface Processing · Shape Analysis & Geometric Learning
-
-[Homepage ↗](https://ustc-gcl-f.github.io/) · **Profile:** B — Core faculty / active research group
-
-> Public lab page checked
-
----
-
-### Shi-Min Hu
-
-**Tsinghua University** · China
-
-**Research:** Geometric Modeling & Design · 3D Vision & Reconstruction
-
-[Homepage ↗](https://cg.cs.tsinghua.edu.cn/) · **Profile:** A — Established leader / internationally recognized
-
-> Verify the current appointment and admissions before applying
-
----
+- **[Jian Sun](https://sun123zju.github.io/)** · Zhejiang University · China · **B**<br>
+  Mesh & Surface Processing · 3D Vision & Reconstruction
+- **[Ligang Liu](https://staff.ustc.edu.cn/~lgliu/)** · University of Science and Technology of China · China · **A**<br>
+  Geometric Modeling & Design · Mesh & Surface Processing — *Website access may be unreliable*
+- **[Peng-Shuai Wang](https://wang-ps.github.io/)** · Peking University · China · **B**<br>
+  Shape Analysis & Geometric Learning · 3D Vision & Reconstruction — *PKU appointment needs verification*
+- **[Renjie Chen](https://ustc-gcl-f.github.io/)** · University of Science and Technology of China · China · **B**<br>
+  Mesh & Surface Processing · Shape Analysis & Geometric Learning
+- **[Shi-Min Hu](https://cg.cs.tsinghua.edu.cn/)** · Tsinghua University · China · **A**<br>
+  Geometric Modeling & Design · 3D Vision & Reconstruction
 
 [Back to top ↑](#top)

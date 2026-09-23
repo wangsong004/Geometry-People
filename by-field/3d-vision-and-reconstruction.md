@@ -12,29 +12,10 @@
 
 ## A
 
-### Andrea Tagliasacchi
-
-**Simon Fraser University / Google Research** · Canada
-
-**Research:** Shape Analysis & Geometric Learning · 3D Vision & Reconstruction
-
-[Homepage ↗](https://www.andreataglia.com/) · **Profile:** A — Established leader / internationally recognized
-
-> Works across university and industry research; verify admissions
-
----
-
-### Angela Dai
-
-**Technical University of Munich** · Germany
-
-**Research:** Shape Analysis & Geometric Learning · 3D Vision & Reconstruction
-
-[Homepage ↗](https://angeladai.com/) · **Profile:** B — Core faculty / active research group
-
-> Public profile checked
-
----
+- **[Andrea Tagliasacchi](https://www.andreataglia.com/)** · Simon Fraser University / Google Research · Canada · **A**<br>
+  Shape Analysis & Geometric Learning · 3D Vision & Reconstruction — *University / industry appointment*
+- **[Angela Dai](https://angeladai.com/)** · Technical University of Munich · Germany · **B**<br>
+  Shape Analysis & Geometric Learning · 3D Vision & Reconstruction
 
 [Back to top ↑](#top)
 
@@ -42,29 +23,10 @@
 
 ## C
 
-### Chandrajit Bajaj
-
-**University of Texas at Austin** · United States
-
-**Research:** Computational Geometry & Topology · 3D Vision & Reconstruction
-
-[Homepage ↗](https://www.cs.utexas.edu/~bajaj/) · **Profile:** A — Established leader / internationally recognized
-
-> Department profile listed
-
----
-
-### Christian Theobalt
-
-**MPI for Informatics / Saarland University** · Germany
-
-**Research:** 3D Vision & Reconstruction · Shape Analysis & Geometric Learning
-
-[Homepage ↗](https://www.mpi-inf.mpg.de/~theobalt/) · **Profile:** A — Established leader / internationally recognized
-
-> Works across a research institute and university
-
----
+- **[Chandrajit Bajaj](https://www.cs.utexas.edu/~bajaj/)** · University of Texas at Austin · United States · **A**<br>
+  Computational Geometry & Topology · 3D Vision & Reconstruction
+- **[Christian Theobalt](https://www.mpi-inf.mpg.de/~theobalt/)** · MPI for Informatics / Saarland University · Germany · **A**<br>
+  3D Vision & Reconstruction · Shape Analysis & Geometric Learning — *Institute / university appointment*
 
 [Back to top ↑](#top)
 
@@ -72,17 +34,8 @@
 
 ## E
 
-### Enrico Puppo
-
-**University of Genoa** · Italy
-
-**Research:** Mesh & Surface Processing · 3D Vision & Reconstruction
-
-[Homepage ↗](http://www.disi.unige.it/person/PuppoE/) · **Profile:** B — Core faculty / active research group
-
-> Public profile checked
-
----
+- **[Enrico Puppo](http://www.disi.unige.it/person/PuppoE/)** · University of Genoa · Italy · **B**<br>
+  Mesh & Surface Processing · 3D Vision & Reconstruction
 
 [Back to top ↑](#top)
 
@@ -90,17 +43,8 @@
 
 ## F
 
-### Florent Lafarge
-
-**Inria** · France
-
-**Research:** 3D Vision & Reconstruction · Shape Analysis & Geometric Learning
-
-[Homepage ↗](https://florent-lafarge.github.io/) · **Profile:** A — Established leader / internationally recognized
-
-> Research institute role rather than a standard university professorship
-
----
+- **[Florent Lafarge](https://florent-lafarge.github.io/)** · Inria · France · **A**<br>
+  3D Vision & Reconstruction · Shape Analysis & Geometric Learning — *Research institute appointment*
 
 [Back to top ↑](#top)
 
@@ -108,17 +52,8 @@
 
 ## H
 
-### Hugues Hoppe
-
-**Microsoft Research** · United States
-
-**Research:** Mesh & Surface Processing · 3D Vision & Reconstruction
-
-[Homepage ↗](https://hhoppe.com/) · **Profile:** A — Established leader / internationally recognized
-
-> Currently a research scientist rather than a university professor; a foundational geometry-processing contributor
-
----
+- **[Hugues Hoppe](https://hhoppe.com/)** · Microsoft Research · United States · **A**<br>
+  Mesh & Surface Processing · 3D Vision & Reconstruction — *Research scientist; foundational geometry contributor*
 
 [Back to top ↑](#top)
 
@@ -126,29 +61,10 @@
 
 ## J
 
-### Jian Sun
-
-**Zhejiang University** · China
-
-**Research:** Mesh & Surface Processing · 3D Vision & Reconstruction
-
-[Homepage ↗](https://sun123zju.github.io/) · **Profile:** B — Core faculty / active research group
-
-> Verify the current appointment and admissions before applying
-
----
-
-### Jing Ren
-
-**Université de Montréal** · Canada
-
-**Research:** Shape Analysis & Geometric Learning · 3D Vision & Reconstruction
-
-[Homepage ↗](https://ren-jing.com/) · **Profile:** C — Early-career / cross-institution researcher
-
-> Early-career researcher; verify admissions before applying
-
----
+- **[Jian Sun](https://sun123zju.github.io/)** · Zhejiang University · China · **B**<br>
+  Mesh & Surface Processing · 3D Vision & Reconstruction
+- **[Jing Ren](https://ren-jing.com/)** · Université de Montréal · Canada · **C**<br>
+  Shape Analysis & Geometric Learning · 3D Vision & Reconstruction
 
 [Back to top ↑](#top)
 
@@ -156,53 +72,14 @@
 
 ## M
 
-### Maks Ovsjanikov
-
-**École Polytechnique** · France
-
-**Research:** Shape Analysis & Geometric Learning · 3D Vision & Reconstruction
-
-[Homepage ↗](https://www.lix.polytechnique.fr/~maks/) · **Profile:** A — Established leader / internationally recognized
-
-> Public profile checked
-
----
-
-### Marc Pollefeys
-
-**ETH Zurich** · Switzerland
-
-**Research:** 3D Vision & Reconstruction · Computational Geometry & Topology
-
-[Homepage ↗](https://cvg.ethz.ch/people/pollefeys/) · **Profile:** A — Established leader / internationally recognized
-
-> Public lab page checked
-
----
-
-### Michael Bronstein
-
-**University of Oxford** · United Kingdom
-
-**Research:** Shape Analysis & Geometric Learning · 3D Vision & Reconstruction
-
-[Homepage ↗](https://www.cs.ox.ac.uk/people/michael.bronstein/) · **Profile:** A — Established leader / internationally recognized
-
-> Moved from Imperial to Oxford; public profile checked
-
----
-
-### Michael Kazhdan
-
-**Johns Hopkins University** · United States
-
-**Research:** 3D Vision & Reconstruction · Mesh & Surface Processing
-
-[Homepage ↗](https://www.cs.jhu.edu/~misha/) · **Profile:** A — Established leader / internationally recognized
-
-> Verify the current appointment and admissions before applying
-
----
+- **[Maks Ovsjanikov](https://www.lix.polytechnique.fr/~maks/)** · École Polytechnique · France · **A**<br>
+  Shape Analysis & Geometric Learning · 3D Vision & Reconstruction
+- **[Marc Pollefeys](https://cvg.ethz.ch/people/pollefeys/)** · ETH Zurich · Switzerland · **A**<br>
+  3D Vision & Reconstruction · Computational Geometry & Topology
+- **[Michael Bronstein](https://www.cs.ox.ac.uk/people/michael.bronstein/)** · University of Oxford · United Kingdom · **A**<br>
+  Shape Analysis & Geometric Learning · 3D Vision & Reconstruction — *Previously at Imperial*
+- **[Michael Kazhdan](https://www.cs.jhu.edu/~misha/)** · Johns Hopkins University · United States · **A**<br>
+  3D Vision & Reconstruction · Mesh & Surface Processing
 
 [Back to top ↑](#top)
 
@@ -210,17 +87,8 @@
 
 ## N
 
-### Nicolas Bonneel
-
-**Université Claude Bernard Lyon 1 / CNRS** · France
-
-**Research:** Visualization & Rendering · 3D Vision & Reconstruction
-
-[Homepage ↗](https://nicolas.bonneel.org/) · **Profile:** B — Core faculty / active research group
-
-> Public profile checked
-
----
+- **[Nicolas Bonneel](https://nicolas.bonneel.org/)** · Université Claude Bernard Lyon 1 / CNRS · France · **B**<br>
+  Visualization & Rendering · 3D Vision & Reconstruction
 
 [Back to top ↑](#top)
 
@@ -228,17 +96,8 @@
 
 ## P
 
-### Peng-Shuai Wang
-
-**Peking University** · China
-
-**Research:** Shape Analysis & Geometric Learning · 3D Vision & Reconstruction
-
-[Homepage ↗](https://wang-ps.github.io/) · **Profile:** B — Core faculty / active research group
-
-> Search results identify an assistant professor at Peking University; verify before applying
-
----
+- **[Peng-Shuai Wang](https://wang-ps.github.io/)** · Peking University · China · **B**<br>
+  Shape Analysis & Geometric Learning · 3D Vision & Reconstruction — *PKU appointment needs verification*
 
 [Back to top ↑](#top)
 
@@ -246,17 +105,8 @@
 
 ## Q
 
-### Qixing Huang
-
-**University of Texas at Austin** · United States
-
-**Research:** Shape Analysis & Geometric Learning · 3D Vision & Reconstruction
-
-[Homepage ↗](https://qixinghuang.github.io/) · **Profile:** A — Established leader / internationally recognized
-
-> Public profile checked
-
----
+- **[Qixing Huang](https://qixinghuang.github.io/)** · University of Texas at Austin · United States · **A**<br>
+  Shape Analysis & Geometric Learning · 3D Vision & Reconstruction
 
 [Back to top ↑](#top)
 
@@ -264,17 +114,8 @@
 
 ## R
 
-### Renaud Keriven
-
-**École des Ponts ParisTech / Inria** · France
-
-**Research:** Mesh & Surface Processing · 3D Vision & Reconstruction
-
-[Homepage ↗](https://www.enpc.fr/renaud-keriven) · **Profile:** A — Established leader / internationally recognized
-
-> Verify the current appointment and admissions before applying
-
----
+- **[Renaud Keriven](https://www.enpc.fr/renaud-keriven)** · École des Ponts ParisTech / Inria · France · **A**<br>
+  Mesh & Surface Processing · 3D Vision & Reconstruction
 
 [Back to top ↑](#top)
 
@@ -282,29 +123,10 @@
 
 ## S
 
-### Shi-Min Hu
-
-**Tsinghua University** · China
-
-**Research:** Geometric Modeling & Design · 3D Vision & Reconstruction
-
-[Homepage ↗](https://cg.cs.tsinghua.edu.cn/) · **Profile:** A — Established leader / internationally recognized
-
-> Verify the current appointment and admissions before applying
-
----
-
-### Szymon Rusinkiewicz
-
-**Princeton University** · United States
-
-**Research:** 3D Vision & Reconstruction · Mesh & Surface Processing
-
-[Homepage ↗](https://gfx.cs.princeton.edu/~smr/) · **Profile:** A — Established leader / internationally recognized
-
-> Public profile checked
-
----
+- **[Shi-Min Hu](https://cg.cs.tsinghua.edu.cn/)** · Tsinghua University · China · **A**<br>
+  Geometric Modeling & Design · 3D Vision & Reconstruction
+- **[Szymon Rusinkiewicz](https://gfx.cs.princeton.edu/~smr/)** · Princeton University · United States · **A**<br>
+  3D Vision & Reconstruction · Mesh & Surface Processing
 
 [Back to top ↑](#top)
 
@@ -312,17 +134,8 @@
 
 ## T
 
-### Thomas Funkhouser
-
-**Princeton University** · United States
-
-**Research:** Shape Analysis & Geometric Learning · 3D Vision & Reconstruction
-
-[Homepage ↗](https://www.cs.princeton.edu/~funk/) · **Profile:** A — Established leader / internationally recognized
-
-> Verify the current appointment and admissions before applying
-
----
+- **[Thomas Funkhouser](https://www.cs.princeton.edu/~funk/)** · Princeton University · United States · **A**<br>
+  Shape Analysis & Geometric Learning · 3D Vision & Reconstruction
 
 [Back to top ↑](#top)
 
@@ -330,17 +143,8 @@
 
 ## W
 
-### Wenping Wang
-
-**Texas A&M University** · United States
-
-**Research:** Geometric Modeling & Design · 3D Vision & Reconstruction
-
-[Homepage ↗](https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html) · **Profile:** A — Established leader / internationally recognized
-
-> Moved from HKU to Texas A&M; public department profile checked
-
----
+- **[Wenping Wang](https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html)** · Texas A&M University · United States · **A**<br>
+  Geometric Modeling & Design · 3D Vision & Reconstruction — *Previously at HKU*
 
 [Back to top ↑](#top)
 
@@ -348,16 +152,7 @@
 
 ## Y
 
-### Ying He
-
-**Nanyang Technological University** · Singapore
-
-**Research:** Shape Analysis & Geometric Learning · 3D Vision & Reconstruction
-
-[Homepage ↗](https://www.ntu.edu.sg/scse/about-us/faculty-directory/ying-he) · **Profile:** A — Established leader / internationally recognized
-
-> Department profile listed
-
----
+- **[Ying He](https://www.ntu.edu.sg/scse/about-us/faculty-directory/ying-he)** · Nanyang Technological University · Singapore · **A**<br>
+  Shape Analysis & Geometric Learning · 3D Vision & Reconstruction
 
 [Back to top ↑](#top)

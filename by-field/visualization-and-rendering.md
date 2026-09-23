@@ -12,17 +12,8 @@
 
 ## C
 
-### Christoph Garth
-
-**RPTU Kaiserslautern-Landau** · Germany
-
-**Research:** Visualization & Rendering · Computational Geometry & Topology
-
-[Homepage ↗](https://www.cs.uni-kl.de/en/people/garth) · **Profile:** B — Core faculty / active research group
-
-> Verify the current appointment and admissions before applying
-
----
+- **[Christoph Garth](https://www.cs.uni-kl.de/en/people/garth)** · RPTU Kaiserslautern-Landau · Germany · **B**<br>
+  Visualization & Rendering · Computational Geometry & Topology
 
 [Back to top ↑](#top)
 
@@ -30,17 +21,8 @@
 
 ## H
 
-### Holger Theisel
-
-**Otto von Guericke University Magdeburg** · Germany
-
-**Research:** Visualization & Rendering · Mesh & Surface Processing
-
-[Homepage ↗](https://wwwisg.cs.uni-magdeburg.de/visual/people/theisel/) · **Profile:** A — Established leader / internationally recognized
-
-> Public profile checked
-
----
+- **[Holger Theisel](https://wwwisg.cs.uni-magdeburg.de/visual/people/theisel/)** · Otto von Guericke University Magdeburg · Germany · **A**<br>
+  Visualization & Rendering · Mesh & Surface Processing
 
 [Back to top ↑](#top)
 
@@ -48,17 +30,8 @@
 
 ## K
 
-### Konrad Polthier
-
-**Freie Universität Berlin** · Germany
-
-**Research:** Discrete Geometry · Visualization & Rendering
-
-[Homepage ↗](https://page.math.tu-berlin.de/~polthier/) · **Profile:** A — Established leader / internationally recognized
-
-> Verify the current appointment and admissions before applying
-
----
+- **[Konrad Polthier](https://page.math.tu-berlin.de/~polthier/)** · Freie Universität Berlin · Germany · **A**<br>
+  Discrete Geometry · Visualization & Rendering
 
 [Back to top ↑](#top)
 
@@ -66,29 +39,10 @@
 
 ## M
 
-### Marco Tarini
-
-**University of Milan** · Italy
-
-**Research:** Mesh & Surface Processing · Visualization & Rendering
-
-[Homepage ↗](https://tarini.di.unimi.it/) · **Profile:** B — Core faculty / active research group
-
-> Public profile checked
-
----
-
-### Michael Wimmer
-
-**TU Wien** · Austria
-
-**Research:** Visualization & Rendering · Mesh & Surface Processing
-
-[Homepage ↗](https://www.cg.tuwien.ac.at/staff/MichaelWimmer.html) · **Profile:** A — Established leader / internationally recognized
-
-> Department profile listed
-
----
+- **[Marco Tarini](https://tarini.di.unimi.it/)** · University of Milan · Italy · **B**<br>
+  Mesh & Surface Processing · Visualization & Rendering
+- **[Michael Wimmer](https://www.cg.tuwien.ac.at/staff/MichaelWimmer.html)** · TU Wien · Austria · **A**<br>
+  Visualization & Rendering · Mesh & Surface Processing
 
 [Back to top ↑](#top)
 
@@ -96,17 +50,8 @@
 
 ## N
 
-### Nicolas Bonneel
-
-**Université Claude Bernard Lyon 1 / CNRS** · France
-
-**Research:** Visualization & Rendering · 3D Vision & Reconstruction
-
-[Homepage ↗](https://nicolas.bonneel.org/) · **Profile:** B — Core faculty / active research group
-
-> Public profile checked
-
----
+- **[Nicolas Bonneel](https://nicolas.bonneel.org/)** · Université Claude Bernard Lyon 1 / CNRS · France · **B**<br>
+  Visualization & Rendering · 3D Vision & Reconstruction
 
 [Back to top ↑](#top)
 
@@ -114,17 +59,8 @@
 
 ## P
 
-### Paolo Cignoni
-
-**CNR-ISTI / University of Pisa** · Italy
-
-**Research:** Mesh & Surface Processing · Visualization & Rendering
-
-[Homepage ↗](https://vcg.isti.cnr.it/~cignoni/) · **Profile:** A — Established leader / internationally recognized
-
-> Research institute role rather than a standard university professorship
-
----
+- **[Paolo Cignoni](https://vcg.isti.cnr.it/~cignoni/)** · CNR-ISTI / University of Pisa · Italy · **A**<br>
+  Mesh & Surface Processing · Visualization & Rendering — *Research institute appointment*
 
 [Back to top ↑](#top)
 
@@ -132,17 +68,8 @@
 
 ## R
 
-### Rüdiger Westermann
-
-**Technical University of Munich** · Germany
-
-**Research:** Visualization & Rendering · Computational Geometry & Topology
-
-[Homepage ↗](https://www.cs.cit.tum.de/en/people/ruediger-westermann/) · **Profile:** A — Established leader / internationally recognized
-
-> Department profile listed
-
----
+- **[Rüdiger Westermann](https://www.cs.cit.tum.de/en/people/ruediger-westermann/)** · Technical University of Munich · Germany · **A**<br>
+  Visualization & Rendering · Computational Geometry & Topology
 
 [Back to top ↑](#top)
 
@@ -150,17 +77,8 @@
 
 ## T
 
-### Tino Weinkauf
-
-**KTH Royal Institute of Technology** · Sweden
-
-**Research:** Visualization & Rendering · Computational Geometry & Topology
-
-[Homepage ↗](https://www.csc.kth.se/~weinkauf/) · **Profile:** A — Established leader / internationally recognized
-
-> Verify the current appointment and admissions before applying
-
----
+- **[Tino Weinkauf](https://www.csc.kth.se/~weinkauf/)** · KTH Royal Institute of Technology · Sweden · **A**<br>
+  Visualization & Rendering · Computational Geometry & Topology
 
 [Back to top ↑](#top)
 
@@ -168,16 +86,7 @@
 
 ## W
 
-### Wenzel Jakob
-
-**EPFL** · Switzerland
-
-**Research:** Visualization & Rendering · Geometric Modeling & Design
-
-[Homepage ↗](https://rgl.epfl.ch/people/wjakob/) · **Profile:** A — Established leader / internationally recognized
-
-> Primarily focused on rendering and geometric representations
-
----
+- **[Wenzel Jakob](https://rgl.epfl.ch/people/wjakob/)** · EPFL · Switzerland · **A**<br>
+  Visualization & Rendering · Geometric Modeling & Design — *Focus: rendering and geometric representations*
 
 [Back to top ↑](#top)

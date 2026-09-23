@@ -12,29 +12,10 @@
 
 ## A
 
-### Alexander Belyaev
-
-**Heriot-Watt University** · United Kingdom
-
-**Research:** Mesh & Surface Processing · Discrete Geometry
-
-[Homepage ↗](https://researchportal.hw.ac.uk/en/persons/alexander-belyaev/) · **Profile:** B — Core faculty / active research group
-
-> Research portal lists an Associate Professor appointment
-
----
-
-### Alexander Bobenko
-
-**TU Berlin** · Germany
-
-**Research:** Discrete Geometry · Mesh & Surface Processing
-
-[Homepage ↗](https://page.math.tu-berlin.de/~bobenko/) · **Profile:** A — Established leader / internationally recognized
-
-> Public profile checked
-
----
+- **[Alexander Belyaev](https://researchportal.hw.ac.uk/en/persons/alexander-belyaev/)** · Heriot-Watt University · United Kingdom · **B**<br>
+  Mesh & Surface Processing · Discrete Geometry — *Associate Professor*
+- **[Alexander Bobenko](https://page.math.tu-berlin.de/~bobenko/)** · TU Berlin · Germany · **A**<br>
+  Discrete Geometry · Mesh & Surface Processing
 
 [Back to top ↑](#top)
 
@@ -42,17 +23,8 @@
 
 ## B
 
-### Boris Springborn
-
-**TU Berlin** · Germany
-
-**Research:** Discrete Geometry · Mesh & Surface Processing
-
-[Homepage ↗](https://page.math.tu-berlin.de/~springb/) · **Profile:** A — Established leader / internationally recognized
-
-> Public profile checked
-
----
+- **[Boris Springborn](https://page.math.tu-berlin.de/~springb/)** · TU Berlin · Germany · **A**<br>
+  Discrete Geometry · Mesh & Surface Processing
 
 [Back to top ↑](#top)
 
@@ -60,17 +32,8 @@
 
 ## E
 
-### Eitan Grinspun
-
-**University of Toronto** · Canada
-
-**Research:** Simulation & Animation · Discrete Geometry
-
-[Homepage ↗](https://www.dgp.toronto.edu/~eitan/) · **Profile:** A — Established leader / internationally recognized
-
-> Homepage shows a move to Toronto and graduate recruitment
-
----
+- **[Eitan Grinspun](https://www.dgp.toronto.edu/~eitan/)** · University of Toronto · Canada · **A**<br>
+  Simulation & Animation · Discrete Geometry — *Recruiting graduate students; previously at Columbia*
 
 [Back to top ↑](#top)
 
@@ -78,17 +41,8 @@
 
 ## F
 
-### Felix Dellinger
-
-**TU Wien** · Austria
-
-**Research:** Discrete Geometry · Mesh & Surface Processing
-
-[Homepage ↗](https://www.tuwien.at/en/mc/geometry-and-computer-graphics/people/felix-dellinger) · **Profile:** C — Early-career / cross-institution researcher
-
-> Early-career researcher; verify admissions before applying
-
----
+- **[Felix Dellinger](https://www.tuwien.at/en/mc/geometry-and-computer-graphics/people/felix-dellinger)** · TU Wien · Austria · **C**<br>
+  Discrete Geometry · Mesh & Surface Processing
 
 [Back to top ↑](#top)
 
@@ -96,17 +50,8 @@
 
 ## J
 
-### Johannes Wallner
-
-**TU Graz** · Austria
-
-**Research:** Discrete Geometry · Geometric Modeling & Design
-
-[Homepage ↗](https://www.geometrie.tugraz.at/wallner/) · **Profile:** A — Established leader / internationally recognized
-
-> Public profile checked
-
----
+- **[Johannes Wallner](https://www.geometrie.tugraz.at/wallner/)** · TU Graz · Austria · **A**<br>
+  Discrete Geometry · Geometric Modeling & Design
 
 [Back to top ↑](#top)
 
@@ -114,29 +59,10 @@
 
 ## K
 
-### Keenan Crane
-
-**Carnegie Mellon University** · United States
-
-**Research:** Discrete Geometry · Mesh & Surface Processing
-
-[Homepage ↗](https://www.cs.cmu.edu/~kmcrane/) · **Profile:** A — Established leader / internationally recognized
-
-> Homepage says new students are currently not accepted during sabbatical
-
----
-
-### Konrad Polthier
-
-**Freie Universität Berlin** · Germany
-
-**Research:** Discrete Geometry · Visualization & Rendering
-
-[Homepage ↗](https://page.math.tu-berlin.de/~polthier/) · **Profile:** A — Established leader / internationally recognized
-
-> Verify the current appointment and admissions before applying
-
----
+- **[Keenan Crane](https://www.cs.cmu.edu/~kmcrane/)** · Carnegie Mellon University · United States · **A**<br>
+  Discrete Geometry · Mesh & Surface Processing — *On sabbatical; not accepting new students*
+- **[Konrad Polthier](https://page.math.tu-berlin.de/~polthier/)** · Freie Universität Berlin · Germany · **A**<br>
+  Discrete Geometry · Visualization & Rendering
 
 [Back to top ↑](#top)
 
@@ -144,41 +70,12 @@
 
 ## M
 
-### Martin Rumpf
-
-**University of Bonn** · Germany
-
-**Research:** Discrete Geometry · Computational Geometry & Topology
-
-[Homepage ↗](https://www.ins.uni-bonn.de/people/rumpf/) · **Profile:** A — Established leader / internationally recognized
-
-> Department profile listed
-
----
-
-### Mathieu Desbrun
-
-**Caltech / Inria** · United States / France
-
-**Research:** Discrete Geometry · Mesh & Surface Processing
-
-[Homepage ↗](https://www.geometry.caltech.edu/) · **Profile:** A — Established leader / internationally recognized
-
-> The Caltech page says operations moved to France in 2021; verify the current appointment
-
----
-
-### Mirela Ben-Chen
-
-**Technion** · Israel
-
-**Research:** Discrete Geometry · Mesh & Surface Processing
-
-[Homepage ↗](https://mirela.net.technion.ac.il/) · **Profile:** A — Established leader / internationally recognized
-
-> Verify the current appointment and admissions before applying
-
----
+- **[Martin Rumpf](https://www.ins.uni-bonn.de/people/rumpf/)** · University of Bonn · Germany · **A**<br>
+  Discrete Geometry · Computational Geometry & Topology
+- **[Mathieu Desbrun](https://www.geometry.caltech.edu/)** · Caltech / Inria · United States / France · **A**<br>
+  Discrete Geometry · Mesh & Surface Processing — *Operations moved to France in 2021; verify appointment*
+- **[Mirela Ben-Chen](https://mirela.net.technion.ac.il/)** · Technion · Israel · **A**<br>
+  Discrete Geometry · Mesh & Surface Processing
 
 [Back to top ↑](#top)
 
@@ -186,17 +83,8 @@
 
 ## N
 
-### Niklas Affolter
-
-**TU Wien** · Austria
-
-**Research:** Discrete Geometry · Mesh & Surface Processing
-
-[Homepage ↗](https://www.tuwien.at/en/mc/geometry-and-computer-graphics/people/niklas-affolter) · **Profile:** C — Early-career / cross-institution researcher
-
-> Early-career researcher; verify admissions before applying
-
----
+- **[Niklas Affolter](https://www.tuwien.at/en/mc/geometry-and-computer-graphics/people/niklas-affolter)** · TU Wien · Austria · **C**<br>
+  Discrete Geometry · Mesh & Surface Processing
 
 [Back to top ↑](#top)
 
@@ -204,17 +92,8 @@
 
 ## O
 
-### Oded Stein
-
-**Technion / USC** · Israel / United States
-
-**Research:** Discrete Geometry · Mesh & Surface Processing · Computational Geometry & Topology
-
-[Homepage ↗](https://odedstein.com/) · **Profile:** C — Early-career / cross-institution researcher
-
-> Homepage lists USC Assistant Professor and Technion Senior Lecturer (2026)
-
----
+- **[Oded Stein](https://odedstein.com/)** · Technion / USC · Israel / United States · **C**<br>
+  Discrete Geometry · Mesh & Surface Processing · Computational Geometry & Topology — *USC Assistant Professor; Technion Senior Lecturer (2026)*
 
 [Back to top ↑](#top)
 
@@ -222,17 +101,8 @@
 
 ## P
 
-### Peter Schröder
-
-**Caltech** · United States
-
-**Research:** Discrete Geometry · Mesh & Surface Processing
-
-[Homepage ↗](https://www.geometry.caltech.edu/people/schroeder.html) · **Profile:** A — Established leader / internationally recognized
-
-> Verify the current appointment and admissions before applying
-
----
+- **[Peter Schröder](https://www.geometry.caltech.edu/people/schroeder.html)** · Caltech · United States · **A**<br>
+  Discrete Geometry · Mesh & Surface Processing
 
 [Back to top ↑](#top)
 
@@ -240,16 +110,7 @@
 
 ## X
 
-### Xianfeng David Gu
-
-**Stony Brook University** · United States
-
-**Research:** Discrete Geometry · Shape Analysis & Geometric Learning
-
-[Homepage ↗](https://www3.cs.stonybrook.edu/~gu/) · **Profile:** A — Established leader / internationally recognized
-
-> Public profile checked
-
----
+- **[Xianfeng David Gu](https://www3.cs.stonybrook.edu/~gu/)** · Stony Brook University · United States · **A**<br>
+  Discrete Geometry · Shape Analysis & Geometric Learning
 
 [Back to top ↑](#top)

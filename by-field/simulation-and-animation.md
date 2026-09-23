@@ -12,17 +12,8 @@
 
 ## A
 
-### Adriana Schulz
-
-**University of Wisconsin–Madison** · United States
-
-**Research:** Geometric Modeling & Design · Simulation & Animation
-
-[Homepage ↗](https://www.adrianaschulz.com/) · **Profile:** B — Core faculty / active research group
-
-> Personal site is changing; verify the current university appointment
-
----
+- **[Adriana Schulz](https://www.adrianaschulz.com/)** · University of Wisconsin–Madison · United States · **B**<br>
+  Geometric Modeling & Design · Simulation & Animation — *Website and appointment need verification*
 
 [Back to top ↑](#top)
 
@@ -30,17 +21,8 @@
 
 ## B
 
-### Bernd Bickel
-
-**ETH Zurich** · Switzerland
-
-**Research:** Geometric Modeling & Design · Simulation & Animation
-
-[Homepage ↗](https://berndbickel.com/) · **Profile:** A — Established leader / internationally recognized
-
-> Homepage says he has been a full professor of computational design at ETH since 2024
-
----
+- **[Bernd Bickel](https://berndbickel.com/)** · ETH Zurich · Switzerland · **A**<br>
+  Geometric Modeling & Design · Simulation & Animation — *ETH Professor of Computational Design since 2024*
 
 [Back to top ↑](#top)
 
@@ -48,29 +30,10 @@
 
 ## D
 
-### David I. W. Levin
-
-**University of Toronto** · Canada
-
-**Research:** Simulation & Animation · Mesh & Surface Processing
-
-[Homepage ↗](https://www.dgp.toronto.edu/~dilevin/) · **Profile:** A — Established leader / internationally recognized
-
-> Verify the current appointment and admissions before applying
-
----
-
-### Dinesh Manocha
-
-**University of Maryland** · United States
-
-**Research:** Computational Geometry & Topology · Simulation & Animation
-
-[Homepage ↗](https://www.cs.unc.edu/~dm/) · **Profile:** A — Established leader / internationally recognized
-
-> Long-standing personal page; verify the current university appointment
-
----
+- **[David I. W. Levin](https://www.dgp.toronto.edu/~dilevin/)** · University of Toronto · Canada · **A**<br>
+  Simulation & Animation · Mesh & Surface Processing
+- **[Dinesh Manocha](https://www.cs.unc.edu/~dm/)** · University of Maryland · United States · **A**<br>
+  Computational Geometry & Topology · Simulation & Animation — *Older homepage; verify appointment*
 
 [Back to top ↑](#top)
 
@@ -78,17 +41,8 @@
 
 ## E
 
-### Eitan Grinspun
-
-**University of Toronto** · Canada
-
-**Research:** Simulation & Animation · Discrete Geometry
-
-[Homepage ↗](https://www.dgp.toronto.edu/~eitan/) · **Profile:** A — Established leader / internationally recognized
-
-> Homepage shows a move to Toronto and graduate recruitment
-
----
+- **[Eitan Grinspun](https://www.dgp.toronto.edu/~eitan/)** · University of Toronto · Canada · **A**<br>
+  Simulation & Animation · Discrete Geometry — *Recruiting graduate students; previously at Columbia*
 
 [Back to top ↑](#top)
 
@@ -96,29 +50,10 @@
 
 ## J
 
-### Jan Bender
-
-**RWTH Aachen University** · Germany
-
-**Research:** Simulation & Animation · Mesh & Surface Processing
-
-[Homepage ↗](https://www.janbender.de/) · **Profile:** A — Established leader / internationally recognized
-
-> Verify the current appointment and admissions before applying
-
----
-
-### Julian Panetta
-
-**University of California, Davis** · United States
-
-**Research:** Geometric Modeling & Design · Simulation & Animation
-
-[Homepage ↗](https://julianpanetta.com/) · **Profile:** B — Core faculty / active research group
-
-> Verify the current appointment and admissions before applying
-
----
+- **[Jan Bender](https://www.janbender.de/)** · RWTH Aachen University · Germany · **A**<br>
+  Simulation & Animation · Mesh & Surface Processing
+- **[Julian Panetta](https://julianpanetta.com/)** · University of California, Davis · United States · **B**<br>
+  Geometric Modeling & Design · Simulation & Animation
 
 [Back to top ↑](#top)
 
@@ -126,17 +61,8 @@
 
 ## K
 
-### Karan Singh
-
-**University of Toronto** · Canada
-
-**Research:** Geometric Modeling & Design · Simulation & Animation
-
-[Homepage ↗](https://www.dgp.toronto.edu/~karan/) · **Profile:** A — Established leader / internationally recognized
-
-> Verify student intake before applying
-
----
+- **[Karan Singh](https://www.dgp.toronto.edu/~karan/)** · University of Toronto · Canada · **A**<br>
+  Geometric Modeling & Design · Simulation & Animation
 
 [Back to top ↑](#top)
 
@@ -144,29 +70,10 @@
 
 ## M
 
-### Marie-Paule Cani
-
-**École Polytechnique / Inria** · France
-
-**Research:** Geometric Modeling & Design · Simulation & Animation
-
-[Homepage ↗](https://www.lix.polytechnique.fr/Labo/Marie-Paule.Cani/) · **Profile:** A — Established leader / internationally recognized
-
-> Public profile checked
-
----
-
-### Matthias Teschner
-
-**University of Freiburg** · Germany
-
-**Research:** Simulation & Animation · Mesh & Surface Processing
-
-[Homepage ↗](https://cg.informatik.uni-freiburg.de/people/teschner.htm) · **Profile:** A — Established leader / internationally recognized
-
-> Department profile listed
-
----
+- **[Marie-Paule Cani](https://www.lix.polytechnique.fr/Labo/Marie-Paule.Cani/)** · École Polytechnique / Inria · France · **A**<br>
+  Geometric Modeling & Design · Simulation & Animation
+- **[Matthias Teschner](https://cg.informatik.uni-freiburg.de/people/teschner.htm)** · University of Freiburg · Germany · **A**<br>
+  Simulation & Animation · Mesh & Surface Processing
 
 [Back to top ↑](#top)
 
@@ -174,16 +81,7 @@
 
 ## R
 
-### Robert Bridson
-
-**University of British Columbia** · Canada
-
-**Research:** Simulation & Animation · Mesh & Surface Processing
-
-[Homepage ↗](https://www.cs.ubc.ca/~rbridson/) · **Profile:** A — Established leader / internationally recognized
-
-> Public profile checked
-
----
+- **[Robert Bridson](https://www.cs.ubc.ca/~rbridson/)** · University of British Columbia · Canada · **A**<br>
+  Simulation & Animation · Mesh & Surface Processing
 
 [Back to top ↑](#top)
