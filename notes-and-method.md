@@ -1,25 +1,37 @@
-# 使用说明与核验备注
+# Method and Verification Notes
 
-## 文件结构
+## Directory structure
 
-- people/all.md：全部研究者的主表，可用 GitHub 页面搜索按姓名、学校、国家或关键词查找。
-- by-region/：按地区拆分。
-- by-field/：按研究方向拆分；交叉研究者会在多个方向文件中出现。
-- by-profile/：按 A/B/C 影响力层级拆分。它是检索标签，不是排行榜。
+- people/all.md contains every researcher as a profile card.
+- by-region/ groups cards by region.
+- by-field/ groups cards by research area. Cross-disciplinary researchers appear in multiple files.
+- by-profile/ uses A/B/C discovery tags.
 
-## 方向标签
+## Research-area tags
 
-- 网格/曲面：网格生成、重网格、参数化、曲面编辑、曲面重建。
-- 离散几何：离散微分几何、共形几何、离散曲面。
-- 形状/几何学习：形状匹配、点云学习、几何深度学习、神经表示。
-- 建模/设计：几何建模、计算设计、数字制造、建筑几何。
-- 仿真：布料、软体、流体、物理动画和几何优化。
-- 三维视觉：三维重建、扫描、人体／场景建模。
-- 计算几何/拓扑：网格理论、计算拓扑、几何数据结构、Delaunay 方法。
-- 可视化/渲染：科学可视化、实时几何、渲染和几何表示。
+- **Mesh & Surface Processing:** mesh generation, remeshing, parameterization, surface editing, and reconstruction.
+- **Discrete Geometry:** discrete differential geometry, conformal geometry, and discrete surfaces.
+- **Shape Analysis & Geometric Learning:** shape matching, point-cloud learning, geometric deep learning, and neural representations.
+- **Geometric Modeling & Design:** geometric modeling, computational design, digital fabrication, and architectural geometry.
+- **Simulation & Animation:** cloth, soft bodies, fluids, physical animation, and geometry optimization.
+- **3D Vision & Reconstruction:** 3D reconstruction, scanning, and human or scene modeling.
+- **Computational Geometry & Topology:** geometric data structures, computational topology, Delaunay methods, and mesh theory.
+- **Visualization & Rendering:** scientific visualization, real-time geometry, rendering, and geometric representations.
 
-## 核验原则
+## Verification
 
-这份目录把前几轮对话中提到的名单合并成一个可检索目录，并对少数主页做了复核。状态字段会标出转校、休假、研究员编制、Adjunct 或主页较旧等情况。申请前应再次确认当前任职、是否招收博士或访问学生、经费和具体项目方向。
+The directory consolidates the names collected in the earlier research passes. A small set of official pages was checked again while preparing this repository. Each card includes a note when an appointment is cross-institutional, a research institute role, a sabbatical notice, an adjunct appointment, or a page that needs extra verification.
 
-已复核的更正包括：Eitan Grinspun 目前在多伦多大学；Michael Bronstein 目前为牛津大学 DeepMind Professor；Wenping Wang 目前为 Texas A&M University 教授；Tamal K. Dey 目前在 Purdue University；Bernd Bickel 目前为 ETH Zurich 计算设计教授；Oded Stein 主页显示 USC Assistant Professor 与 Technion Senior Lecturer；Hsueh-Ti Derek Liu 主页显示 Roblox Senior Research Scientist、UBC Adjunct Professor。
+Before contacting or applying, verify the current appointment, whether the researcher is accepting students, funding, and the fit with your proposed topic. The directory is a discovery aid, not an admissions database.
+
+## Appointment corrections recorded during the initial compilation
+
+- [Eitan Grinspun](https://www.dgp.toronto.edu/~eitan/): University of Toronto.
+- [Michael Bronstein](https://www.cs.ox.ac.uk/people/michael.bronstein/): DeepMind Professor at the University of Oxford.
+- [Wenping Wang](https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html): Professor at Texas A&M University.
+- [Tamal K. Dey](https://www.cs.purdue.edu/homes/tamaldey/): Purdue University.
+- [Bernd Bickel](https://berndbickel.com/): Professor of Computational Design at ETH Zurich.
+- [Oded Stein](https://odedstein.com/): homepage lists USC Assistant Professor and Technion Senior Lecturer.
+- [Hsueh-Ti Derek Liu](https://www.dgp.toronto.edu/~hsuehtil/): homepage lists Roblox Senior Research Scientist and UBC Adjunct Professor.
+
+These notes were recorded in September 2026. This language and layout revision does not constitute a fresh verification of all profiles.

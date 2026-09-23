@@ -1,21 +1,19 @@
 # Geometry-People
 
-全球图形学、几何处理、计算几何与三维视觉研究者索引。
+An English, searchable directory of researchers in computer graphics, geometry processing, computational geometry, geometric learning, simulation, and 3D vision.
 
-## 快速入口
+## Browse the directory
 
-- [全部研究者](people/all.md)
-- [按地区](by-region/)
-- [按研究方向](by-field/)
-- [按影响力层级／研究阶段](by-profile/)
-- [使用说明与核验备注](notes-and-method.md)
+- [All researchers](people/all.md) — 92 researcher cards with institution, country, research areas, homepage, and notes.
+- [Browse by region](by-region/README.md)
+- [Browse by research area](by-field/README.md)
+- [Browse by profile tag](by-profile/README.md)
+- [Method and verification notes](notes-and-method.md)
 
-## 推荐检索方式
+## How to use it
 
-1. 先按地区打开文件，再用 GitHub 页面搜索学校或姓名。
-2. 想找具体方向时，直接打开 by-field/ 中对应的文件。
-3. 申请博士时先看 by-profile/a.md，再回到个人主页核对招生状态。
+1. Choose a region, research area, or profile tag. Use the country or alphabetical shortcuts to jump down the page.
+2. Read each profile at a glance: institution and location, research interests, homepage, and notes.
+3. Use your browser's Find command to search a name, institution, or keyword. Open **Homepage ↗** for the source page.
 
-## 说明
-
-目前目录收录 92 位研究者。A/B/C 是检索标签，不是严格排名；任职和招生信息会变化，请以个人主页和院系页面为准。
+The A/B/C labels are editorial discovery tags rather than a strict academic ranking. Appointments and admissions change over time; verify them on the official page before applying.

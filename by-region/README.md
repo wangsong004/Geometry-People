@@ -1,7 +1,11 @@
-# 按地区
+[Home](../README.md) · [All people](../people/all.md)
 
-- [欧洲](欧洲.md)
-- [北美](北美.md)
-- [以色列与中东](以色列-中东.md)
-- [中国大陆、港澳台](中国-港澳台.md)
-- [亚洲其他地区](亚洲其他地区.md)
+# Browse by Region
+
+Choose a region, then jump to a country within the page.
+
+- **[North America](north-america.md)** — 32 researchers
+- **[Europe](europe.md)** — 44 researchers
+- **[Other Asia](other-asia.md)** — 5 researchers
+- **[Israel & Middle East](israel-and-middle-east.md)** — 6 researchers
+- **[Mainland China / Hong Kong / Taiwan](mainland-china-hong-kong-taiwan.md)** — 5 researchers

@@ -1,7 +1,9 @@
-# 按影响力层级／研究阶段
+[Home](../README.md) · [All people](../people/all.md)
 
-- [A：奠基／国际公认](a.md)
-- [B：核心教授／活跃研究组](b.md)
-- [C：新锐／跨机构研究者](c.md)
+# Browse by Profile Tag
 
-这些是检索标签，不是严格的学术排名。
+These inherited editorial tags combine research visibility and career context. They are not a formal ranking or an assessment of teaching or supervision quality.
+
+- **[A: Established Leaders](a.md)** — 72 researchers
+- **[B: Core Faculty & Active Groups](b.md)** — 14 researchers
+- **[C: Early-Career & Cross-Institution Researchers](c.md)** — 6 researchers

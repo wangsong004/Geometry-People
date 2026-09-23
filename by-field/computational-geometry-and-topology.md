@@ -1,27 +1,333 @@
-# 按方向：计算几何/拓扑
+<a id="top"></a>
 
-21 位研究者。交叉方向会在多个文件中出现。
+[Home](../README.md) · [All people](../people/all.md) · [Regions](../by-region/README.md) · [Research areas](../by-field/README.md) · [Profile tags](../by-profile/README.md)
 
-| 人员 | 学校／机构 | 国家／地区 | 方向 | 影响力层级 | 主页 | 状态 |
-|---|---|---|---|---|---|---|
-| Daniele Panozzo | New York University | 美国 | 网格/曲面；计算几何/拓扑 | A | [主页](https://cims.nyu.edu/gcl/daniele.html) | 公开主页已核实 |
-| Justin Solomon | MIT | 美国 | 形状/几何学习；计算几何/拓扑 | A | [主页](https://www.csail.mit.edu/person/justin-solomon) | 申请前核对任职与招生 |
-| Pierre Alliez | Inria / Université Côte d’Azur | 法国 | 网格/曲面；计算几何/拓扑 | A | [主页](https://team.inria.fr/geometrica/members/pierre-alliez/) | 研究员，非传统教授编制 |
-| Bruno Lévy | Inria | 法国 | 网格/曲面；计算几何/拓扑 | A | [主页](https://brunolevy.github.io/) | 研究员，非传统教授编制 |
-| Leonidas Guibas | Stanford University | 美国 | 计算几何/拓扑；形状/几何学习 | A | [主页](https://geometry.stanford.edu/member/guibas/) | 公开课题组主页 |
-| Steven Gortler | Harvard University | 美国 | 计算几何/拓扑；网格/曲面 | A | [主页](https://www.seas.harvard.edu/directory/gortler) | 公开院系主页 |
-| Martin Rumpf | University of Bonn | 德国 | 离散几何；计算几何/拓扑 | A | [主页](https://www.ins.uni-bonn.de/people/rumpf/) | 公开院系主页 |
-| Marco Livesu | University of Cagliari / CNR | 意大利 | 网格/曲面；计算几何/拓扑 | B | [主页](https://www.imit.ge.cnr.it/People/Livesu/) | 主页连接可能不稳定，申请前核对 |
-| Marco Attene | CNR-IMATI | 意大利 | 网格/曲面；计算几何/拓扑 | A | [主页](https://www.cnr.it/en/people/marco.attene) | 研究员，非传统教授编制 |
-| Dinesh Manocha | University of Maryland | 美国 | 计算几何/拓扑；仿真 | A | [主页](https://www.cs.unc.edu/~dm/) | 主页链接为长期个人主页，学校任职需核对 |
-| Chandrajit Bajaj | University of Texas at Austin | 美国 | 计算几何/拓扑；三维视觉 | A | [主页](https://www.cs.utexas.edu/~bajaj/) | 公开院系主页 |
-| Tino Weinkauf | KTH Royal Institute of Technology | 瑞典 | 可视化/渲染；计算几何/拓扑 | A | [主页](https://www.csc.kth.se/~weinkauf/) | 申请前核对任职与招生 |
-| Rüdiger Westermann | Technical University of Munich | 德国 | 可视化/渲染；计算几何/拓扑 | A | [主页](https://www.cs.cit.tum.de/en/people/ruediger-westermann/) | 公开院系主页 |
-| Christoph Garth | RPTU Kaiserslautern-Landau | 德国 | 可视化/渲染；计算几何/拓扑 | B | [主页](https://www.cs.uni-kl.de/en/people/garth) | 申请前核对任职与招生 |
-| Oded Stein | Technion / USC | 以色列/美国 | 离散几何；网格/曲面；计算几何/拓扑 | C | [主页](https://odedstein.com/) | 主页显示USC Assistant Professor、Technion Senior Lecturer（2026） |
-| Shankar Krishnan | Rensselaer Polytechnic Institute | 美国 | 计算几何/拓扑；网格/曲面 | A | [主页](https://www.cs.rpi.edu/~krish/) | 公开主页已核实 |
-| Herbert Edelsbrunner | Institute of Science and Technology Austria | 奥地利 | 计算几何/拓扑；形状/几何学习 | A | [主页](https://ista.ac.at/en/research/edelsbrunner-group/) | 公开研究组主页 |
-| Tamal K. Dey | Purdue University | 美国 | 计算几何/拓扑；网格/曲面 | A | [主页](https://www.cs.purdue.edu/homes/tamaldey/) | 已从Ohio State转至Purdue，公开主页已核实 |
-| Siu-Wing Cheng | Hong Kong University of Science and Technology | 中国香港 | 计算几何/拓扑；网格/曲面 | A | [主页](https://www.cs.ust.hk/~scheng/) | 公开主页已核实 |
-| Otfried Cheong | KAIST | 韩国 | 计算几何/拓扑；网格/曲面 | A | [主页](http://otl.kaist.ac.kr/~otfried/) | 公开主页已核实 |
-| Marc Pollefeys | ETH Zurich | 瑞士 | 三维视觉；计算几何/拓扑 | A | [主页](https://cvg.ethz.ch/people/pollefeys/) | 公开课题组主页 |
+# Computational Geometry & Topology
+
+21 researchers tagged with this research area. Cross-disciplinary researchers appear in more than one file.
+
+**Jump to:** [B](#group-b) · [C](#group-c) · [D](#group-d) · [H](#group-h) · [J](#group-j) · [L](#group-l) · [M](#group-m) · [O](#group-o) · [P](#group-p) · [R](#group-r) · [S](#group-s) · [T](#group-t)
+
+<a id="group-b"></a>
+
+## B
+
+### Bruno Lévy
+
+**Inria** · France
+
+**Research:** Mesh & Surface Processing · Computational Geometry & Topology
+
+[Homepage ↗](https://brunolevy.github.io/) · **Profile:** A — Established leader / internationally recognized
+
+> Research institute role rather than a standard university professorship
+
+---
+
+[Back to top ↑](#top)
+
+<a id="group-c"></a>
+
+## C
+
+### Chandrajit Bajaj
+
+**University of Texas at Austin** · United States
+
+**Research:** Computational Geometry & Topology · 3D Vision & Reconstruction
+
+[Homepage ↗](https://www.cs.utexas.edu/~bajaj/) · **Profile:** A — Established leader / internationally recognized
+
+> Department profile listed
+
+---
+
+### Christoph Garth
+
+**RPTU Kaiserslautern-Landau** · Germany
+
+**Research:** Visualization & Rendering · Computational Geometry & Topology
+
+[Homepage ↗](https://www.cs.uni-kl.de/en/people/garth) · **Profile:** B — Core faculty / active research group
+
+> Verify the current appointment and admissions before applying
+
+---
+
+[Back to top ↑](#top)
+
+<a id="group-d"></a>
+
+## D
+
+### Daniele Panozzo
+
+**New York University** · United States
+
+**Research:** Mesh & Surface Processing · Computational Geometry & Topology
+
+[Homepage ↗](https://cims.nyu.edu/gcl/daniele.html) · **Profile:** A — Established leader / internationally recognized
+
+> Public profile checked
+
+---
+
+### Dinesh Manocha
+
+**University of Maryland** · United States
+
+**Research:** Computational Geometry & Topology · Simulation & Animation
+
+[Homepage ↗](https://www.cs.unc.edu/~dm/) · **Profile:** A — Established leader / internationally recognized
+
+> Long-standing personal page; verify the current university appointment
+
+---
+
+[Back to top ↑](#top)
+
+<a id="group-h"></a>
+
+## H
+
+### Herbert Edelsbrunner
+
+**Institute of Science and Technology Austria** · Austria
+
+**Research:** Computational Geometry & Topology · Shape Analysis & Geometric Learning
+
+[Homepage ↗](https://ista.ac.at/en/research/edelsbrunner-group/) · **Profile:** A — Established leader / internationally recognized
+
+> Research group page listed
+
+---
+
+[Back to top ↑](#top)
+
+<a id="group-j"></a>
+
+## J
+
+### Justin Solomon
+
+**MIT** · United States
+
+**Research:** Shape Analysis & Geometric Learning · Computational Geometry & Topology
+
+[Homepage ↗](https://www.csail.mit.edu/person/justin-solomon) · **Profile:** A — Established leader / internationally recognized
+
+> Verify the current appointment and admissions before applying
+
+---
+
+[Back to top ↑](#top)
+
+<a id="group-l"></a>
+
+## L
+
+### Leonidas Guibas
+
+**Stanford University** · United States
+
+**Research:** Computational Geometry & Topology · Shape Analysis & Geometric Learning
+
+[Homepage ↗](https://geometry.stanford.edu/member/guibas/) · **Profile:** A — Established leader / internationally recognized
+
+> Public lab page checked
+
+---
+
+[Back to top ↑](#top)
+
+<a id="group-m"></a>
+
+## M
+
+### Marc Pollefeys
+
+**ETH Zurich** · Switzerland
+
+**Research:** 3D Vision & Reconstruction · Computational Geometry & Topology
+
+[Homepage ↗](https://cvg.ethz.ch/people/pollefeys/) · **Profile:** A — Established leader / internationally recognized
+
+> Public lab page checked
+
+---
+
+### Marco Attene
+
+**CNR-IMATI** · Italy
+
+**Research:** Mesh & Surface Processing · Computational Geometry & Topology
+
+[Homepage ↗](https://www.cnr.it/en/people/marco.attene) · **Profile:** A — Established leader / internationally recognized
+
+> Research institute role rather than a standard university professorship
+
+---
+
+### Marco Livesu
+
+**University of Cagliari / CNR** · Italy
+
+**Research:** Mesh & Surface Processing · Computational Geometry & Topology
+
+[Homepage ↗](https://www.imit.ge.cnr.it/People/Livesu/) · **Profile:** B — Core faculty / active research group
+
+> Homepage may be unstable; verify before applying
+
+---
+
+### Martin Rumpf
+
+**University of Bonn** · Germany
+
+**Research:** Discrete Geometry · Computational Geometry & Topology
+
+[Homepage ↗](https://www.ins.uni-bonn.de/people/rumpf/) · **Profile:** A — Established leader / internationally recognized
+
+> Department profile listed
+
+---
+
+[Back to top ↑](#top)
+
+<a id="group-o"></a>
+
+## O
+
+### Oded Stein
+
+**Technion / USC** · Israel / United States
+
+**Research:** Discrete Geometry · Mesh & Surface Processing · Computational Geometry & Topology
+
+[Homepage ↗](https://odedstein.com/) · **Profile:** C — Early-career / cross-institution researcher
+
+> Homepage lists USC Assistant Professor and Technion Senior Lecturer (2026)
+
+---
+
+### Otfried Cheong
+
+**KAIST** · South Korea
+
+**Research:** Computational Geometry & Topology · Mesh & Surface Processing
+
+[Homepage ↗](http://otl.kaist.ac.kr/~otfried/) · **Profile:** A — Established leader / internationally recognized
+
+> Public profile checked
+
+---
+
+[Back to top ↑](#top)
+
+<a id="group-p"></a>
+
+## P
+
+### Pierre Alliez
+
+**Inria / Université Côte d’Azur** · France
+
+**Research:** Mesh & Surface Processing · Computational Geometry & Topology
+
+[Homepage ↗](https://team.inria.fr/geometrica/members/pierre-alliez/) · **Profile:** A — Established leader / internationally recognized
+
+> Research institute role rather than a standard university professorship
+
+---
+
+[Back to top ↑](#top)
+
+<a id="group-r"></a>
+
+## R
+
+### Rüdiger Westermann
+
+**Technical University of Munich** · Germany
+
+**Research:** Visualization & Rendering · Computational Geometry & Topology
+
+[Homepage ↗](https://www.cs.cit.tum.de/en/people/ruediger-westermann/) · **Profile:** A — Established leader / internationally recognized
+
+> Department profile listed
+
+---
+
+[Back to top ↑](#top)
+
+<a id="group-s"></a>
+
+## S
+
+### Shankar Krishnan
+
+**Rensselaer Polytechnic Institute** · United States
+
+**Research:** Computational Geometry & Topology · Mesh & Surface Processing
+
+[Homepage ↗](https://www.cs.rpi.edu/~krish/) · **Profile:** A — Established leader / internationally recognized
+
+> Public profile checked
+
+---
+
+### Siu-Wing Cheng
+
+**Hong Kong University of Science and Technology** · Hong Kong
+
+**Research:** Computational Geometry & Topology · Mesh & Surface Processing
+
+[Homepage ↗](https://www.cs.ust.hk/~scheng/) · **Profile:** A — Established leader / internationally recognized
+
+> Public profile checked
+
+---
+
+### Steven Gortler
+
+**Harvard University** · United States
+
+**Research:** Computational Geometry & Topology · Mesh & Surface Processing
+
+[Homepage ↗](https://www.seas.harvard.edu/directory/gortler) · **Profile:** A — Established leader / internationally recognized
+
+> Department profile listed
+
+---
+
+[Back to top ↑](#top)
+
+<a id="group-t"></a>
+
+## T
+
+### Tamal K. Dey
+
+**Purdue University** · United States
+
+**Research:** Computational Geometry & Topology · Mesh & Surface Processing
+
+[Homepage ↗](https://www.cs.purdue.edu/homes/tamaldey/) · **Profile:** A — Established leader / internationally recognized
+
+> Moved from Ohio State to Purdue; public profile checked
+
+---
+
+### Tino Weinkauf
+
+**KTH Royal Institute of Technology** · Sweden
+
+**Research:** Visualization & Rendering · Computational Geometry & Topology
+
+[Homepage ↗](https://www.csc.kth.se/~weinkauf/) · **Profile:** A — Established leader / internationally recognized
+
+> Verify the current appointment and admissions before applying
+
+---
+
+[Back to top ↑](#top)

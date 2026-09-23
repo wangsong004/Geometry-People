@@ -1,21 +1,255 @@
-# 按方向：离散几何
+<a id="top"></a>
 
-15 位研究者。交叉方向会在多个文件中出现。
+[Home](../README.md) · [All people](../people/all.md) · [Regions](../by-region/README.md) · [Research areas](../by-field/README.md) · [Profile tags](../by-profile/README.md)
 
-| 人员 | 学校／机构 | 国家／地区 | 方向 | 影响力层级 | 主页 | 状态 |
-|---|---|---|---|---|---|---|
-| Keenan Crane | Carnegie Mellon University | 美国 | 离散几何；网格/曲面 | A | [主页](https://www.cs.cmu.edu/~kmcrane/) | 主页注明暂不招收新学生（休假） |
-| Xianfeng David Gu | Stony Brook University | 美国 | 离散几何；形状/几何学习 | A | [主页](https://www3.cs.stonybrook.edu/~gu/) | 公开主页已核实 |
-| Mirela Ben-Chen | Technion | 以色列 | 离散几何；网格/曲面 | A | [主页](https://mirela.net.technion.ac.il/) | 申请前核对任职与招生 |
-| Eitan Grinspun | University of Toronto | 加拿大 | 仿真；离散几何 | A | [主页](https://www.dgp.toronto.edu/~eitan/) | 主页显示已转至多伦多并招收研究生 |
-| Peter Schröder | Caltech | 美国 | 离散几何；网格/曲面 | A | [主页](https://www.geometry.caltech.edu/people/schroeder.html) | 申请前核对任职与招生 |
-| Johannes Wallner | TU Graz | 奥地利 | 离散几何；建模/设计 | A | [主页](https://www.geometrie.tugraz.at/wallner/) | 公开主页已核实 |
-| Mathieu Desbrun | Caltech / Inria | 美国/法国 | 离散几何；网格/曲面 | A | [主页](https://www.geometry.caltech.edu/) | Caltech页面注明2021年起转向法国并暂停运营，需核对当前任职 |
-| Alexander Belyaev | Heriot-Watt University | 英国 | 网格/曲面；离散几何 | B | [主页](https://researchportal.hw.ac.uk/en/persons/alexander-belyaev/) | 公开研究门户显示Associate Professor |
-| Boris Springborn | TU Berlin | 德国 | 离散几何；网格/曲面 | A | [主页](https://page.math.tu-berlin.de/~springb/) | 公开主页已核实 |
-| Martin Rumpf | University of Bonn | 德国 | 离散几何；计算几何/拓扑 | A | [主页](https://www.ins.uni-bonn.de/people/rumpf/) | 公开院系主页 |
-| Konrad Polthier | Freie Universität Berlin | 德国 | 离散几何；可视化/渲染 | A | [主页](https://page.math.tu-berlin.de/~polthier/) | 申请前核对任职与招生 |
-| Alexander Bobenko | TU Berlin | 德国 | 离散几何；网格/曲面 | A | [主页](https://page.math.tu-berlin.de/~bobenko/) | 公开主页已核实 |
-| Niklas Affolter | TU Wien | 奥地利 | 离散几何；网格/曲面 | C | [主页](https://www.tuwien.at/en/mc/geometry-and-computer-graphics/people/niklas-affolter) | 新锐，申请前核对招生 |
-| Felix Dellinger | TU Wien | 奥地利 | 离散几何；网格/曲面 | C | [主页](https://www.tuwien.at/en/mc/geometry-and-computer-graphics/people/felix-dellinger) | 新锐，申请前核对招生 |
-| Oded Stein | Technion / USC | 以色列/美国 | 离散几何；网格/曲面；计算几何/拓扑 | C | [主页](https://odedstein.com/) | 主页显示USC Assistant Professor、Technion Senior Lecturer（2026） |
+# Discrete Geometry
+
+15 researchers tagged with this research area. Cross-disciplinary researchers appear in more than one file.
+
+**Jump to:** [A](#group-a) · [B](#group-b) · [E](#group-e) · [F](#group-f) · [J](#group-j) · [K](#group-k) · [M](#group-m) · [N](#group-n) · [O](#group-o) · [P](#group-p) · [X](#group-x)
+
+<a id="group-a"></a>
+
+## A
+
+### Alexander Belyaev
+
+**Heriot-Watt University** · United Kingdom
+
+**Research:** Mesh & Surface Processing · Discrete Geometry
+
+[Homepage ↗](https://researchportal.hw.ac.uk/en/persons/alexander-belyaev/) · **Profile:** B — Core faculty / active research group
+
+> Research portal lists an Associate Professor appointment
+
+---
+
+### Alexander Bobenko
+
+**TU Berlin** · Germany
+
+**Research:** Discrete Geometry · Mesh & Surface Processing
+
+[Homepage ↗](https://page.math.tu-berlin.de/~bobenko/) · **Profile:** A — Established leader / internationally recognized
+
+> Public profile checked
+
+---
+
+[Back to top ↑](#top)
+
+<a id="group-b"></a>
+
+## B
+
+### Boris Springborn
+
+**TU Berlin** · Germany
+
+**Research:** Discrete Geometry · Mesh & Surface Processing
+
+[Homepage ↗](https://page.math.tu-berlin.de/~springb/) · **Profile:** A — Established leader / internationally recognized
+
+> Public profile checked
+
+---
+
+[Back to top ↑](#top)
+
+<a id="group-e"></a>
+
+## E
+
+### Eitan Grinspun
+
+**University of Toronto** · Canada
+
+**Research:** Simulation & Animation · Discrete Geometry
+
+[Homepage ↗](https://www.dgp.toronto.edu/~eitan/) · **Profile:** A — Established leader / internationally recognized
+
+> Homepage shows a move to Toronto and graduate recruitment
+
+---
+
+[Back to top ↑](#top)
+
+<a id="group-f"></a>
+
+## F
+
+### Felix Dellinger
+
+**TU Wien** · Austria
+
+**Research:** Discrete Geometry · Mesh & Surface Processing
+
+[Homepage ↗](https://www.tuwien.at/en/mc/geometry-and-computer-graphics/people/felix-dellinger) · **Profile:** C — Early-career / cross-institution researcher
+
+> Early-career researcher; verify admissions before applying
+
+---
+
+[Back to top ↑](#top)
+
+<a id="group-j"></a>
+
+## J
+
+### Johannes Wallner
+
+**TU Graz** · Austria
+
+**Research:** Discrete Geometry · Geometric Modeling & Design
+
+[Homepage ↗](https://www.geometrie.tugraz.at/wallner/) · **Profile:** A — Established leader / internationally recognized
+
+> Public profile checked
+
+---
+
+[Back to top ↑](#top)
+
+<a id="group-k"></a>
+
+## K
+
+### Keenan Crane
+
+**Carnegie Mellon University** · United States
+
+**Research:** Discrete Geometry · Mesh & Surface Processing
+
+[Homepage ↗](https://www.cs.cmu.edu/~kmcrane/) · **Profile:** A — Established leader / internationally recognized
+
+> Homepage says new students are currently not accepted during sabbatical
+
+---
+
+### Konrad Polthier
+
+**Freie Universität Berlin** · Germany
+
+**Research:** Discrete Geometry · Visualization & Rendering
+
+[Homepage ↗](https://page.math.tu-berlin.de/~polthier/) · **Profile:** A — Established leader / internationally recognized
+
+> Verify the current appointment and admissions before applying
+
+---
+
+[Back to top ↑](#top)
+
+<a id="group-m"></a>
+
+## M
+
+### Martin Rumpf
+
+**University of Bonn** · Germany
+
+**Research:** Discrete Geometry · Computational Geometry & Topology
+
+[Homepage ↗](https://www.ins.uni-bonn.de/people/rumpf/) · **Profile:** A — Established leader / internationally recognized
+
+> Department profile listed
+
+---
+
+### Mathieu Desbrun
+
+**Caltech / Inria** · United States / France
+
+**Research:** Discrete Geometry · Mesh & Surface Processing
+
+[Homepage ↗](https://www.geometry.caltech.edu/) · **Profile:** A — Established leader / internationally recognized
+
+> The Caltech page says operations moved to France in 2021; verify the current appointment
+
+---
+
+### Mirela Ben-Chen
+
+**Technion** · Israel
+
+**Research:** Discrete Geometry · Mesh & Surface Processing
+
+[Homepage ↗](https://mirela.net.technion.ac.il/) · **Profile:** A — Established leader / internationally recognized
+
+> Verify the current appointment and admissions before applying
+
+---
+
+[Back to top ↑](#top)
+
+<a id="group-n"></a>
+
+## N
+
+### Niklas Affolter
+
+**TU Wien** · Austria
+
+**Research:** Discrete Geometry · Mesh & Surface Processing
+
+[Homepage ↗](https://www.tuwien.at/en/mc/geometry-and-computer-graphics/people/niklas-affolter) · **Profile:** C — Early-career / cross-institution researcher
+
+> Early-career researcher; verify admissions before applying
+
+---
+
+[Back to top ↑](#top)
+
+<a id="group-o"></a>
+
+## O
+
+### Oded Stein
+
+**Technion / USC** · Israel / United States
+
+**Research:** Discrete Geometry · Mesh & Surface Processing · Computational Geometry & Topology
+
+[Homepage ↗](https://odedstein.com/) · **Profile:** C — Early-career / cross-institution researcher
+
+> Homepage lists USC Assistant Professor and Technion Senior Lecturer (2026)
+
+---
+
+[Back to top ↑](#top)
+
+<a id="group-p"></a>
+
+## P
+
+### Peter Schröder
+
+**Caltech** · United States
+
+**Research:** Discrete Geometry · Mesh & Surface Processing
+
+[Homepage ↗](https://www.geometry.caltech.edu/people/schroeder.html) · **Profile:** A — Established leader / internationally recognized
+
+> Verify the current appointment and admissions before applying
+
+---
+
+[Back to top ↑](#top)
+
+<a id="group-x"></a>
+
+## X
+
+### Xianfeng David Gu
+
+**Stony Brook University** · United States
+
+**Research:** Discrete Geometry · Shape Analysis & Geometric Learning
+
+[Homepage ↗](https://www3.cs.stonybrook.edu/~gu/) · **Profile:** A — Established leader / internationally recognized
+
+> Public profile checked
+
+---
+
+[Back to top ↑](#top)
