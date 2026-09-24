@@ -4,9 +4,9 @@
 
 # Geometric Modeling & Design
 
-30 researchers tagged with this research area. Cross-disciplinary researchers appear in more than one file.
+45 researchers tagged with this research area. Cross-disciplinary researchers appear in more than one file.
 
-**Jump to:** [A](#group-a) · [B](#group-b) · [D](#group-d) · [G](#group-g) · [J](#group-j) · [K](#group-k) · [L](#group-l) · [M](#group-m) · [N](#group-n) · [O](#group-o) · [P](#group-p) · [S](#group-s) · [T](#group-t) · [W](#group-w)
+**Jump to:** [A](#group-a) · [B](#group-b) · [C](#group-c) · [D](#group-d) · [F](#group-f) · [G](#group-g) · [H](#group-h) · [J](#group-j) · [K](#group-k) · [L](#group-l) · [M](#group-m) · [N](#group-n) · [O](#group-o) · [P](#group-p) · [S](#group-s) · [T](#group-t) · [W](#group-w) · [X](#group-x) · [Y](#group-y)
 
 <a id="group-a"></a>
 
@@ -32,6 +32,17 @@
 
 [Back to top ↑](#top)
 
+<a id="group-c"></a>
+
+## C
+
+- **[Changhe Tu](http://irc.cs.sdu.edu.cn/~chtu/index.html)** · Shandong University · China · **A**<br>
+  Mesh & Surface Processing · Geometric Modeling & Design
+- **[Chenfanfu Jiang](https://www.math.ucla.edu/~cffjiang/)** · University of California, Los Angeles · United States · **A**<br>
+  Simulation & Animation · Geometric Modeling & Design
+
+[Back to top ↑](#top)
+
 <a id="group-d"></a>
 
 ## D
@@ -40,6 +51,17 @@
   Geometric Modeling & Design · Shape Analysis & Geometric Learning
 - **[Denis Zorin](https://cs.nyu.edu/~dzorin/)** · New York University · United States · **A**<br>
   Mesh & Surface Processing · Geometric Modeling & Design
+- **[Dong-Ming Yan](https://sites.google.com/site/yandongming/)** · Institute of Automation, Chinese Academy of Sciences · China · **B**<br>
+  Mesh & Surface Processing · Geometric Modeling & Design — *Research institute appointment*
+
+[Back to top ↑](#top)
+
+<a id="group-f"></a>
+
+## F
+
+- **[Falai Chen](http://staff.ustc.edu.cn/~chenfl/)** · University of Science and Technology of China · China · **A**<br>
+  Geometric Modeling & Design · Mesh & Surface Processing — *Older faculty homepage; current appointment needs rechecking*
 
 [Back to top ↑](#top)
 
@@ -52,16 +74,31 @@
 
 [Back to top ↑](#top)
 
+<a id="group-h"></a>
+
+## H
+
+- **[Haisen Zhao](https://haisenzhao.github.io/)** · Shandong University · China · **B**<br>
+  Geometric Modeling & Design · Mesh & Surface Processing
+- **[Hao (Richard) Zhang](https://www.cs.sfu.ca/~haoz/)** · Simon Fraser University / Augmenta · Canada · **A**<br>
+  Shape Analysis & Geometric Learning · Geometric Modeling & Design — *SFU Professor; VP of AI and R&D at Augmenta*
+- **[Hao Pan](https://haopan.github.io/)** · Tsinghua University · China · **B**<br>
+  Geometric Modeling & Design · Mesh & Surface Processing · Shape Analysis & Geometric Learning — *Joined Tsinghua in September 2024; previously at Microsoft Research Asia*
+- **[Hongwei Lin](http://www.cad.zju.edu.cn/home/hwlin/index_en.html)** · Zhejiang University · China · **B**<br>
+  Geometric Modeling & Design · Computational Geometry & Topology — *Older faculty homepage; current appointment needs rechecking*
+
+[Back to top ↑](#top)
+
 <a id="group-j"></a>
 
 ## J
 
 - **[Johannes Wallner](https://www.geometrie.tugraz.at/wallner/)** · TU Graz · Austria · **A**<br>
   Discrete Geometry · Geometric Modeling & Design
-- **[Jörg Peters](https://people.clas.ufl.edu/jpeters/)** · University of Florida · United States · **A**<br>
-  Geometric Modeling & Design · Mesh & Surface Processing
 - **[Julian Panetta](https://julianpanetta.com/)** · University of California, Davis · United States · **B**<br>
   Geometric Modeling & Design · Simulation & Animation
+- **[Jörg Peters](https://people.clas.ufl.edu/jpeters/)** · University of Florida · United States · **A**<br>
+  Geometric Modeling & Design · Mesh & Surface Processing
 
 [Back to top ↑](#top)
 
@@ -84,6 +121,8 @@
   Mesh & Surface Processing · Geometric Modeling & Design
 - **[Ligang Liu](https://staff.ustc.edu.cn/~lgliu/)** · University of Science and Technology of China · China · **A**<br>
   Geometric Modeling & Design · Mesh & Surface Processing — *Website access may be unreliable*
+- **[Lin Lu](https://irc.cs.sdu.edu.cn/~lulin/index.html)** · Shandong University · China · **B**<br>
+  Geometric Modeling & Design · Mesh & Surface Processing
 
 [Back to top ↑](#top)
 
@@ -152,6 +191,8 @@
 
 - **[Tamy Boubekeur](https://perso.telecom-paristech.fr/boubek/)** · Télécom Paris · France · **B**<br>
   Geometric Modeling & Design · Mesh & Surface Processing — *Older homepage; verify appointment*
+- **[Tao Ju](https://www.cse.wustl.edu/~taoju/)** · Washington University in St. Louis · United States · **A**<br>
+  Mesh & Surface Processing · Computational Geometry & Topology · Geometric Modeling & Design
 
 [Back to top ↑](#top)
 
@@ -159,9 +200,33 @@
 
 ## W
 
+- **[Weiwei Xu](http://www.cad.zju.edu.cn/home/weiweixu/weiweixu_en.htm)** · Zhejiang University · China · **A**<br>
+  3D Vision & Reconstruction · Simulation & Animation · Geometric Modeling & Design
 - **[Wenping Wang](https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html)** · Texas A&M University · United States · **A**<br>
   Geometric Modeling & Design · 3D Vision & Reconstruction — *Previously at HKU*
 - **[Wenzel Jakob](https://rgl.epfl.ch/people/wjakob/)** · EPFL · Switzerland · **A**<br>
   Visualization & Rendering · Geometric Modeling & Design — *Focus: rendering and geometric representations*
+
+[Back to top ↑](#top)
+
+<a id="group-x"></a>
+
+## X
+
+- **[Xiao-Ming Fu](http://staff.ustc.edu.cn/~fuxm/)** · University of Science and Technology of China · China · **B**<br>
+  Mesh & Surface Processing · Geometric Modeling & Design
+- **[Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin/)** · Zhejiang University · China · **A**<br>
+  Geometric Modeling & Design · Simulation & Animation
+
+[Back to top ↑](#top)
+
+<a id="group-y"></a>
+
+## Y
+
+- **[Yang Liu](https://xueyuhanlang.github.io/)** · Microsoft Research Asia · China · **B**<br>
+  Mesh & Surface Processing · Geometric Modeling & Design — *Principal Researcher; industry research appointment*
+- **[Yong-Jin Liu](https://cg.cs.tsinghua.edu.cn/people/~Yongjin/Yongjin.htm)** · Tsinghua University · China · **A**<br>
+  Computational Geometry & Topology · Geometric Modeling & Design
 
 [Back to top ↑](#top)

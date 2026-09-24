@@ -4,7 +4,7 @@
 
 # Researchers in North America
 
-**32 researchers.** Browse by country, then by name. Locations follow the existing catalog and may need verification.
+**35 researchers.** Browse by institution location, then by name. These are geographic groupings, not nationality labels.
 
 **Jump to:** [Canada](#group-canada) · [Canada / United States](#group-canada-united-states) · [United States](#group-united-states) · [United States / France](#group-united-states-france)
 
@@ -22,6 +22,8 @@
   Simulation & Animation · Mesh & Surface Processing
 - **[Eitan Grinspun](https://www.dgp.toronto.edu/~eitan/)** · University of Toronto · Canada · **A**<br>
   Simulation & Animation · Discrete Geometry — *Recruiting graduate students; previously at Columbia*
+- **[Hao (Richard) Zhang](https://www.cs.sfu.ca/~haoz/)** · Simon Fraser University / Augmenta · Canada · **A**<br>
+  Shape Analysis & Geometric Learning · Geometric Modeling & Design — *SFU Professor; VP of AI and R&D at Augmenta*
 - **[Jing Ren](https://ren-jing.com/)** · Université de Montréal · Canada · **C**<br>
   Shape Analysis & Geometric Learning · 3D Vision & Reconstruction
 - **[Karan Singh](https://www.dgp.toronto.edu/~karan/)** · University of Toronto · Canada · **A**<br>
@@ -50,6 +52,8 @@
   Geometric Modeling & Design · Simulation & Animation — *Website and appointment need verification*
 - **[Chandrajit Bajaj](https://www.cs.utexas.edu/~bajaj/)** · University of Texas at Austin · United States · **A**<br>
   Computational Geometry & Topology · 3D Vision & Reconstruction
+- **[Chenfanfu Jiang](https://www.math.ucla.edu/~cffjiang/)** · University of California, Los Angeles · United States · **A**<br>
+  Simulation & Animation · Geometric Modeling & Design
 - **[Daniele Panozzo](https://cims.nyu.edu/gcl/daniele.html)** · New York University · United States · **A**<br>
   Mesh & Surface Processing · Computational Geometry & Topology
 - **[Denis Zorin](https://cs.nyu.edu/~dzorin/)** · New York University · United States · **A**<br>
@@ -58,12 +62,12 @@
   Computational Geometry & Topology · Simulation & Animation — *Older homepage; verify appointment*
 - **[Hugues Hoppe](https://hhoppe.com/)** · Microsoft Research · United States · **A**<br>
   Mesh & Surface Processing · 3D Vision & Reconstruction — *Research scientist; foundational geometry contributor*
-- **[Jörg Peters](https://people.clas.ufl.edu/jpeters/)** · University of Florida · United States · **A**<br>
-  Geometric Modeling & Design · Mesh & Surface Processing
 - **[Julian Panetta](https://julianpanetta.com/)** · University of California, Davis · United States · **B**<br>
   Geometric Modeling & Design · Simulation & Animation
 - **[Justin Solomon](https://www.csail.mit.edu/person/justin-solomon)** · MIT · United States · **A**<br>
   Shape Analysis & Geometric Learning · Computational Geometry & Topology
+- **[Jörg Peters](https://people.clas.ufl.edu/jpeters/)** · University of Florida · United States · **A**<br>
+  Geometric Modeling & Design · Mesh & Surface Processing
 - **[Keenan Crane](https://www.cs.cmu.edu/~kmcrane/)** · Carnegie Mellon University · United States · **A**<br>
   Discrete Geometry · Mesh & Surface Processing — *On sabbatical; not accepting new students*
 - **[Leonidas Guibas](https://geometry.stanford.edu/member/guibas/)** · Stanford University · United States · **A**<br>
@@ -82,6 +86,8 @@
   3D Vision & Reconstruction · Mesh & Surface Processing
 - **[Tamal K. Dey](https://www.cs.purdue.edu/homes/tamaldey/)** · Purdue University · United States · **A**<br>
   Computational Geometry & Topology · Mesh & Surface Processing — *Previously at Ohio State*
+- **[Tao Ju](https://www.cse.wustl.edu/~taoju/)** · Washington University in St. Louis · United States · **A**<br>
+  Mesh & Surface Processing · Computational Geometry & Topology · Geometric Modeling & Design
 - **[Thomas Funkhouser](https://www.cs.princeton.edu/~funk/)** · Princeton University · United States · **A**<br>
   Shape Analysis & Geometric Learning · 3D Vision & Reconstruction
 - **[Wenping Wang](https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html)** · Texas A&M University · United States · **A**<br>

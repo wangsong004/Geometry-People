@@ -4,9 +4,9 @@
 
 # Mesh & Surface Processing
 
-52 researchers tagged with this research area. Cross-disciplinary researchers appear in more than one file.
+64 researchers tagged with this research area. Cross-disciplinary researchers appear in more than one file.
 
-**Jump to:** [A](#group-a) · [B](#group-b) · [D](#group-d) · [E](#group-e) · [F](#group-f) · [G](#group-g) · [H](#group-h) · [J](#group-j) · [K](#group-k) · [L](#group-l) · [M](#group-m) · [N](#group-n) · [O](#group-o) · [P](#group-p) · [R](#group-r) · [S](#group-s) · [T](#group-t) · [Y](#group-y)
+**Jump to:** [A](#group-a) · [B](#group-b) · [C](#group-c) · [D](#group-d) · [E](#group-e) · [F](#group-f) · [G](#group-g) · [H](#group-h) · [J](#group-j) · [K](#group-k) · [L](#group-l) · [M](#group-m) · [N](#group-n) · [O](#group-o) · [P](#group-p) · [R](#group-r) · [S](#group-s) · [T](#group-t) · [X](#group-x) · [Y](#group-y)
 
 <a id="group-a"></a>
 
@@ -34,6 +34,15 @@
 
 [Back to top ↑](#top)
 
+<a id="group-c"></a>
+
+## C
+
+- **[Changhe Tu](http://irc.cs.sdu.edu.cn/~chtu/index.html)** · Shandong University · China · **A**<br>
+  Mesh & Surface Processing · Geometric Modeling & Design
+
+[Back to top ↑](#top)
+
 <a id="group-d"></a>
 
 ## D
@@ -44,6 +53,8 @@
   Simulation & Animation · Mesh & Surface Processing
 - **[Denis Zorin](https://cs.nyu.edu/~dzorin/)** · New York University · United States · **A**<br>
   Mesh & Surface Processing · Geometric Modeling & Design
+- **[Dong-Ming Yan](https://sites.google.com/site/yandongming/)** · Institute of Automation, Chinese Academy of Sciences · China · **B**<br>
+  Mesh & Surface Processing · Geometric Modeling & Design — *Research institute appointment*
 
 [Back to top ↑](#top)
 
@@ -60,6 +71,8 @@
 
 ## F
 
+- **[Falai Chen](http://staff.ustc.edu.cn/~chenfl/)** · University of Science and Technology of China · China · **A**<br>
+  Geometric Modeling & Design · Mesh & Surface Processing — *Older faculty homepage; current appointment needs rechecking*
 - **[Felix Dellinger](https://www.tuwien.at/en/mc/geometry-and-computer-graphics/people/felix-dellinger)** · TU Wien · Austria · **C**<br>
   Discrete Geometry · Mesh & Surface Processing
 
@@ -78,12 +91,18 @@
 
 ## H
 
+- **[Haisen Zhao](https://haisenzhao.github.io/)** · Shandong University · China · **B**<br>
+  Geometric Modeling & Design · Mesh & Surface Processing
+- **[Hao Pan](https://haopan.github.io/)** · Tsinghua University · China · **B**<br>
+  Geometric Modeling & Design · Mesh & Surface Processing · Shape Analysis & Geometric Learning — *Joined Tsinghua in September 2024; previously at Microsoft Research Asia*
 - **[Holger Theisel](https://wwwisg.cs.uni-magdeburg.de/visual/people/theisel/)** · Otto von Guericke University Magdeburg · Germany · **A**<br>
   Visualization & Rendering · Mesh & Surface Processing
 - **[Hsueh-Ti Derek Liu](https://www.dgp.toronto.edu/~hsuehtil/)** · Roblox / University of British Columbia(Adjunct) · Canada / United States · **C**<br>
   Shape Analysis & Geometric Learning · Mesh & Surface Processing — *Roblox Senior Research Scientist; UBC Adjunct*
 - **[Hugues Hoppe](https://hhoppe.com/)** · Microsoft Research · United States · **A**<br>
   Mesh & Surface Processing · 3D Vision & Reconstruction — *Research scientist; foundational geometry contributor*
+- **[Hui Huang](https://vcc.tech/~huihuang)** · Shenzhen University · China · **A**<br>
+  Mesh & Surface Processing · Shape Analysis & Geometric Learning · 3D Vision & Reconstruction
 
 [Back to top ↑](#top)
 
@@ -119,6 +138,8 @@
   Mesh & Surface Processing · Geometric Modeling & Design
 - **[Ligang Liu](https://staff.ustc.edu.cn/~lgliu/)** · University of Science and Technology of China · China · **A**<br>
   Geometric Modeling & Design · Mesh & Surface Processing — *Website access may be unreliable*
+- **[Lin Lu](https://irc.cs.sdu.edu.cn/~lulin/index.html)** · Shandong University · China · **B**<br>
+  Geometric Modeling & Design · Mesh & Surface Processing
 
 [Back to top ↑](#top)
 
@@ -207,6 +228,8 @@
 
 - **[Shankar Krishnan](https://www.cs.rpi.edu/~krish/)** · Rensselaer Polytechnic Institute · United States · **A**<br>
   Computational Geometry & Topology · Mesh & Surface Processing
+- **[Shiqing Xin](https://irc.cs.sdu.edu.cn/~shiqing/index.html)** · Shandong University · China · **B**<br>
+  Mesh & Surface Processing · Computational Geometry & Topology
 - **[Siu-Wing Cheng](https://www.cs.ust.hk/~scheng/)** · Hong Kong University of Science and Technology · Hong Kong · **A**<br>
   Computational Geometry & Topology · Mesh & Surface Processing
 - **[Steven Gortler](https://www.seas.harvard.edu/directory/gortler)** · Harvard University · United States · **A**<br>
@@ -226,6 +249,17 @@
   Computational Geometry & Topology · Mesh & Surface Processing — *Previously at Ohio State*
 - **[Tamy Boubekeur](https://perso.telecom-paristech.fr/boubek/)** · Télécom Paris · France · **B**<br>
   Geometric Modeling & Design · Mesh & Surface Processing — *Older homepage; verify appointment*
+- **[Tao Ju](https://www.cse.wustl.edu/~taoju/)** · Washington University in St. Louis · United States · **A**<br>
+  Mesh & Surface Processing · Computational Geometry & Topology · Geometric Modeling & Design
+
+[Back to top ↑](#top)
+
+<a id="group-x"></a>
+
+## X
+
+- **[Xiao-Ming Fu](http://staff.ustc.edu.cn/~fuxm/)** · University of Science and Technology of China · China · **B**<br>
+  Mesh & Surface Processing · Geometric Modeling & Design
 
 [Back to top ↑](#top)
 
@@ -233,7 +267,11 @@
 
 ## Y
 
+- **[Yang Liu](https://xueyuhanlang.github.io/)** · Microsoft Research Asia · China · **B**<br>
+  Mesh & Surface Processing · Geometric Modeling & Design — *Principal Researcher; industry research appointment*
 - **[Yaron Lipman](https://www.wisdom.weizmann.ac.il/~ylipman/)** · Weizmann Institute of Science · Israel · **A**<br>
   Shape Analysis & Geometric Learning · Mesh & Surface Processing
+- **[Yizhou Yu](https://i.cs.hku.hk/~yzyu/)** · University of Hong Kong · Hong Kong · **A**<br>
+  Mesh & Surface Processing · Simulation & Animation · 3D Vision & Reconstruction
 
 [Back to top ↑](#top)

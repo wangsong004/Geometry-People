@@ -39,3 +39,9 @@ These notes were recorded in September 2026. This language and layout revision d
 ## Compact entry format
 
 Names link directly to homepages. A/B/C tags are explained in the [profile index](by-profile/README.md). Research areas and specific notes appear on the second line. Routine reminders to verify appointments and admissions apply to every entry and are stated here instead of repeated for every researcher. Line wrapping depends on screen width.
+
+## September 24, 2026 expansion
+
+Added 21 researchers: 16 based in mainland China, one in Hong Kong, one in Taiwan, and three in North America. The regional directory describes institutional locations, not nationality or ethnicity; no citizenship was inferred from names. The mainland China / Hong Kong / Taiwan page now contains 24 profiles, including the five existing profiles and Siu-Wing Cheng, moved from Other Asia.
+
+Source pages were read for each addition, with qualifications recorded in the [source log](research-notes/2026-09-24-additions.md). Older pages are explicitly identified. Peng-Shuai Wang’s PKU appointment was confirmed on his homepage, and its old verification warning was removed. Other pre-existing profiles were not freshly verified. New A/B labels follow the inherited editorial scheme and are not a ranking.

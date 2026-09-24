@@ -4,7 +4,7 @@
 
 # Researchers in Europe
 
-**44 researchers.** Browse by country, then by name. Locations follow the existing catalog and may need verification.
+**44 researchers.** Browse by institution location, then by name. These are geographic groupings, not nationality labels.
 
 **Jump to:** [Austria](#group-austria) · [France](#group-france) · [Germany](#group-germany) · [Italy](#group-italy) · [Netherlands](#group-netherlands) · [Sweden](#group-sweden) · [Switzerland](#group-switzerland) · [United Kingdom](#group-united-kingdom)
 

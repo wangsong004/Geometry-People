@@ -4,9 +4,9 @@
 
 # Computational Geometry & Topology
 
-21 researchers tagged with this research area. Cross-disciplinary researchers appear in more than one file.
+25 researchers tagged with this research area. Cross-disciplinary researchers appear in more than one file.
 
-**Jump to:** [B](#group-b) · [C](#group-c) · [D](#group-d) · [H](#group-h) · [J](#group-j) · [L](#group-l) · [M](#group-m) · [O](#group-o) · [P](#group-p) · [R](#group-r) · [S](#group-s) · [T](#group-t)
+**Jump to:** [B](#group-b) · [C](#group-c) · [D](#group-d) · [H](#group-h) · [J](#group-j) · [L](#group-l) · [M](#group-m) · [O](#group-o) · [P](#group-p) · [R](#group-r) · [S](#group-s) · [T](#group-t) · [Y](#group-y)
 
 <a id="group-b"></a>
 
@@ -45,6 +45,8 @@
 
 - **[Herbert Edelsbrunner](https://ista.ac.at/en/research/edelsbrunner-group/)** · Institute of Science and Technology Austria · Austria · **A**<br>
   Computational Geometry & Topology · Shape Analysis & Geometric Learning
+- **[Hongwei Lin](http://www.cad.zju.edu.cn/home/hwlin/index_en.html)** · Zhejiang University · China · **B**<br>
+  Geometric Modeling & Design · Computational Geometry & Topology — *Older faculty homepage; current appointment needs rechecking*
 
 [Back to top ↑](#top)
 
@@ -116,6 +118,8 @@
 
 - **[Shankar Krishnan](https://www.cs.rpi.edu/~krish/)** · Rensselaer Polytechnic Institute · United States · **A**<br>
   Computational Geometry & Topology · Mesh & Surface Processing
+- **[Shiqing Xin](https://irc.cs.sdu.edu.cn/~shiqing/index.html)** · Shandong University · China · **B**<br>
+  Mesh & Surface Processing · Computational Geometry & Topology
 - **[Siu-Wing Cheng](https://www.cs.ust.hk/~scheng/)** · Hong Kong University of Science and Technology · Hong Kong · **A**<br>
   Computational Geometry & Topology · Mesh & Surface Processing
 - **[Steven Gortler](https://www.seas.harvard.edu/directory/gortler)** · Harvard University · United States · **A**<br>
@@ -129,7 +133,18 @@
 
 - **[Tamal K. Dey](https://www.cs.purdue.edu/homes/tamaldey/)** · Purdue University · United States · **A**<br>
   Computational Geometry & Topology · Mesh & Surface Processing — *Previously at Ohio State*
+- **[Tao Ju](https://www.cse.wustl.edu/~taoju/)** · Washington University in St. Louis · United States · **A**<br>
+  Mesh & Surface Processing · Computational Geometry & Topology · Geometric Modeling & Design
 - **[Tino Weinkauf](https://www.csc.kth.se/~weinkauf/)** · KTH Royal Institute of Technology · Sweden · **A**<br>
   Visualization & Rendering · Computational Geometry & Topology
+
+[Back to top ↑](#top)
+
+<a id="group-y"></a>
+
+## Y
+
+- **[Yong-Jin Liu](https://cg.cs.tsinghua.edu.cn/people/~Yongjin/Yongjin.htm)** · Tsinghua University · China · **A**<br>
+  Computational Geometry & Topology · Geometric Modeling & Design
 
 [Back to top ↑](#top)

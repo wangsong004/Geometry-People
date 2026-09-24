@@ -4,7 +4,7 @@
 
 # Researchers in Israel & Middle East
 
-**6 researchers.** Browse by country, then by name. Locations follow the existing catalog and may need verification.
+**6 researchers.** Browse by institution location, then by name. These are geographic groupings, not nationality labels.
 
 **Jump to:** [Israel](#group-israel) · [Israel / United States](#group-israel-united-states)
 

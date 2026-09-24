@@ -4,9 +4,9 @@
 
 # 3D Vision & Reconstruction
 
-22 researchers tagged with this research area. Cross-disciplinary researchers appear in more than one file.
+28 researchers tagged with this research area. Cross-disciplinary researchers appear in more than one file.
 
-**Jump to:** [A](#group-a) · [C](#group-c) · [E](#group-e) · [F](#group-f) · [H](#group-h) · [J](#group-j) · [M](#group-m) · [N](#group-n) · [P](#group-p) · [Q](#group-q) · [R](#group-r) · [S](#group-s) · [T](#group-t) · [W](#group-w) · [Y](#group-y)
+**Jump to:** [A](#group-a) · [B](#group-b) · [C](#group-c) · [E](#group-e) · [F](#group-f) · [H](#group-h) · [J](#group-j) · [K](#group-k) · [M](#group-m) · [N](#group-n) · [P](#group-p) · [Q](#group-q) · [R](#group-r) · [S](#group-s) · [T](#group-t) · [W](#group-w) · [Y](#group-y)
 
 <a id="group-a"></a>
 
@@ -16,6 +16,15 @@
   Shape Analysis & Geometric Learning · 3D Vision & Reconstruction — *University / industry appointment*
 - **[Angela Dai](https://angeladai.com/)** · Technical University of Munich · Germany · **B**<br>
   Shape Analysis & Geometric Learning · 3D Vision & Reconstruction
+
+[Back to top ↑](#top)
+
+<a id="group-b"></a>
+
+## B
+
+- **[Baoquan Chen](https://baoquanchen.info/)** · Peking University · China · **A**<br>
+  3D Vision & Reconstruction · Visualization & Rendering
 
 [Back to top ↑](#top)
 
@@ -54,6 +63,8 @@
 
 - **[Hugues Hoppe](https://hhoppe.com/)** · Microsoft Research · United States · **A**<br>
   Mesh & Surface Processing · 3D Vision & Reconstruction — *Research scientist; foundational geometry contributor*
+- **[Hui Huang](https://vcc.tech/~huihuang)** · Shenzhen University · China · **A**<br>
+  Mesh & Surface Processing · Shape Analysis & Geometric Learning · 3D Vision & Reconstruction
 
 [Back to top ↑](#top)
 
@@ -65,6 +76,15 @@
   Mesh & Surface Processing · 3D Vision & Reconstruction
 - **[Jing Ren](https://ren-jing.com/)** · Université de Montréal · Canada · **C**<br>
   Shape Analysis & Geometric Learning · 3D Vision & Reconstruction
+
+[Back to top ↑](#top)
+
+<a id="group-k"></a>
+
+## K
+
+- **[Kai (Kevin) Xu](https://www.kevinkaixu.net/)** · Institute of AI for Industries, Chinese Academy of Sciences · China · **A**<br>
+  Shape Analysis & Geometric Learning · 3D Vision & Reconstruction · Simulation & Animation — *Previously at NUDT; continues to co-lead its iGRAPE Lab*
 
 [Back to top ↑](#top)
 
@@ -97,7 +117,7 @@
 ## P
 
 - **[Peng-Shuai Wang](https://wang-ps.github.io/)** · Peking University · China · **B**<br>
-  Shape Analysis & Geometric Learning · 3D Vision & Reconstruction — *PKU appointment needs verification*
+  Shape Analysis & Geometric Learning · 3D Vision & Reconstruction
 
 [Back to top ↑](#top)
 
@@ -143,6 +163,8 @@
 
 ## W
 
+- **[Weiwei Xu](http://www.cad.zju.edu.cn/home/weiweixu/weiweixu_en.htm)** · Zhejiang University · China · **A**<br>
+  3D Vision & Reconstruction · Simulation & Animation · Geometric Modeling & Design
 - **[Wenping Wang](https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html)** · Texas A&M University · United States · **A**<br>
   Geometric Modeling & Design · 3D Vision & Reconstruction — *Previously at HKU*
 
@@ -154,5 +176,9 @@
 
 - **[Ying He](https://www.ntu.edu.sg/scse/about-us/faculty-directory/ying-he)** · Nanyang Technological University · Singapore · **A**<br>
   Shape Analysis & Geometric Learning · 3D Vision & Reconstruction
+- **[Yizhou Yu](https://i.cs.hku.hk/~yzyu/)** · University of Hong Kong · Hong Kong · **A**<br>
+  Mesh & Surface Processing · Simulation & Animation · 3D Vision & Reconstruction
+- **[Yung-Yu Chuang](https://www.csie.ntu.edu.tw/~cyy/)** · National Taiwan University · Taiwan · **A**<br>
+  Visualization & Rendering · Shape Analysis & Geometric Learning · 3D Vision & Reconstruction
 
 [Back to top ↑](#top)

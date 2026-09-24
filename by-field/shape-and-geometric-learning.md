@@ -4,9 +4,9 @@
 
 # Shape Analysis & Geometric Learning
 
-24 researchers tagged with this research area. Cross-disciplinary researchers appear in more than one file.
+29 researchers tagged with this research area. Cross-disciplinary researchers appear in more than one file.
 
-**Jump to:** [A](#group-a) · [C](#group-c) · [D](#group-d) · [F](#group-f) · [H](#group-h) · [J](#group-j) · [L](#group-l) · [M](#group-m) · [N](#group-n) · [P](#group-p) · [Q](#group-q) · [R](#group-r) · [S](#group-s) · [T](#group-t) · [X](#group-x) · [Y](#group-y)
+**Jump to:** [A](#group-a) · [C](#group-c) · [D](#group-d) · [F](#group-f) · [H](#group-h) · [J](#group-j) · [K](#group-k) · [L](#group-l) · [M](#group-m) · [N](#group-n) · [P](#group-p) · [Q](#group-q) · [R](#group-r) · [S](#group-s) · [T](#group-t) · [X](#group-x) · [Y](#group-y)
 
 <a id="group-a"></a>
 
@@ -52,10 +52,16 @@
 
 ## H
 
+- **[Hao (Richard) Zhang](https://www.cs.sfu.ca/~haoz/)** · Simon Fraser University / Augmenta · Canada · **A**<br>
+  Shape Analysis & Geometric Learning · Geometric Modeling & Design — *SFU Professor; VP of AI and R&D at Augmenta*
+- **[Hao Pan](https://haopan.github.io/)** · Tsinghua University · China · **B**<br>
+  Geometric Modeling & Design · Mesh & Surface Processing · Shape Analysis & Geometric Learning — *Joined Tsinghua in September 2024; previously at Microsoft Research Asia*
 - **[Herbert Edelsbrunner](https://ista.ac.at/en/research/edelsbrunner-group/)** · Institute of Science and Technology Austria · Austria · **A**<br>
   Computational Geometry & Topology · Shape Analysis & Geometric Learning
 - **[Hsueh-Ti Derek Liu](https://www.dgp.toronto.edu/~hsuehtil/)** · Roblox / University of British Columbia(Adjunct) · Canada / United States · **C**<br>
   Shape Analysis & Geometric Learning · Mesh & Surface Processing — *Roblox Senior Research Scientist; UBC Adjunct*
+- **[Hui Huang](https://vcc.tech/~huihuang)** · Shenzhen University · China · **A**<br>
+  Mesh & Surface Processing · Shape Analysis & Geometric Learning · 3D Vision & Reconstruction
 
 [Back to top ↑](#top)
 
@@ -67,6 +73,15 @@
   Shape Analysis & Geometric Learning · 3D Vision & Reconstruction
 - **[Justin Solomon](https://www.csail.mit.edu/person/justin-solomon)** · MIT · United States · **A**<br>
   Shape Analysis & Geometric Learning · Computational Geometry & Topology
+
+[Back to top ↑](#top)
+
+<a id="group-k"></a>
+
+## K
+
+- **[Kai (Kevin) Xu](https://www.kevinkaixu.net/)** · Institute of AI for Industries, Chinese Academy of Sciences · China · **A**<br>
+  Shape Analysis & Geometric Learning · 3D Vision & Reconstruction · Simulation & Animation — *Previously at NUDT; continues to co-lead its iGRAPE Lab*
 
 [Back to top ↑](#top)
 
@@ -106,7 +121,7 @@
 ## P
 
 - **[Peng-Shuai Wang](https://wang-ps.github.io/)** · Peking University · China · **B**<br>
-  Shape Analysis & Geometric Learning · 3D Vision & Reconstruction — *PKU appointment needs verification*
+  Shape Analysis & Geometric Learning · 3D Vision & Reconstruction
 - **[Peter Wonka](https://peterwonka.net/)** · KAUST · Saudi Arabia · **A**<br>
   Geometric Modeling & Design · Shape Analysis & Geometric Learning
 
@@ -165,5 +180,7 @@
   Shape Analysis & Geometric Learning · Mesh & Surface Processing
 - **[Ying He](https://www.ntu.edu.sg/scse/about-us/faculty-directory/ying-he)** · Nanyang Technological University · Singapore · **A**<br>
   Shape Analysis & Geometric Learning · 3D Vision & Reconstruction
+- **[Yung-Yu Chuang](https://www.csie.ntu.edu.tw/~cyy/)** · National Taiwan University · Taiwan · **A**<br>
+  Visualization & Rendering · Shape Analysis & Geometric Learning · 3D Vision & Reconstruction
 
 [Back to top ↑](#top)

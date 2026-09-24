@@ -4,9 +4,18 @@
 
 # Visualization & Rendering
 
-10 researchers tagged with this research area. Cross-disciplinary researchers appear in more than one file.
+12 researchers tagged with this research area. Cross-disciplinary researchers appear in more than one file.
 
-**Jump to:** [C](#group-c) · [H](#group-h) · [K](#group-k) · [M](#group-m) · [N](#group-n) · [P](#group-p) · [R](#group-r) · [T](#group-t) · [W](#group-w)
+**Jump to:** [B](#group-b) · [C](#group-c) · [H](#group-h) · [K](#group-k) · [M](#group-m) · [N](#group-n) · [P](#group-p) · [R](#group-r) · [T](#group-t) · [W](#group-w) · [Y](#group-y)
+
+<a id="group-b"></a>
+
+## B
+
+- **[Baoquan Chen](https://baoquanchen.info/)** · Peking University · China · **A**<br>
+  3D Vision & Reconstruction · Visualization & Rendering
+
+[Back to top ↑](#top)
 
 <a id="group-c"></a>
 
@@ -88,5 +97,14 @@
 
 - **[Wenzel Jakob](https://rgl.epfl.ch/people/wjakob/)** · EPFL · Switzerland · **A**<br>
   Visualization & Rendering · Geometric Modeling & Design — *Focus: rendering and geometric representations*
+
+[Back to top ↑](#top)
+
+<a id="group-y"></a>
+
+## Y
+
+- **[Yung-Yu Chuang](https://www.csie.ntu.edu.tw/~cyy/)** · National Taiwan University · Taiwan · **A**<br>
+  Visualization & Rendering · Shape Analysis & Geometric Learning · 3D Vision & Reconstruction
 
 [Back to top ↑](#top)

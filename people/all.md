@@ -4,7 +4,7 @@
 
 # Global Graphics & Geometry Processing Researchers
 
-A searchable collection of **92 researchers** in computer graphics, geometry processing, computational geometry, geometric learning, simulation, and 3D vision. The A/B/C labels are practical discovery tags, not a strict ranking.
+A searchable collection of **113 researchers** in computer graphics, geometry processing, computational geometry, geometric learning, simulation, and 3D vision. The A/B/C labels are practical discovery tags, not a strict ranking.
 
 **Jump to:** [A](#group-a) · [B](#group-b) · [C](#group-c) · [D](#group-d) · [E](#group-e) · [F](#group-f) · [G](#group-g) · [H](#group-h) · [J](#group-j) · [K](#group-k) · [L](#group-l) · [M](#group-m) · [N](#group-n) · [O](#group-o) · [P](#group-p) · [Q](#group-q) · [R](#group-r) · [S](#group-s) · [T](#group-t) · [W](#group-w) · [X](#group-x) · [Y](#group-y)
 
@@ -35,6 +35,8 @@ A searchable collection of **92 researchers** in computer graphics, geometry pro
 
 ## B
 
+- **[Baoquan Chen](https://baoquanchen.info/)** · Peking University · China · **A**<br>
+  3D Vision & Reconstruction · Visualization & Rendering
 - **[Bernd Bickel](https://berndbickel.com/)** · ETH Zurich · Switzerland · **A**<br>
   Geometric Modeling & Design · Simulation & Animation — *ETH Professor of Computational Design since 2024*
 - **[Boris Springborn](https://page.math.tu-berlin.de/~springb/)** · TU Berlin · Germany · **A**<br>
@@ -50,6 +52,10 @@ A searchable collection of **92 researchers** in computer graphics, geometry pro
 
 - **[Chandrajit Bajaj](https://www.cs.utexas.edu/~bajaj/)** · University of Texas at Austin · United States · **A**<br>
   Computational Geometry & Topology · 3D Vision & Reconstruction
+- **[Changhe Tu](http://irc.cs.sdu.edu.cn/~chtu/index.html)** · Shandong University · China · **A**<br>
+  Mesh & Surface Processing · Geometric Modeling & Design
+- **[Chenfanfu Jiang](https://www.math.ucla.edu/~cffjiang/)** · University of California, Los Angeles · United States · **A**<br>
+  Simulation & Animation · Geometric Modeling & Design
 - **[Christian Theobalt](https://www.mpi-inf.mpg.de/~theobalt/)** · MPI for Informatics / Saarland University · Germany · **A**<br>
   3D Vision & Reconstruction · Shape Analysis & Geometric Learning — *Institute / university appointment*
 - **[Christoph Garth](https://www.cs.uni-kl.de/en/people/garth)** · RPTU Kaiserslautern-Landau · Germany · **B**<br>
@@ -71,6 +77,8 @@ A searchable collection of **92 researchers** in computer graphics, geometry pro
   Mesh & Surface Processing · Geometric Modeling & Design
 - **[Dinesh Manocha](https://www.cs.unc.edu/~dm/)** · University of Maryland · United States · **A**<br>
   Computational Geometry & Topology · Simulation & Animation — *Older homepage; verify appointment*
+- **[Dong-Ming Yan](https://sites.google.com/site/yandongming/)** · Institute of Automation, Chinese Academy of Sciences · China · **B**<br>
+  Mesh & Surface Processing · Geometric Modeling & Design — *Research institute appointment*
 
 [Back to top ↑](#top)
 
@@ -89,6 +97,8 @@ A searchable collection of **92 researchers** in computer graphics, geometry pro
 
 ## F
 
+- **[Falai Chen](http://staff.ustc.edu.cn/~chenfl/)** · University of Science and Technology of China · China · **A**<br>
+  Geometric Modeling & Design · Mesh & Surface Processing — *Older faculty homepage; current appointment needs rechecking*
 - **[Felix Dellinger](https://www.tuwien.at/en/mc/geometry-and-computer-graphics/people/felix-dellinger)** · TU Wien · Austria · **C**<br>
   Discrete Geometry · Mesh & Surface Processing
 - **[Florent Lafarge](https://florent-lafarge.github.io/)** · Inria · France · **A**<br>
@@ -109,14 +119,24 @@ A searchable collection of **92 researchers** in computer graphics, geometry pro
 
 ## H
 
+- **[Haisen Zhao](https://haisenzhao.github.io/)** · Shandong University · China · **B**<br>
+  Geometric Modeling & Design · Mesh & Surface Processing
+- **[Hao (Richard) Zhang](https://www.cs.sfu.ca/~haoz/)** · Simon Fraser University / Augmenta · Canada · **A**<br>
+  Shape Analysis & Geometric Learning · Geometric Modeling & Design — *SFU Professor; VP of AI and R&D at Augmenta*
+- **[Hao Pan](https://haopan.github.io/)** · Tsinghua University · China · **B**<br>
+  Geometric Modeling & Design · Mesh & Surface Processing · Shape Analysis & Geometric Learning — *Joined Tsinghua in September 2024; previously at Microsoft Research Asia*
 - **[Herbert Edelsbrunner](https://ista.ac.at/en/research/edelsbrunner-group/)** · Institute of Science and Technology Austria · Austria · **A**<br>
   Computational Geometry & Topology · Shape Analysis & Geometric Learning
 - **[Holger Theisel](https://wwwisg.cs.uni-magdeburg.de/visual/people/theisel/)** · Otto von Guericke University Magdeburg · Germany · **A**<br>
   Visualization & Rendering · Mesh & Surface Processing
+- **[Hongwei Lin](http://www.cad.zju.edu.cn/home/hwlin/index_en.html)** · Zhejiang University · China · **B**<br>
+  Geometric Modeling & Design · Computational Geometry & Topology — *Older faculty homepage; current appointment needs rechecking*
 - **[Hsueh-Ti Derek Liu](https://www.dgp.toronto.edu/~hsuehtil/)** · Roblox / University of British Columbia(Adjunct) · Canada / United States · **C**<br>
   Shape Analysis & Geometric Learning · Mesh & Surface Processing — *Roblox Senior Research Scientist; UBC Adjunct*
 - **[Hugues Hoppe](https://hhoppe.com/)** · Microsoft Research · United States · **A**<br>
   Mesh & Surface Processing · 3D Vision & Reconstruction — *Research scientist; foundational geometry contributor*
+- **[Hui Huang](https://vcc.tech/~huihuang)** · Shenzhen University · China · **A**<br>
+  Mesh & Surface Processing · Shape Analysis & Geometric Learning · 3D Vision & Reconstruction
 
 [Back to top ↑](#top)
 
@@ -132,12 +152,12 @@ A searchable collection of **92 researchers** in computer graphics, geometry pro
   Shape Analysis & Geometric Learning · 3D Vision & Reconstruction
 - **[Johannes Wallner](https://www.geometrie.tugraz.at/wallner/)** · TU Graz · Austria · **A**<br>
   Discrete Geometry · Geometric Modeling & Design
-- **[Jörg Peters](https://people.clas.ufl.edu/jpeters/)** · University of Florida · United States · **A**<br>
-  Geometric Modeling & Design · Mesh & Surface Processing
 - **[Julian Panetta](https://julianpanetta.com/)** · University of California, Davis · United States · **B**<br>
   Geometric Modeling & Design · Simulation & Animation
 - **[Justin Solomon](https://www.csail.mit.edu/person/justin-solomon)** · MIT · United States · **A**<br>
   Shape Analysis & Geometric Learning · Computational Geometry & Topology
+- **[Jörg Peters](https://people.clas.ufl.edu/jpeters/)** · University of Florida · United States · **A**<br>
+  Geometric Modeling & Design · Mesh & Surface Processing
 
 [Back to top ↑](#top)
 
@@ -145,6 +165,8 @@ A searchable collection of **92 researchers** in computer graphics, geometry pro
 
 ## K
 
+- **[Kai (Kevin) Xu](https://www.kevinkaixu.net/)** · Institute of AI for Industries, Chinese Academy of Sciences · China · **A**<br>
+  Shape Analysis & Geometric Learning · 3D Vision & Reconstruction · Simulation & Animation — *Previously at NUDT; continues to co-lead its iGRAPE Lab*
 - **[Karan Singh](https://www.dgp.toronto.edu/~karan/)** · University of Toronto · Canada · **A**<br>
   Geometric Modeling & Design · Simulation & Animation
 - **[Keenan Crane](https://www.cs.cmu.edu/~kmcrane/)** · Carnegie Mellon University · United States · **A**<br>
@@ -166,6 +188,8 @@ A searchable collection of **92 researchers** in computer graphics, geometry pro
   Computational Geometry & Topology · Shape Analysis & Geometric Learning
 - **[Ligang Liu](https://staff.ustc.edu.cn/~lgliu/)** · University of Science and Technology of China · China · **A**<br>
   Geometric Modeling & Design · Mesh & Surface Processing — *Website access may be unreliable*
+- **[Lin Lu](https://irc.cs.sdu.edu.cn/~lulin/index.html)** · Shandong University · China · **B**<br>
+  Geometric Modeling & Design · Mesh & Surface Processing
 
 [Back to top ↑](#top)
 
@@ -245,7 +269,7 @@ A searchable collection of **92 researchers** in computer graphics, geometry pro
 - **[Paolo Cignoni](https://vcg.isti.cnr.it/~cignoni/)** · CNR-ISTI / University of Pisa · Italy · **A**<br>
   Mesh & Surface Processing · Visualization & Rendering — *Research institute appointment*
 - **[Peng-Shuai Wang](https://wang-ps.github.io/)** · Peking University · China · **B**<br>
-  Shape Analysis & Geometric Learning · 3D Vision & Reconstruction — *PKU appointment needs verification*
+  Shape Analysis & Geometric Learning · 3D Vision & Reconstruction
 - **[Peter Schröder](https://www.geometry.caltech.edu/people/schroeder.html)** · Caltech · United States · **A**<br>
   Discrete Geometry · Mesh & Surface Processing
 - **[Peter Wonka](https://peterwonka.net/)** · KAUST · Saudi Arabia · **A**<br>
@@ -287,6 +311,8 @@ A searchable collection of **92 researchers** in computer graphics, geometry pro
   Computational Geometry & Topology · Mesh & Surface Processing
 - **[Shi-Min Hu](https://cg.cs.tsinghua.edu.cn/)** · Tsinghua University · China · **A**<br>
   Geometric Modeling & Design · 3D Vision & Reconstruction
+- **[Shiqing Xin](https://irc.cs.sdu.edu.cn/~shiqing/index.html)** · Shandong University · China · **B**<br>
+  Mesh & Surface Processing · Computational Geometry & Topology
 - **[Siddhartha Chaudhuri](https://www.cse.iitb.ac.in/~siddhartha/)** · IIT Bombay · India · **B**<br>
   Geometric Modeling & Design · Shape Analysis & Geometric Learning
 - **[Siu-Wing Cheng](https://www.cs.ust.hk/~scheng/)** · Hong Kong University of Science and Technology · Hong Kong · **A**<br>
@@ -308,6 +334,8 @@ A searchable collection of **92 researchers** in computer graphics, geometry pro
   Computational Geometry & Topology · Mesh & Surface Processing — *Previously at Ohio State*
 - **[Tamy Boubekeur](https://perso.telecom-paristech.fr/boubek/)** · Télécom Paris · France · **B**<br>
   Geometric Modeling & Design · Mesh & Surface Processing — *Older homepage; verify appointment*
+- **[Tao Ju](https://www.cse.wustl.edu/~taoju/)** · Washington University in St. Louis · United States · **A**<br>
+  Mesh & Surface Processing · Computational Geometry & Topology · Geometric Modeling & Design
 - **[Thomas Funkhouser](https://www.cs.princeton.edu/~funk/)** · Princeton University · United States · **A**<br>
   Shape Analysis & Geometric Learning · 3D Vision & Reconstruction
 - **[Tino Weinkauf](https://www.csc.kth.se/~weinkauf/)** · KTH Royal Institute of Technology · Sweden · **A**<br>
@@ -319,6 +347,8 @@ A searchable collection of **92 researchers** in computer graphics, geometry pro
 
 ## W
 
+- **[Weiwei Xu](http://www.cad.zju.edu.cn/home/weiweixu/weiweixu_en.htm)** · Zhejiang University · China · **A**<br>
+  3D Vision & Reconstruction · Simulation & Animation · Geometric Modeling & Design
 - **[Wenping Wang](https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html)** · Texas A&M University · United States · **A**<br>
   Geometric Modeling & Design · 3D Vision & Reconstruction — *Previously at HKU*
 - **[Wenzel Jakob](https://rgl.epfl.ch/people/wjakob/)** · EPFL · Switzerland · **A**<br>
@@ -332,6 +362,10 @@ A searchable collection of **92 researchers** in computer graphics, geometry pro
 
 - **[Xianfeng David Gu](https://www3.cs.stonybrook.edu/~gu/)** · Stony Brook University · United States · **A**<br>
   Discrete Geometry · Shape Analysis & Geometric Learning
+- **[Xiao-Ming Fu](http://staff.ustc.edu.cn/~fuxm/)** · University of Science and Technology of China · China · **B**<br>
+  Mesh & Surface Processing · Geometric Modeling & Design
+- **[Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin/)** · Zhejiang University · China · **A**<br>
+  Geometric Modeling & Design · Simulation & Animation
 
 [Back to top ↑](#top)
 
@@ -339,9 +373,17 @@ A searchable collection of **92 researchers** in computer graphics, geometry pro
 
 ## Y
 
+- **[Yang Liu](https://xueyuhanlang.github.io/)** · Microsoft Research Asia · China · **B**<br>
+  Mesh & Surface Processing · Geometric Modeling & Design — *Principal Researcher; industry research appointment*
 - **[Yaron Lipman](https://www.wisdom.weizmann.ac.il/~ylipman/)** · Weizmann Institute of Science · Israel · **A**<br>
   Shape Analysis & Geometric Learning · Mesh & Surface Processing
 - **[Ying He](https://www.ntu.edu.sg/scse/about-us/faculty-directory/ying-he)** · Nanyang Technological University · Singapore · **A**<br>
   Shape Analysis & Geometric Learning · 3D Vision & Reconstruction
+- **[Yizhou Yu](https://i.cs.hku.hk/~yzyu/)** · University of Hong Kong · Hong Kong · **A**<br>
+  Mesh & Surface Processing · Simulation & Animation · 3D Vision & Reconstruction
+- **[Yong-Jin Liu](https://cg.cs.tsinghua.edu.cn/people/~Yongjin/Yongjin.htm)** · Tsinghua University · China · **A**<br>
+  Computational Geometry & Topology · Geometric Modeling & Design
+- **[Yung-Yu Chuang](https://www.csie.ntu.edu.tw/~cyy/)** · National Taiwan University · Taiwan · **A**<br>
+  Visualization & Rendering · Shape Analysis & Geometric Learning · 3D Vision & Reconstruction
 
 [Back to top ↑](#top)

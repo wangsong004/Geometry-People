@@ -29,6 +29,8 @@ A discovery tag based on field influence and research visibility, not a formal r
 
 ## B
 
+- **[Baoquan Chen](https://baoquanchen.info/)** · Peking University · China · **A**<br>
+  3D Vision & Reconstruction · Visualization & Rendering
 - **[Bernd Bickel](https://berndbickel.com/)** · ETH Zurich · Switzerland · **A**<br>
   Geometric Modeling & Design · Simulation & Animation — *ETH Professor of Computational Design since 2024*
 - **[Boris Springborn](https://page.math.tu-berlin.de/~springb/)** · TU Berlin · Germany · **A**<br>
@@ -44,6 +46,10 @@ A discovery tag based on field influence and research visibility, not a formal r
 
 - **[Chandrajit Bajaj](https://www.cs.utexas.edu/~bajaj/)** · University of Texas at Austin · United States · **A**<br>
   Computational Geometry & Topology · 3D Vision & Reconstruction
+- **[Changhe Tu](http://irc.cs.sdu.edu.cn/~chtu/index.html)** · Shandong University · China · **A**<br>
+  Mesh & Surface Processing · Geometric Modeling & Design
+- **[Chenfanfu Jiang](https://www.math.ucla.edu/~cffjiang/)** · University of California, Los Angeles · United States · **A**<br>
+  Simulation & Animation · Geometric Modeling & Design
 - **[Christian Theobalt](https://www.mpi-inf.mpg.de/~theobalt/)** · MPI for Informatics / Saarland University · Germany · **A**<br>
   3D Vision & Reconstruction · Shape Analysis & Geometric Learning — *Institute / university appointment*
 
@@ -79,6 +85,8 @@ A discovery tag based on field influence and research visibility, not a formal r
 
 ## F
 
+- **[Falai Chen](http://staff.ustc.edu.cn/~chenfl/)** · University of Science and Technology of China · China · **A**<br>
+  Geometric Modeling & Design · Mesh & Surface Processing — *Older faculty homepage; current appointment needs rechecking*
 - **[Florent Lafarge](https://florent-lafarge.github.io/)** · Inria · France · **A**<br>
   3D Vision & Reconstruction · Shape Analysis & Geometric Learning — *Research institute appointment*
 
@@ -97,12 +105,16 @@ A discovery tag based on field influence and research visibility, not a formal r
 
 ## H
 
+- **[Hao (Richard) Zhang](https://www.cs.sfu.ca/~haoz/)** · Simon Fraser University / Augmenta · Canada · **A**<br>
+  Shape Analysis & Geometric Learning · Geometric Modeling & Design — *SFU Professor; VP of AI and R&D at Augmenta*
 - **[Herbert Edelsbrunner](https://ista.ac.at/en/research/edelsbrunner-group/)** · Institute of Science and Technology Austria · Austria · **A**<br>
   Computational Geometry & Topology · Shape Analysis & Geometric Learning
 - **[Holger Theisel](https://wwwisg.cs.uni-magdeburg.de/visual/people/theisel/)** · Otto von Guericke University Magdeburg · Germany · **A**<br>
   Visualization & Rendering · Mesh & Surface Processing
 - **[Hugues Hoppe](https://hhoppe.com/)** · Microsoft Research · United States · **A**<br>
   Mesh & Surface Processing · 3D Vision & Reconstruction — *Research scientist; foundational geometry contributor*
+- **[Hui Huang](https://vcc.tech/~huihuang)** · Shenzhen University · China · **A**<br>
+  Mesh & Surface Processing · Shape Analysis & Geometric Learning · 3D Vision & Reconstruction
 
 [Back to top ↑](#top)
 
@@ -114,10 +126,10 @@ A discovery tag based on field influence and research visibility, not a formal r
   Simulation & Animation · Mesh & Surface Processing
 - **[Johannes Wallner](https://www.geometrie.tugraz.at/wallner/)** · TU Graz · Austria · **A**<br>
   Discrete Geometry · Geometric Modeling & Design
-- **[Jörg Peters](https://people.clas.ufl.edu/jpeters/)** · University of Florida · United States · **A**<br>
-  Geometric Modeling & Design · Mesh & Surface Processing
 - **[Justin Solomon](https://www.csail.mit.edu/person/justin-solomon)** · MIT · United States · **A**<br>
   Shape Analysis & Geometric Learning · Computational Geometry & Topology
+- **[Jörg Peters](https://people.clas.ufl.edu/jpeters/)** · University of Florida · United States · **A**<br>
+  Geometric Modeling & Design · Mesh & Surface Processing
 
 [Back to top ↑](#top)
 
@@ -125,6 +137,8 @@ A discovery tag based on field influence and research visibility, not a formal r
 
 ## K
 
+- **[Kai (Kevin) Xu](https://www.kevinkaixu.net/)** · Institute of AI for Industries, Chinese Academy of Sciences · China · **A**<br>
+  Shape Analysis & Geometric Learning · 3D Vision & Reconstruction · Simulation & Animation — *Previously at NUDT; continues to co-lead its iGRAPE Lab*
 - **[Karan Singh](https://www.dgp.toronto.edu/~karan/)** · University of Toronto · Canada · **A**<br>
   Geometric Modeling & Design · Simulation & Animation
 - **[Keenan Crane](https://www.cs.cmu.edu/~kmcrane/)** · Carnegie Mellon University · United States · **A**<br>
@@ -268,6 +282,8 @@ A discovery tag based on field influence and research visibility, not a formal r
 
 - **[Tamal K. Dey](https://www.cs.purdue.edu/homes/tamaldey/)** · Purdue University · United States · **A**<br>
   Computational Geometry & Topology · Mesh & Surface Processing — *Previously at Ohio State*
+- **[Tao Ju](https://www.cse.wustl.edu/~taoju/)** · Washington University in St. Louis · United States · **A**<br>
+  Mesh & Surface Processing · Computational Geometry & Topology · Geometric Modeling & Design
 - **[Thomas Funkhouser](https://www.cs.princeton.edu/~funk/)** · Princeton University · United States · **A**<br>
   Shape Analysis & Geometric Learning · 3D Vision & Reconstruction
 - **[Tino Weinkauf](https://www.csc.kth.se/~weinkauf/)** · KTH Royal Institute of Technology · Sweden · **A**<br>
@@ -279,6 +295,8 @@ A discovery tag based on field influence and research visibility, not a formal r
 
 ## W
 
+- **[Weiwei Xu](http://www.cad.zju.edu.cn/home/weiweixu/weiweixu_en.htm)** · Zhejiang University · China · **A**<br>
+  3D Vision & Reconstruction · Simulation & Animation · Geometric Modeling & Design
 - **[Wenping Wang](https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html)** · Texas A&M University · United States · **A**<br>
   Geometric Modeling & Design · 3D Vision & Reconstruction — *Previously at HKU*
 - **[Wenzel Jakob](https://rgl.epfl.ch/people/wjakob/)** · EPFL · Switzerland · **A**<br>
@@ -292,6 +310,8 @@ A discovery tag based on field influence and research visibility, not a formal r
 
 - **[Xianfeng David Gu](https://www3.cs.stonybrook.edu/~gu/)** · Stony Brook University · United States · **A**<br>
   Discrete Geometry · Shape Analysis & Geometric Learning
+- **[Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin/)** · Zhejiang University · China · **A**<br>
+  Geometric Modeling & Design · Simulation & Animation
 
 [Back to top ↑](#top)
 
@@ -303,5 +323,11 @@ A discovery tag based on field influence and research visibility, not a formal r
   Shape Analysis & Geometric Learning · Mesh & Surface Processing
 - **[Ying He](https://www.ntu.edu.sg/scse/about-us/faculty-directory/ying-he)** · Nanyang Technological University · Singapore · **A**<br>
   Shape Analysis & Geometric Learning · 3D Vision & Reconstruction
+- **[Yizhou Yu](https://i.cs.hku.hk/~yzyu/)** · University of Hong Kong · Hong Kong · **A**<br>
+  Mesh & Surface Processing · Simulation & Animation · 3D Vision & Reconstruction
+- **[Yong-Jin Liu](https://cg.cs.tsinghua.edu.cn/people/~Yongjin/Yongjin.htm)** · Tsinghua University · China · **A**<br>
+  Computational Geometry & Topology · Geometric Modeling & Design
+- **[Yung-Yu Chuang](https://www.csie.ntu.edu.tw/~cyy/)** · National Taiwan University · Taiwan · **A**<br>
+  Visualization & Rendering · Shape Analysis & Geometric Learning · 3D Vision & Reconstruction
 
 [Back to top ↑](#top)

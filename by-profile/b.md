@@ -6,7 +6,7 @@
 
 A discovery tag based on field influence and research visibility, not a formal ranking.
 
-**Jump to:** [A](#group-a) · [C](#group-c) · [E](#group-e) · [J](#group-j) · [M](#group-m) · [N](#group-n) · [P](#group-p) · [R](#group-r) · [S](#group-s) · [T](#group-t)
+**Jump to:** [A](#group-a) · [C](#group-c) · [D](#group-d) · [E](#group-e) · [H](#group-h) · [J](#group-j) · [L](#group-l) · [M](#group-m) · [N](#group-n) · [P](#group-p) · [R](#group-r) · [S](#group-s) · [T](#group-t) · [X](#group-x) · [Y](#group-y)
 
 <a id="group-a"></a>
 
@@ -30,12 +30,34 @@ A discovery tag based on field influence and research visibility, not a formal r
 
 [Back to top ↑](#top)
 
+<a id="group-d"></a>
+
+## D
+
+- **[Dong-Ming Yan](https://sites.google.com/site/yandongming/)** · Institute of Automation, Chinese Academy of Sciences · China · **B**<br>
+  Mesh & Surface Processing · Geometric Modeling & Design — *Research institute appointment*
+
+[Back to top ↑](#top)
+
 <a id="group-e"></a>
 
 ## E
 
 - **[Enrico Puppo](http://www.disi.unige.it/person/PuppoE/)** · University of Genoa · Italy · **B**<br>
   Mesh & Surface Processing · 3D Vision & Reconstruction
+
+[Back to top ↑](#top)
+
+<a id="group-h"></a>
+
+## H
+
+- **[Haisen Zhao](https://haisenzhao.github.io/)** · Shandong University · China · **B**<br>
+  Geometric Modeling & Design · Mesh & Surface Processing
+- **[Hao Pan](https://haopan.github.io/)** · Tsinghua University · China · **B**<br>
+  Geometric Modeling & Design · Mesh & Surface Processing · Shape Analysis & Geometric Learning — *Joined Tsinghua in September 2024; previously at Microsoft Research Asia*
+- **[Hongwei Lin](http://www.cad.zju.edu.cn/home/hwlin/index_en.html)** · Zhejiang University · China · **B**<br>
+  Geometric Modeling & Design · Computational Geometry & Topology — *Older faculty homepage; current appointment needs rechecking*
 
 [Back to top ↑](#top)
 
@@ -47,6 +69,15 @@ A discovery tag based on field influence and research visibility, not a formal r
   Mesh & Surface Processing · 3D Vision & Reconstruction
 - **[Julian Panetta](https://julianpanetta.com/)** · University of California, Davis · United States · **B**<br>
   Geometric Modeling & Design · Simulation & Animation
+
+[Back to top ↑](#top)
+
+<a id="group-l"></a>
+
+## L
+
+- **[Lin Lu](https://irc.cs.sdu.edu.cn/~lulin/index.html)** · Shandong University · China · **B**<br>
+  Geometric Modeling & Design · Mesh & Surface Processing
 
 [Back to top ↑](#top)
 
@@ -75,7 +106,7 @@ A discovery tag based on field influence and research visibility, not a formal r
 ## P
 
 - **[Peng-Shuai Wang](https://wang-ps.github.io/)** · Peking University · China · **B**<br>
-  Shape Analysis & Geometric Learning · 3D Vision & Reconstruction — *PKU appointment needs verification*
+  Shape Analysis & Geometric Learning · 3D Vision & Reconstruction
 
 [Back to top ↑](#top)
 
@@ -92,6 +123,8 @@ A discovery tag based on field influence and research visibility, not a formal r
 
 ## S
 
+- **[Shiqing Xin](https://irc.cs.sdu.edu.cn/~shiqing/index.html)** · Shandong University · China · **B**<br>
+  Mesh & Surface Processing · Computational Geometry & Topology
 - **[Siddhartha Chaudhuri](https://www.cse.iitb.ac.in/~siddhartha/)** · IIT Bombay · India · **B**<br>
   Geometric Modeling & Design · Shape Analysis & Geometric Learning
 
@@ -103,5 +136,23 @@ A discovery tag based on field influence and research visibility, not a formal r
 
 - **[Tamy Boubekeur](https://perso.telecom-paristech.fr/boubek/)** · Télécom Paris · France · **B**<br>
   Geometric Modeling & Design · Mesh & Surface Processing — *Older homepage; verify appointment*
+
+[Back to top ↑](#top)
+
+<a id="group-x"></a>
+
+## X
+
+- **[Xiao-Ming Fu](http://staff.ustc.edu.cn/~fuxm/)** · University of Science and Technology of China · China · **B**<br>
+  Mesh & Surface Processing · Geometric Modeling & Design
+
+[Back to top ↑](#top)
+
+<a id="group-y"></a>
+
+## Y
+
+- **[Yang Liu](https://xueyuhanlang.github.io/)** · Microsoft Research Asia · China · **B**<br>
+  Mesh & Surface Processing · Geometric Modeling & Design — *Principal Researcher; industry research appointment*
 
 [Back to top ↑](#top)

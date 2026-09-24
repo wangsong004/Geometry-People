@@ -4,18 +4,9 @@
 
 # Researchers in Other Asia
 
-**5 researchers.** Browse by country, then by name. Locations follow the existing catalog and may need verification.
+**4 researchers.** Browse by institution location, then by name. These are geographic groupings, not nationality labels.
 
-**Jump to:** [Hong Kong](#group-hong-kong) · [India](#group-india) · [Saudi Arabia](#group-saudi-arabia) · [Singapore](#group-singapore) · [South Korea](#group-south-korea)
-
-<a id="group-hong-kong"></a>
-
-## Hong Kong
-
-- **[Siu-Wing Cheng](https://www.cs.ust.hk/~scheng/)** · Hong Kong University of Science and Technology · Hong Kong · **A**<br>
-  Computational Geometry & Topology · Mesh & Surface Processing
-
-[Back to top ↑](#top)
+**Jump to:** [India](#group-india) · [Saudi Arabia](#group-saudi-arabia) · [Singapore](#group-singapore) · [South Korea](#group-south-korea)
 
 <a id="group-india"></a>
 
